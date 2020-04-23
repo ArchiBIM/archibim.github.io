@@ -5,39 +5,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
     <link rel="icon" type="image/png" href="assets/favicon.png">
-    <title>VR Projects List</title>
-    <style type="text/css">
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-        }
-        
-        a {
-            text-decoration: none;
-            font-weight: bold;
-            background-color: midnightblue;
-            color: lightgrey;
-            padding: 10px;
-            border-radius: 5px;
-            box-shadow: 3px 3px 5px grey;
-        }
-        
-        a:hover {
-            color: white;
-        }
-        
-        a:focus {
-            background-color: blue;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.6/handlebars.js"></script>
+    <title>ArchiBIM previews page</title>
 </head>
 
 <body>
-    <h1>VR Projects List</h1>
+    <header>
+        <div class="heading">ArchiBIM</div>
+        <div class="side-info">list of web hosted VR previews</div>
+    </header>
     <div id="container">
-        <a href="/SMC Paisley 3 floor/index.html">SMC Paisley 3-rd floor</a>
     </div>
+    <script id="entry-template" type="text/x-handlebars-template">
+        {{#each dirs as |item i|}}
+        <a href="projects/{{this}}/index.html">{{addone i}}. {{this}}</a> {{/each}}
+    </script>
+    <script id="parser" src="js/parser.js"></script>
 </body>
 
 </html>
