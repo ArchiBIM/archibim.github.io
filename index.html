@@ -14,14 +14,20 @@
 <body>
     <header>
         <div class="heading">ArchiBIM</div>
-        <div class="side-info">list of web hosted VR previews</div>
+        <div class="side-info">list of web hosted VR wireframe previews</div>
     </header>
     <div id="container">
     </div>
     <script id="entry-template" type="text/x-handlebars-template">
-        {{#each dirs as |item i|}}
-        <a href="projects/{{this}}/index.html">{{addone i}}. {{this}}</a> {{/each}}
+        {{#each clients}}
+        <div class="group">
+            <div class="client">{{name}}</div>
+            {{#each dirs as |item i|}}
+            <a href="projects/{{this}}/index.html" target="_blank">{{addone i}}. {{this}}</a> {{/each}}
+        </div>
+        {{/each}}
     </script>
+    <script id="list" src="list.js"></script>
     <script id="parser" src="js/parser.js"></script>
 </body>
 
