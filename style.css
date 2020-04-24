@@ -54,6 +54,12 @@ header {
     float: right;
 }
 
+@media (max-width: 600px) {
+    .side-info {
+        float: none;
+    }
+}
+
 #container {
     margin: 20px;
 }
