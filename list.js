@@ -6,13 +6,11 @@ var data = {
                 "SMC Paisley - WSG - 3rd floor",
             ]
         },
-        // {
-        //     name: "VMH",
-        //     dirs: [
-        //         "VMH Test 1",
-        //         "VMH Test 2",
-        //         "VMH Test 3",
-        //     ]
-        // },
+        {
+            name: "NVR",
+            dirs: [
+                "NVR Unit 319 D3.2",
+            ]
+        },
     ]
 }

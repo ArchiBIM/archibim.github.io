@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node4" apprev="17904" appversion="6.1.3">
+  <panorama id="node4">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2500" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2500" overlap="1">
+      <level preload="0" height="2500" predecode="0" width="2500"/>
+      <level preload="0" height="1250" predecode="0" width="1250"/>
+      <level preload="0" height="625" predecode="0" width="625"/>
+      <level preload="1" height="312" predecode="1" width="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" heading="180" description="NVR-2002 Bexley - Unit 319 (D3.2)" latitude="" author="Viktor Galov" source="" copyright="ArchiBIM" longitude="" datetime="22.04.2020" comment="" info="" tags="VRs" title="Entrance" nodeid="node4">
+      <mapcoords x_floorplan_percent="56.705" y="-0.269165" mapid="FloorPlan" y_floorplan_percent="11.7788" x="1.21948"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" borderalpha="1" bordercolor="0x000000" height="20" backgroundalpha="1" background="1" width="180" wordwrap="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" border="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot id="Point01" tilt="-3.39" url="{node5}" pan="-9.51" target="" description="" skinid="ht_node" title="Living Room"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendtime="2" type="crossdissolve" zoomspeed="0.7" zoomout="0" enabled="1" blendcolor="0x727a7e" zoomfov="50" zoomoutpause="0"/>
+    <autorotate useanimation="0" speed="0.040" noderandom="1" nodefilter="" startloaded="0" enabled="1" delay="14.00" nodedelay="100.00" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control simulatemass="1" invertwheel="0" sensitivity="8" contextfullscreen="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2500" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2500" overlap="1">
+      <level preload="0" height="2500" predecode="0" width="2500"/>
+      <level preload="0" height="1250" predecode="0" width="1250"/>
+      <level preload="0" height="625" predecode="0" width="625"/>
+      <level preload="1" height="312" predecode="1" width="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" heading="180" description="NVR-2002 Bexley - Unit 319 (D3.2)" latitude="" author="Viktor Galov" source="" copyright="ArchiBIM" longitude="" datetime="22.04.2020" comment="" info="" tags="VRs" title="Living Room" nodeid="node5">
+      <mapcoords x_floorplan_percent="50.8301" y="-1.28815" mapid="FloorPlan" y_floorplan_percent="56.3702" x="1.09314"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" borderalpha="1" bordercolor="0x000000" height="20" backgroundalpha="1" background="1" width="180" wordwrap="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" border="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot id="Point01" tilt="-6.57" url="{node2}" pan="-256.03" target="" description="" skinid="ht_node" title="Bedroom2"/>
+      <hotspot id="Point02" tilt="-2.77" url="{node4}" pan="-192.03" target="" description="" skinid="ht_node" title="Entrance"/>
+      <hotspot id="Point03" tilt="-5.94" url="{node3}" pan="-91.61" target="" description="" skinid="ht_node" title="Bedroom"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendtime="2" type="crossdissolve" zoomspeed="0.7" zoomout="0" enabled="1" blendcolor="0x727a7e" zoomfov="50" zoomoutpause="0"/>
+    <autorotate useanimation="0" speed="0.040" noderandom="1" nodefilter="" startloaded="0" enabled="1" delay="14.00" nodedelay="100.00" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control simulatemass="1" invertwheel="0" sensitivity="8" contextfullscreen="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2500" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2500" overlap="1">
+      <level preload="0" height="2500" predecode="0" width="2500"/>
+      <level preload="0" height="1250" predecode="0" width="1250"/>
+      <level preload="0" height="625" predecode="0" width="625"/>
+      <level preload="1" height="312" predecode="1" width="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" heading="180" description="NVR-2002 Bexley - Unit 319 (D3.2)" latitude="" author="Viktor Galov" source="" copyright="ArchiBIM" longitude="" datetime="22.04.2020" comment="" info="" tags="VRs" title="Bedroom" nodeid="node3">
+      <mapcoords x_floorplan_percent="12.516" y="-1.29913" mapid="FloorPlan" y_floorplan_percent="56.851" x="0.269165"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" borderalpha="1" bordercolor="0x000000" height="20" backgroundalpha="1" background="1" width="180" wordwrap="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" border="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot id="Point01" tilt="-6.51" url="{node5}" pan="-266.89" target="" description="" skinid="ht_node" title="Living Room"/>
+      <hotspot id="Point02" tilt="-13.38" url="{node1}" pan="-178.14" target="" description="" skinid="ht_node" title="Bathroom"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendtime="2" type="crossdissolve" zoomspeed="0.7" zoomout="0" enabled="1" blendcolor="0x727a7e" zoomfov="50" zoomoutpause="0"/>
+    <autorotate useanimation="0" speed="0.040" noderandom="1" nodefilter="" startloaded="0" enabled="1" delay="14.00" nodedelay="100.00" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control simulatemass="1" invertwheel="0" sensitivity="8" contextfullscreen="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2500" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2500" overlap="1">
+      <level preload="0" height="2500" predecode="0" width="2500"/>
+      <level preload="0" height="1250" predecode="0" width="1250"/>
+      <level preload="0" height="625" predecode="0" width="625"/>
+      <level preload="1" height="312" predecode="1" width="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" heading="180" description="NVR-2002 Bexley - Unit 319 (D3.2)" latitude="" author="Viktor Galov" source="" copyright="ArchiBIM" longitude="" datetime="22.04.2020" comment="" info="" tags="VRs" title="Bedroom2" nodeid="node2">
+      <mapcoords x_floorplan_percent="74.7765" y="-1.20163" mapid="FloorPlan" y_floorplan_percent="52.5841" x="1.60812"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" borderalpha="1" bordercolor="0x000000" height="20" backgroundalpha="1" background="1" width="180" wordwrap="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" border="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot id="Point01" tilt="-14.28" url="{node5}" pan="-83.36" target="" description="" skinid="ht_node" title="Living Room"/>
+      <hotspot id="Point02" tilt="-3.5" url="{node3}" pan="-83.35" target="" description="" skinid="ht_node" title="Bedroom"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendtime="2" type="crossdissolve" zoomspeed="0.7" zoomout="0" enabled="1" blendcolor="0x727a7e" zoomfov="50" zoomoutpause="0"/>
+    <autorotate useanimation="0" speed="0.040" noderandom="1" nodefilter="" startloaded="0" enabled="1" delay="14.00" nodedelay="100.00" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control simulatemass="1" invertwheel="0" sensitivity="8" contextfullscreen="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2500" overlap="1">
+      <level preload="0" height="2500" predecode="0" width="2500"/>
+      <level preload="0" height="1250" predecode="0" width="1250"/>
+      <level preload="0" height="625" predecode="0" width="625"/>
+      <level preload="1" height="312" predecode="1" width="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" fov="120" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" heading="180" description="NVR-2002 Bexley - Unit 319 (D3.2)" latitude="" author="Viktor Galov" source="" copyright="ArchiBIM" longitude="" datetime="22.04.2020" comment="" info="" tags="VRs" title="Bathroom" nodeid="node1">
+      <mapcoords x_floorplan_percent="12.2605" y="-0.898132" mapid="FloorPlan" y_floorplan_percent="39.3029" x="0.263672"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textalpha="1" borderalpha="1" bordercolor="0x000000" height="20" backgroundalpha="1" background="1" width="180" wordwrap="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" border="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0"/>
+      <hotspot id="Point01" tilt="-10.52" url="{node3}" pan="-359.64" target="" description="" skinid="ht_node" title="Bedroom"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendtime="2" type="crossdissolve" zoomspeed="0.7" zoomout="0" enabled="1" blendcolor="0x727a7e" zoomfov="50" zoomoutpause="0"/>
+    <autorotate useanimation="0" speed="0.040" noderandom="1" nodefilter="" startloaded="0" enabled="1" delay="14.00" nodedelay="100.00" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control simulatemass="1" invertwheel="0" sensitivity="8" contextfullscreen="1" speedwheel="1" rubberband="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" hideabout="0" lockedmouse="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata customnodeid="" heading="0" description="" latitude="" author="" source="" copyright="" longitude="" datetime="" comment="" info="" tags="" title="" nodeid="master"/>
+  </masternode>
+  <map id="FloorPlan" tileformat="png" bgcolor="rgba(214, 214, 214, 0.556863)" type="file" height="1664" transparent="0" width="1566" zoomlevels="1" floorplannorth="0" title="NVR-2002 Bexley - Unit 319 (D3.2)"/>
+</tour>
