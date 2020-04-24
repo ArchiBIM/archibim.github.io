@@ -2,9 +2,8 @@ var data = {
     clients: [{
             name: "SMC",
             dirs: [
-                "SMC Paisley 3 floor",
-                "SMC Paisley 4 floor",
-                "SMC Paisley roof",
+                "SMC Pailsey - WSG - All floors",
+                "SMC Pailsey - WSG - 3rd floor",
             ]
         },
         // {
