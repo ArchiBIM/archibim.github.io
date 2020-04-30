@@ -4,6 +4,7 @@ var data = {
             dirs: [
                 "SMC Paisley - WSG - 3rd floor",
                 "SMC Paisley - WSG - 3rd floor",
+                "SMC Paisley - WSG - Clay",
             ]
         },
         {
