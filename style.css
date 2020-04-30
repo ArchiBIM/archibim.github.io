@@ -6,6 +6,7 @@ body {
 }
 
 .client {
+    max-width: 350px;
     margin: 1px;
     display: block;
     text-decoration: none;
@@ -25,7 +26,8 @@ a:focus {
 }
 
 a {
-    margin: 1px;
+    max-width: 330px;
+    margin: 1px 0 1px 20px;
     display: none;
     text-decoration: none;
     background-color: white;
