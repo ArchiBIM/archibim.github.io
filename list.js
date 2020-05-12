@@ -13,5 +13,11 @@ var data = {
                 "NVR Unit 319 D3.2",
             ]
         },
+		{
+			name: "KHOV",
+			dirs: [
+				"KHOV Pender Oaks Unit F Royce",
+			]
+		}
     ]
 }
