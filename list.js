@@ -19,6 +19,7 @@ var data = {
             name: "KHOV",
             dirs: [
                 "KHOV Pender Oaks Unit F Royce",
+				"KHOV Pender Oaks Unit B Copeland",
             ]
         }
     ]
