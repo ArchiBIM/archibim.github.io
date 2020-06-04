@@ -12,14 +12,18 @@ var data = {
         {
             name: "NVR",
             dirs: [
-                "NVR Unit 319 D3.2",
+                //"NVR Unit 319 D3.2",
             ]
         },
         {
             name: "KHOV",
             dirs: [
+				"KHOV Pender Oaks Unit F Royce Color",
                 "KHOV Pender Oaks Unit F Royce",
 				"KHOV Pender Oaks Unit B Copeland",
+				"KHOV Pender Oaks Unit C Dunbar",
+				"KHOV Pender Oaks Unit D Evert",
+				"KHOV Pender Oaks Unit E Larkin",
             ]
         }
     ]

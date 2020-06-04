@@ -1,216 +1,233 @@
 var APP_DATA = {
-    "scenes": [{
-            "id": "0-khov-2001-vr-pender-oaks_f-unit-royce_kitchen-living",
-            "name": "Kitchen-Living",
-            "levels": [{
-                    "tileSize": 256,
-                    "size": 256,
-                    "fallbackOnly": true
-                },
-                {
-                    "tileSize": 512,
-                    "size": 512
-                },
-                {
-                    "tileSize": 512,
-                    "size": 1024
-                }
-            ],
-            "faceSize": 1000,
-            "initialViewParameters": {
-                "yaw": 0,
-                "pitch": 0,
-                "fov": 1.4108347438219848
-            },
-            "linkHotspots": [{
-                "yaw": 0.8967545584739351,
-                "pitch": 0.13250117251477,
-                "rotation": 0,
-                "target": "1-khov-2001-vr-pender-oaks_f-unit-royce_foyer-kitchen"
-            }],
-            "infoHotspots": []
+  "scenes": [
+    {
+      "id": "0-1-living-room",
+      "name": "1 Living Room",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
         },
         {
-            "id": "1-khov-2001-vr-pender-oaks_f-unit-royce_foyer-kitchen",
-            "name": "Foyer-Kitchen",
-            "levels": [{
-                    "tileSize": 256,
-                    "size": 256,
-                    "fallbackOnly": true
-                },
-                {
-                    "tileSize": 512,
-                    "size": 512
-                },
-                {
-                    "tileSize": 512,
-                    "size": 1024
-                }
-            ],
-            "faceSize": 1000,
-            "initialViewParameters": {
-                "yaw": 0,
-                "pitch": 0,
-                "fov": 1.4108347438219848
-            },
-            "linkHotspots": [{
-                    "yaw": -0.8885817667421492,
-                    "pitch": 0.2974910730419609,
-                    "rotation": 0,
-                    "target": "0-khov-2001-vr-pender-oaks_f-unit-royce_kitchen-living"
-                },
-                {
-                    "yaw": 2.9753585356330845,
-                    "pitch": 0.4268000282882962,
-                    "rotation": 0,
-                    "target": "4-khov-2001-vr-pender-oaks_f-unit-royce_bedroom-2"
-                },
-                {
-                    "yaw": 1.3125257318155174,
-                    "pitch": 0.413288205248719,
-                    "rotation": 0,
-                    "target": "3-khov-2001-vr-pender-oaks_f-unit-royce_master-bathroom"
-                }
-            ],
-            "infoHotspots": []
+          "tileSize": 512,
+          "size": 512
         },
         {
-            "id": "2-khov-2001-vr-pender-oaks_f-unit-royce_master-bedroom",
-            "name": "Master Bedroom",
-            "levels": [{
-                    "tileSize": 256,
-                    "size": 256,
-                    "fallbackOnly": true
-                },
-                {
-                    "tileSize": 512,
-                    "size": 512
-                },
-                {
-                    "tileSize": 512,
-                    "size": 1024
-                }
-            ],
-            "faceSize": 1000,
-            "initialViewParameters": {
-                "yaw": 0,
-                "pitch": 0,
-                "fov": 1.4108347438219848
-            },
-            "linkHotspots": [{
-                "yaw": 3.118732809070579,
-                "pitch": 0.24247081293625428,
-                "rotation": 0,
-                "target": "3-khov-2001-vr-pender-oaks_f-unit-royce_master-bathroom"
-            }],
-            "infoHotspots": []
-        },
-        {
-            "id": "3-khov-2001-vr-pender-oaks_f-unit-royce_master-bathroom",
-            "name": "Master Bathroom",
-            "levels": [{
-                    "tileSize": 256,
-                    "size": 256,
-                    "fallbackOnly": true
-                },
-                {
-                    "tileSize": 512,
-                    "size": 512
-                },
-                {
-                    "tileSize": 512,
-                    "size": 1024
-                }
-            ],
-            "faceSize": 1000,
-            "initialViewParameters": {
-                "yaw": -1.6758749966606458,
-                "pitch": 0.0036788389669411003,
-                "fov": 1.4108347438219848
-            },
-            "linkHotspots": [{
-                    "yaw": -0.4221842315345672,
-                    "pitch": 0.3940955742877854,
-                    "rotation": 0,
-                    "target": "2-khov-2001-vr-pender-oaks_f-unit-royce_master-bedroom"
-                },
-                {
-                    "yaw": -0.906042437180421,
-                    "pitch": 0.5657052412690628,
-                    "rotation": 0,
-                    "target": "1-khov-2001-vr-pender-oaks_f-unit-royce_foyer-kitchen"
-                }
-            ],
-            "infoHotspots": []
-        },
-        {
-            "id": "4-khov-2001-vr-pender-oaks_f-unit-royce_bedroom-2",
-            "name": "Bedroom 2",
-            "levels": [{
-                    "tileSize": 256,
-                    "size": 256,
-                    "fallbackOnly": true
-                },
-                {
-                    "tileSize": 512,
-                    "size": 512
-                },
-                {
-                    "tileSize": 512,
-                    "size": 1024
-                }
-            ],
-            "faceSize": 1000,
-            "initialViewParameters": {
-                "pitch": 0,
-                "yaw": 0,
-                "fov": 1.5707963267948965
-            },
-            "linkHotspots": [{
-                "yaw": 3.0531868816970426,
-                "pitch": 0.23581798343611737,
-                "rotation": 0,
-                "target": "5-khov-2001-vr-pender-oaks_f-unit-royce_bathroom-2"
-            }],
-            "infoHotspots": []
-        },
-        {
-            "id": "5-khov-2001-vr-pender-oaks_f-unit-royce_bathroom-2",
-            "name": "Bathroom 2",
-            "levels": [{
-                    "tileSize": 256,
-                    "size": 256,
-                    "fallbackOnly": true
-                },
-                {
-                    "tileSize": 512,
-                    "size": 512
-                },
-                {
-                    "tileSize": 512,
-                    "size": 1024
-                }
-            ],
-            "faceSize": 1000,
-            "initialViewParameters": {
-                "yaw": -0.7903448203873289,
-                "pitch": 0.005839124357194692,
-                "fov": 1.4108347438219848
-            },
-            "linkHotspots": [{
-                "yaw": 1.0876206875841116,
-                "pitch": 0.2881376692694104,
-                "rotation": 0,
-                "target": "1-khov-2001-vr-pender-oaks_f-unit-royce_foyer-kitchen"
-            }],
-            "infoHotspots": []
+          "tileSize": 512,
+          "size": 1024
         }
-    ],
-    "name": "Project Title",
-    "settings": {
-        "mouseViewMode": "drag",
-        "autorotateEnabled": true,
-        "fullscreenButton": true,
-        "viewControlButtons": false
+      ],
+      "faceSize": 1000,
+      "initialViewParameters": {
+        "yaw": 0.7056785470995202,
+        "pitch": -0.020859214985996744,
+        "fov": 1.3046490827601978
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.3256069049455501,
+          "pitch": 0.3070805739617697,
+          "rotation": 0,
+          "target": "1-2-dining---kitchen"
+        },
+        {
+          "yaw": 1.1283055806925475,
+          "pitch": 0.280242200257252,
+          "rotation": 0,
+          "target": "2-3-master-bedroom"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "1-2-dining---kitchen",
+      "name": "2 Dining - Kitchen",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1000,
+      "initialViewParameters": {
+        "yaw": -0.39874014516634304,
+        "pitch": -0.015169687223890449,
+        "fov": 1.3046490827601978
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.8765710909294224,
+          "pitch": 0.34148461513197326,
+          "rotation": 0,
+          "target": "0-1-living-room"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "2-3-master-bedroom",
+      "name": "3 Master Bedroom",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1000,
+      "initialViewParameters": {
+        "yaw": -2.6424900818718697,
+        "pitch": 0.010342927147382497,
+        "fov": 1.3046490827601978
+      },
+      "linkHotspots": [
+        {
+          "yaw": 3.1246583020656225,
+          "pitch": 0.261490464718797,
+          "rotation": 0,
+          "target": "3-4-master-bathroom"
+        },
+        {
+          "yaw": 3.0283803468166637,
+          "pitch": 0.45269262766544927,
+          "rotation": 0,
+          "target": "0-1-living-room"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "3-4-master-bathroom",
+      "name": "4 Master Bathroom",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1000,
+      "initialViewParameters": {
+        "yaw": 0,
+        "pitch": 0,
+        "fov": 1.3046490827601978
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.4598105671263184,
+          "pitch": 0.48657457216630995,
+          "rotation": 0,
+          "target": "2-3-master-bedroom"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "4-5-bedroom-2",
+      "name": "5 Bedroom 2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1000,
+      "initialViewParameters": {
+        "yaw": 1.4941728766647762,
+        "pitch": 0.014427817906575768,
+        "fov": 1.3046490827601978
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.2820038823959683,
+          "pitch": 0.3919297026028019,
+          "rotation": 0,
+          "target": "0-1-living-room"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-6-bathroom-2",
+      "name": "6 Bathroom 2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1000,
+      "initialViewParameters": {
+        "yaw": -0.273399135987372,
+        "pitch": 1.0027990014949424,
+        "fov": 1.3046490827601978
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.082002480614996,
+          "pitch": 0.3160065992240302,
+          "rotation": 0,
+          "target": "0-1-living-room"
+        },
+        {
+          "yaw": 1.2458296979005468,
+          "pitch": 0.26858428694830216,
+          "rotation": 0,
+          "target": "1-2-dining---kitchen"
+        }
+      ],
+      "infoHotspots": []
     }
+  ],
+  "name": "KHOV Pender Oaks Unit F Royce",
+  "settings": {
+    "mouseViewMode": "drag",
+    "autorotateEnabled": false,
+    "fullscreenButton": true,
+    "viewControlButtons": true
+  }
 };
