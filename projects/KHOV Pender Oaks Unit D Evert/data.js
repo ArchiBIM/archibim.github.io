@@ -1,186 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-1-foyer",
-      "name": "1 Foyer",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1000,
-      "initialViewParameters": {
-        "yaw": 0.015604360789538418,
-        "pitch": 0.020859214985989638,
-        "fov": 1.3046490827601978
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.20869719035370693,
-          "pitch": 0.31094455359596296,
-          "rotation": 0,
-          "target": "1-2-dining-kitchen"
-        },
-        {
-          "yaw": -0.0484866097726151,
-          "pitch": 0.21348347868893214,
-          "rotation": 0,
-          "target": "2-3-living-room"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "1-2-dining-kitchen",
-      "name": "2 Dining-Kitchen",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1000,
-      "initialViewParameters": {
-        "yaw": 0.021051368179570318,
-        "pitch": 0.07309714192710004,
-        "fov": 1.3046490827601978
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.7234073074780287,
-          "pitch": 0.4699408825516933,
-          "rotation": 0,
-          "target": "0-1-foyer"
-        },
-        {
-          "yaw": -1.5895193091293702,
-          "pitch": 0.30405464710932684,
-          "rotation": 0,
-          "target": "4-5-bathroom-2"
-        },
-        {
-          "yaw": -2.8317405340882225,
-          "pitch": 0.47703894594504703,
-          "rotation": 0,
-          "target": "2-3-living-room"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "2-3-living-room",
-      "name": "3 Living Room",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1000,
-      "initialViewParameters": {
-        "yaw": 0.07279938199681979,
-        "pitch": -0.0008850008074574589,
-        "fov": 1.2052535788697876
-      },
-      "linkHotspots": [
-        {
-          "yaw": 0.15771796350299283,
-          "pitch": 0.354820852337312,
-          "rotation": 0,
-          "target": "1-2-dining-kitchen"
-        },
-        {
-          "yaw": -0.16607041447900528,
-          "pitch": 0.24498643984585122,
-          "rotation": 0,
-          "target": "0-1-foyer"
-        },
-        {
-          "yaw": 0.4653665596464176,
-          "pitch": 0.3080640009149711,
-          "rotation": 0,
-          "target": "5-6-master-bedroom"
-        },
-        {
-          "yaw": -0.39957772698146243,
-          "pitch": 0.3776312198013372,
-          "rotation": 0,
-          "target": "3-4-bedroom-2"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "3-4-bedroom-2",
-      "name": "4 Bedroom 2",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1000,
-      "initialViewParameters": {
-        "yaw": -0.3976001127050548,
-        "pitch": 0.02356094877633197,
-        "fov": 1.3046490827601978
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.1193415338460202,
-          "pitch": 0.28523977515367704,
-          "rotation": 0,
-          "target": "1-2-dining-kitchen"
-        },
-        {
-          "yaw": -0.1846548473049623,
-          "pitch": 0.44815211447705217,
-          "rotation": 0,
-          "target": "2-3-living-room"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "4-5-bathroom-2",
-      "name": "5 Bathroom 2",
+      "id": "0-foyer-den",
+      "name": "Foyer-Den",
       "levels": [
         {
           "tileSize": 256,
@@ -204,63 +26,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.33990602600319875,
-          "pitch": 0.3444836254256778,
+          "yaw": 1.047452453656101,
+          "pitch": 0.43705385593616164,
           "rotation": 0,
-          "target": "2-3-living-room"
+          "target": "1-kitchen-living"
         },
         {
-          "yaw": 0.005838057632189475,
-          "pitch": 0.621503983839677,
+          "yaw": 0.43849823256736187,
+          "pitch": 0.09322461740164023,
           "rotation": 0,
-          "target": "1-2-dining-kitchen"
+          "target": "2-master-bedroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "5-6-master-bedroom",
-      "name": "6 Master Bedroom",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1000,
-      "initialViewParameters": {
-        "yaw": -0.2698502361928483,
-        "pitch": 0.049303599057815006,
-        "fov": 1.3046490827601978
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.775066302485568,
-          "pitch": 0.3717565052222458,
-          "rotation": 0,
-          "target": "6-7-master-bathroom"
-        },
-        {
-          "yaw": 0.28957637327527763,
-          "pitch": 0.3881471234924483,
-          "rotation": 0,
-          "target": "2-3-living-room"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "6-7-master-bathroom",
-      "name": "7 Master Bathroom",
+      "id": "1-kitchen-living",
+      "name": "Kitchen-Living",
       "levels": [
         {
           "tileSize": 256,
@@ -284,10 +66,182 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.06097058835646152,
-          "pitch": 0.300560781105796,
+          "yaw": 2.798840963100064,
+          "pitch": 0.2677009181237935,
           "rotation": 0,
-          "target": "5-6-master-bedroom"
+          "target": "0-foyer-den"
+        },
+        {
+          "yaw": -2.3297619480171328,
+          "pitch": 0.4677327821717121,
+          "rotation": 0,
+          "target": "2-master-bedroom"
+        },
+        {
+          "yaw": 1.8840278946144045,
+          "pitch": 0.35104587596415904,
+          "rotation": 0,
+          "target": "5-bathroom-2"
+        },
+        {
+          "yaw": 1.8045450603370057,
+          "pitch": 0.5097594693554797,
+          "rotation": 0,
+          "target": "4-bedroom-2"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "2-master-bedroom",
+      "name": "Master Bedroom",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1000,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.932452230442994,
+          "pitch": 0.3366182758239269,
+          "rotation": 0,
+          "target": "3-master-bathroom"
+        },
+        {
+          "yaw": 2.2764700772542055,
+          "pitch": 0.3947859396656881,
+          "rotation": 0,
+          "target": "1-kitchen-living"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "3-master-bathroom",
+      "name": "Master Bathroom",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1000,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.2881473750298866,
+          "pitch": 0.3265033779307167,
+          "rotation": 0,
+          "target": "2-master-bedroom"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "4-bedroom-2",
+      "name": "Bedroom 2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1000,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.575533742961115,
+          "pitch": 0.29311723202932427,
+          "rotation": 0,
+          "target": "1-kitchen-living"
+        },
+        {
+          "yaw": -2.975903629842291,
+          "pitch": 0.25533904021176923,
+          "rotation": 0,
+          "target": "5-bathroom-2"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-bathroom-2",
+      "name": "Bathroom 2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1000,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.0770434942524556,
+          "pitch": 0.34438133632750123,
+          "rotation": 0,
+          "target": "1-kitchen-living"
+        },
+        {
+          "yaw": 0.4038363691026543,
+          "pitch": 0.6158635338561655,
+          "rotation": 0,
+          "target": "4-bedroom-2"
         }
       ],
       "infoHotspots": []
@@ -296,8 +250,8 @@ var APP_DATA = {
   "name": "KHOV Pender Oaks Unit D Evert",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "autorotateEnabled": true,
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
