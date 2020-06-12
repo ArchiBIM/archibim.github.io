@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-third-floor-1",
-      "name": "Third Floor 1",
+      "id": "0-kitchen",
+      "name": "Kitchen",
       "levels": [
         {
           "tileSize": 256,
@@ -16,33 +16,37 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1920,
       "initialViewParameters": {
-        "yaw": 0.5877818513168016,
-        "pitch": 0.19194138573961794,
-        "fov": 1.2342559994395403
+        "yaw": -1.268551068176233,
+        "pitch": -0.06922988415502118,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 0.22464076501475816,
-          "pitch": 0.27699202547340995,
+          "yaw": -0.7809071122813691,
+          "pitch": 0.3847916081392171,
           "rotation": 0,
-          "target": "1-third-floor-2"
+          "target": "1-breakfast"
         },
         {
-          "yaw": 0.8357769628103675,
-          "pitch": 0.18280040213219095,
+          "yaw": 2.2244799888561264,
+          "pitch": 0.2773813447897915,
           "rotation": 0,
-          "target": "2-third-floor-3"
+          "target": "2-great-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-third-floor-2",
-      "name": "Third Floor 2",
+      "id": "1-breakfast",
+      "name": "Breakfast",
       "levels": [
         {
           "tileSize": 256,
@@ -56,33 +60,37 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "yaw": 0.3361828070179804,
+        "pitch": -0.038895909044445176,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 1.555896135173513,
-          "pitch": 0.2375263926500697,
+          "yaw": -0.5706633498745504,
+          "pitch": 0.16986166042659967,
           "rotation": 0,
-          "target": "0-third-floor-1"
+          "target": "2-great-room"
         },
         {
-          "yaw": -0.6665250261670366,
-          "pitch": 0.26238484755053904,
+          "yaw": 0.8104623176919894,
+          "pitch": 0.43716207359803505,
           "rotation": 0,
-          "target": "2-third-floor-3"
+          "target": "0-kitchen"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-third-floor-3",
-      "name": "Third Floor 3",
+      "id": "2-great-room",
+      "name": "Great Room",
       "levels": [
         {
           "tileSize": 256,
@@ -96,32 +104,36 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "yaw": -0.39799558148794745,
+        "pitch": -0.002992847441428026,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 0.5695633646421285,
-          "pitch": 0.2980968274158222,
+          "yaw": -0.8694855703832776,
+          "pitch": 0.35306290924666506,
           "rotation": 0,
-          "target": "1-third-floor-2"
+          "target": "0-kitchen"
         },
         {
-          "yaw": -0.4827553376107261,
-          "pitch": 0.1695590133748226,
+          "yaw": 0.03524863521657551,
+          "pitch": 0.195174572286831,
           "rotation": 0,
-          "target": "0-third-floor-1"
+          "target": "1-breakfast"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "SMC Paisley VR",
+  "name": "SMC Paisley 3-rd floor",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
