@@ -3,7 +3,7 @@ var data = {
             name: "SMC",
             dirs: [
                 "SMC Paisley - WSG - All floors",
-                "SMC Paisley - WSG - 3rd floor",
+                "SMC Paisley - WSG - floor 3, 4",
                 "SMC Paisley - WSG - Clay",
 				"SMC Magnolia Walk Amenity",
 				"SMC Paisley - WSG - Clay 2"
