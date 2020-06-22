@@ -32,5 +32,14 @@ var data = {
 				"EYA Midline - Reston - Unit B",
 			]
 		},
+		{
+			name: "FSC",
+			dirs: [
+			"FSC Dylan - Unit A3",
+			"FSC Dylan - Unit B1",
+			"FSC Dylan - Unit C5",
+			"FSC Dylan - Unit E1",
+			]
+		}
     ]
 }
