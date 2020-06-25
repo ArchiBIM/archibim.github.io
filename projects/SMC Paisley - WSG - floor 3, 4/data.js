@@ -289,6 +289,44 @@ var APP_DATA = {
         }
       ],
       "infoHotspots": []
+    },
+    {
+      "id": "7-4-th-fl-bathroom-2",
+      "name": "4-th fl. Bathroom 2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.1427128294987092,
+          "pitch": 0.5927647748633404,
+          "rotation": 0,
+          "target": "6-4-th-fl-master-bedroom"
+        }
+      ],
+      "infoHotspots": []
     }
   ],
   "name": "SMC Paisley - WSG - floor 3, 4",
