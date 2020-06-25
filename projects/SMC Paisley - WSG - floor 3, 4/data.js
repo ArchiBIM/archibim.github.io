@@ -1,51 +1,7 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-3-rd-fl-kitchen",
-      "name": "3-rd fl. Kitchen",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1920,
-      "initialViewParameters": {
-        "yaw": -0.7787952300299974,
-        "pitch": -0.0023168087415861294,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": 2.246662652566319,
-          "pitch": 0.3205373430604421,
-          "rotation": 0,
-          "target": "2-3-rd-fl-great-room"
-        },
-        {
-          "yaw": -0.8375397166666119,
-          "pitch": 0.43300080649333417,
-          "rotation": 0,
-          "target": "1-3-rd-fl-breakfast-room"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "1-3-rd-fl-breakfast-room",
+      "id": "0-3-rd-fl-breakfast-room",
       "name": "3-rd fl. Breakfast Room",
       "levels": [
         {
@@ -68,34 +24,28 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "yaw": 0.31406391135448253,
-        "pitch": -0.00416593569706869,
-        "fov": 1.97472710114271
+        "yaw": 0.24265846103743627,
+        "pitch": 0.09704632478761965,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -1.7629715709201825,
-          "pitch": 0.5382280938736059,
+          "yaw": -0.30703137120605284,
+          "pitch": 0.2562158340021927,
           "rotation": 0,
-          "target": "6-4-th-fl-master-bedroom"
+          "target": "1-3-rd-fl-great-room"
         },
         {
-          "yaw": -0.3081599929129517,
-          "pitch": 0.23201139408146787,
+          "yaw": 0.8384992411074741,
+          "pitch": 0.4726989906015113,
           "rotation": 0,
-          "target": "2-3-rd-fl-great-room"
-        },
-        {
-          "yaw": 0.8301835880140125,
-          "pitch": 0.45896608697854724,
-          "rotation": 0,
-          "target": "0-3-rd-fl-kitchen"
+          "target": "2-3-rd-fl-kitchen"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-3-rd-fl-great-room",
+      "id": "1-3-rd-fl-great-room",
       "name": "3-rd fl. Great Room",
       "levels": [
         {
@@ -118,29 +68,73 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "yaw": -0.5987634191289075,
-        "pitch": 0.0006570322906789272,
+        "yaw": -0.56090798424502,
+        "pitch": -0.002270862156244391,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -0.05010552298153925,
-          "pitch": 0.24814693582307612,
+          "yaw": -0.12294031431093622,
+          "pitch": 0.2909494649021447,
           "rotation": 0,
-          "target": "1-3-rd-fl-breakfast-room"
+          "target": "0-3-rd-fl-breakfast-room"
         },
         {
-          "yaw": -0.910292792319634,
-          "pitch": 0.3786103527598996,
+          "yaw": -1.2350088356342646,
+          "pitch": 0.4375441029406808,
           "rotation": 0,
-          "target": "0-3-rd-fl-kitchen"
+          "target": "2-3-rd-fl-kitchen"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-4-th-fl-bedroom-3",
-      "name": "4-th fl. Bedroom 3",
+      "id": "2-3-rd-fl-kitchen",
+      "name": "3-rd fl. Kitchen",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1920,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.6366592131797155,
+          "pitch": 0.4591188530855703,
+          "rotation": 0,
+          "target": "0-3-rd-fl-breakfast-room"
+        },
+        {
+          "yaw": 2.2498686849009673,
+          "pitch": 0.3719780952645557,
+          "rotation": 0,
+          "target": "1-3-rd-fl-great-room"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "3-4-th-fl-bathroom",
+      "name": "4-th fl. Bathroom",
       "levels": [
         {
           "tileSize": 256,
@@ -162,22 +156,16 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.13638414672835708,
-        "pitch": 0.38987012310743907,
-        "fov": 1.5707963267948966
+        "yaw": -2.543361740059048,
+        "pitch": 0.2054458362648841,
+        "fov": 1.5913338713560743
       },
       "linkHotspots": [
         {
-          "yaw": -1.871961497907094,
-          "pitch": 0.2272770173229688,
+          "yaw": -2.675306669435022,
+          "pitch": 0.5302754156045424,
           "rotation": 0,
           "target": "6-4-th-fl-master-bedroom"
-        },
-        {
-          "yaw": -2.104258563191827,
-          "pitch": 0.5595908028341405,
-          "rotation": 0,
-          "target": "4-4-th-fl-bedroom-2"
         }
       ],
       "infoHotspots": []
@@ -212,23 +200,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.791892463034661,
-          "pitch": 0.5700914386732894,
+          "yaw": 0.6616403059200753,
+          "pitch": 0.5376748608796085,
           "rotation": 0,
-          "target": "3-4-th-fl-bedroom-3"
-        },
-        {
-          "yaw": 2.0276545764413054,
-          "pitch": 0.37796963610384715,
-          "rotation": 0,
-          "target": "6-4-th-fl-master-bedroom"
+          "target": "5-4-th-fl-bedroom-3"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "5-4-th-fl-bathroom",
-      "name": "4-th fl. Bathroom",
+      "id": "5-4-th-fl-bedroom-3",
+      "name": "4-th fl. Bedroom 3",
       "levels": [
         {
           "tileSize": 256,
@@ -250,16 +232,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "yaw": -1.208047938573177,
+        "pitch": 0.510283621409517,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -2.636558034922393,
-          "pitch": 0.5229023630445404,
+          "yaw": -1.8574325318860048,
+          "pitch": 0.24627154211320246,
           "rotation": 0,
           "target": "6-4-th-fl-master-bedroom"
+        },
+        {
+          "yaw": -2.1226620180277482,
+          "pitch": 0.5712947562762345,
+          "rotation": 0,
+          "target": "4-4-th-fl-bedroom-2"
         }
       ],
       "infoHotspots": []
@@ -288,28 +276,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "yaw": -0.9256622578443618,
+        "pitch": 0.2797651073759031,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -1.4093625968837706,
-          "pitch": 0.461319131408759,
+          "yaw": -1.4045778934146789,
+          "pitch": 0.5145507745647198,
           "rotation": 0,
-          "target": "5-4-th-fl-bathroom"
-        },
-        {
-          "yaw": -3.0078000540635976,
-          "pitch": 0.7678465243810759,
-          "rotation": 0,
-          "target": "0-3-rd-fl-kitchen"
+          "target": "3-4-th-fl-bathroom"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "SMC Paisley - WSG - floors 3, 4",
+  "name": "SMC Paisley - WSG - floor 3, 4",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
