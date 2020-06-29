@@ -26,12 +26,22 @@ var data = {
 				"KHOV Pender Oaks Unit E Larkin",
             ]
         },
-	{
-		name: "EYA",
-		dirs: [
-			"EYA Midline - Reston - Unit B",
-			"EYA Midline - Reston - Unit C",
-		]
-	},
+		{
+			name: "EYA",
+			dirs: [
+			    "EYA Midline - Reston - Unit А",
+				"EYA Midline - Reston - Unit B",
+				"EYA Midline - Reston - Unit C",
+			]
+		},
+		{
+			name: "FSC",
+			dirs: [
+			"FSC Dylan - Unit A3",
+			"FSC Dylan - Unit B1",
+			"FSC Dylan - Unit C5",
+			"FSC Dylan - Unit E1",
+			]
+		}
     ]
 }

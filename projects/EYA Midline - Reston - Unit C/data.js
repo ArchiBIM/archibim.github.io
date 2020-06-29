@@ -26,20 +26,20 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.3031329812608696,
-          "pitch": 0.3977696674937121,
-          "rotation": 0,
-          "target": "1-1-st-floor-study"
-        },
-        {
-          "yaw": 0.11395082578269644,
-          "pitch": 0.15948405272677846,
+          "yaw": 0.12570476031783429,
+          "pitch": 0.12126421854598846,
           "rotation": 0,
           "target": "3-1-st-floor-garage"
         },
         {
-          "yaw": -0.1359342097357974,
-          "pitch": -0.48164551519854726,
+          "yaw": 0.3292155597991808,
+          "pitch": 0.3610029459966384,
+          "rotation": 0,
+          "target": "1-1-st-floor-study"
+        },
+        {
+          "yaw": -0.13593426824582622,
+          "pitch": -0.4707228327547526,
           "rotation": 0,
           "target": "4-2-nd-floor-dining-room"
         }
@@ -72,16 +72,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.6685352931693203,
-          "pitch": 0.3700697564283839,
-          "rotation": 0,
-          "target": "0-1-st-floor-entry"
-        },
-        {
-          "yaw": -0.17678344531613632,
-          "pitch": 0.3696412997099685,
+          "yaw": -0.15197231934989475,
+          "pitch": 0.38557753346298185,
           "rotation": 0,
           "target": "2-1-st-floor-bathroom"
+        },
+        {
+          "yaw": -0.6754274792974382,
+          "pitch": 0.4108992007717127,
+          "rotation": 0,
+          "target": "0-1-st-floor-entry"
         }
       ],
       "infoHotspots": []
@@ -112,14 +112,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.6923281783471182,
-          "pitch": 0.5684382624293605,
-          "rotation": 0,
-          "target": "0-1-st-floor-entry"
-        },
-        {
-          "yaw": -2.6124032473742993,
-          "pitch": 0.5914448694238459,
+          "yaw": -2.5356905896288886,
+          "pitch": 0.6159046252415834,
           "rotation": 0,
           "target": "1-1-st-floor-study"
         }
@@ -152,8 +146,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.2663169645564114,
-          "pitch": 0.34686690995080127,
+          "yaw": -1.2858922527354526,
+          "pitch": 0.3341899667429189,
           "rotation": 0,
           "target": "0-1-st-floor-entry"
         }
@@ -186,28 +180,28 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.4574629391181873,
-          "pitch": 0.4507840523448987,
-          "rotation": 0,
-          "target": "0-1-st-floor-entry"
-        },
-        {
-          "yaw": -0.0914232659993317,
-          "pitch": 0.38509802108250923,
+          "yaw": -0.0890879842612815,
+          "pitch": 0.38321416946809705,
           "rotation": 0,
           "target": "5-2-nd-floor-living-room"
         },
         {
-          "yaw": -2.618461472238245,
-          "pitch": 0.37935209916660284,
-          "rotation": 0,
-          "target": "6-2-nd-floor-kitchen"
-        },
-        {
-          "yaw": 0.685455643082701,
-          "pitch": -0.06673497530427674,
+          "yaw": 0.5052522320805366,
+          "pitch": 0.21929000929010556,
           "rotation": 0,
           "target": "8-3-rd-floor-hallway"
+        },
+        {
+          "yaw": 1.4827404032331906,
+          "pitch": 0.4665075232921474,
+          "rotation": 0,
+          "target": "0-1-st-floor-entry"
+        },
+        {
+          "yaw": -2.5808296264259027,
+          "pitch": 0.39475192227457967,
+          "rotation": 0,
+          "target": "6-2-nd-floor-kitchen"
         }
       ],
       "infoHotspots": []
@@ -238,10 +232,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.07800016531217935,
-          "pitch": 0.3763367772533428,
+          "yaw": 0.005582705814719091,
+          "pitch": 0.42467885794489213,
           "rotation": 0,
           "target": "4-2-nd-floor-dining-room"
+        },
+        {
+          "yaw": -1.5564921107276906,
+          "pitch": 0.3336134112810427,
+          "rotation": 0,
+          "target": "8-3-rd-floor-hallway"
         }
       ],
       "infoHotspots": []
@@ -272,14 +272,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.9085039157911297,
-          "pitch": 0.4395742791015351,
+          "yaw": -0.9519743171783617,
+          "pitch": 0.5718591041099081,
           "rotation": 0,
           "target": "7-2-nd-floor-family-room"
         },
         {
-          "yaw": 0.5155366422910266,
-          "pitch": 0.31242310218151026,
+          "yaw": 0.524042598457962,
+          "pitch": 0.3037212897315005,
           "rotation": 0,
           "target": "4-2-nd-floor-dining-room"
         }
@@ -312,16 +312,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.8181484793449778,
-          "pitch": 0.41238462941975307,
-          "rotation": 0,
-          "target": "6-2-nd-floor-kitchen"
-        },
-        {
-          "yaw": 1.096748815236868,
-          "pitch": 0.259955016041598,
+          "yaw": 1.0767298984736033,
+          "pitch": 0.2642476763908892,
           "rotation": 0,
           "target": "4-2-nd-floor-dining-room"
+        },
+        {
+          "yaw": 1.8457083165609447,
+          "pitch": 0.4155739971821575,
+          "rotation": 0,
+          "target": "6-2-nd-floor-kitchen"
         }
       ],
       "infoHotspots": []
@@ -352,28 +352,34 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.784682378298843,
-          "pitch": 0.0695010345384599,
+          "yaw": -1.8786751264174466,
+          "pitch": 0.849696119579729,
+          "rotation": 0,
+          "target": "4-2-nd-floor-dining-room"
+        },
+        {
+          "yaw": -2.8878727050521906,
+          "pitch": 0.2815076471901996,
           "rotation": 0,
           "target": "13-4-th-floor-terrace"
         },
         {
-          "yaw": 0.10394303427712437,
-          "pitch": 0.24966076566522943,
+          "yaw": 0.11945801608588269,
+          "pitch": 0.2548544077966888,
           "rotation": 0,
           "target": "9-3-rd-floor-master-bedroom"
         },
         {
-          "yaw": 0.9106439077851505,
-          "pitch": 0.5059042965728366,
-          "rotation": 0,
-          "target": "11-3-rd-floor-bedroom-2"
-        },
-        {
-          "yaw": 2.876187486979237,
-          "pitch": 0.8049272232522569,
+          "yaw": 2.878555415069946,
+          "pitch": 0.7649805751595053,
           "rotation": 0,
           "target": "12-3-rd-floor-bathroom-2"
+        },
+        {
+          "yaw": 3.0897408450312644,
+          "pitch": 0.37590056240467007,
+          "rotation": 0,
+          "target": "11-3-rd-floor-bedroom-2"
         }
       ],
       "infoHotspots": []
@@ -404,14 +410,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.883009128683282,
-          "pitch": 0.47304385155314854,
+          "yaw": 2.8861357881539593,
+          "pitch": 0.4660529503509814,
           "rotation": 0,
           "target": "10-3-rd-floor-master-bathroom"
         },
         {
-          "yaw": 2.034653694565506,
-          "pitch": 0.319357795245482,
+          "yaw": 2.0518791981637206,
+          "pitch": 0.3907097835704967,
           "rotation": 0,
           "target": "8-3-rd-floor-hallway"
         }
@@ -444,8 +450,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.8799355320895597,
-          "pitch": 0.4880176475073341,
+          "yaw": -2.8361370075423196,
+          "pitch": 0.6253728865554518,
           "rotation": 0,
           "target": "9-3-rd-floor-master-bedroom"
         }
@@ -478,8 +484,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.114066065548835,
-          "pitch": 0.457124895484478,
+          "yaw": 2.1133726155043835,
+          "pitch": 0.4778762110983301,
           "rotation": 0,
           "target": "8-3-rd-floor-hallway"
         }
@@ -512,8 +518,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.4782352629394389,
-          "pitch": 0.8027833955782242,
+          "yaw": -1.570109529862858,
+          "pitch": 0.7630340216594576,
           "rotation": 0,
           "target": "8-3-rd-floor-hallway"
         }
@@ -546,8 +552,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.00558269976131065,
-          "pitch": 0.33321929279344076,
+          "yaw": 0.002791371862830516,
+          "pitch": 0.3406813861152411,
           "rotation": 0,
           "target": "8-3-rd-floor-hallway"
         }
@@ -558,7 +564,7 @@ var APP_DATA = {
   "name": "EYA Midline Reston TH Unit C-1",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
