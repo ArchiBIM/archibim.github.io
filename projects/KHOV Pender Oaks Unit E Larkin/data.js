@@ -26,14 +26,20 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.8028891407064869,
-          "pitch": 0.3302323175482176,
+          "yaw": 2.608071859423818,
+          "pitch": 0.37817865054078936,
+          "rotation": 0,
+          "target": "2-master-bedroom"
+        },
+        {
+          "yaw": -0.8079090007977321,
+          "pitch": 0.32424067740253015,
           "rotation": 0,
           "target": "1-kitchen-living"
         },
         {
-          "yaw": 1.8688198123165334,
-          "pitch": 0.6302008257858613,
+          "yaw": 1.92075000907119,
+          "pitch": 0.6285701358919802,
           "rotation": 0,
           "target": "4-bedroom-2"
         }
@@ -66,8 +72,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.999012387768138,
-          "pitch": 0.3095525423541563,
+          "yaw": 0.985296187390162,
+          "pitch": 0.3084463913662354,
           "rotation": 0,
           "target": "0-foyer-kitchen"
         }
@@ -100,10 +106,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.1300773158116755,
-          "pitch": 0.45808632495280754,
+          "yaw": 1.120432123695453,
+          "pitch": 0.4327980631902548,
           "rotation": 0,
           "target": "3-master-bathroom"
+        },
+        {
+          "yaw": 2.7588409625121333,
+          "pitch": 0.23999862553020535,
+          "rotation": 0,
+          "target": "0-foyer-kitchen"
         }
       ],
       "infoHotspots": []
@@ -134,8 +146,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.8010975993885872,
-          "pitch": 0.25394740900540036,
+          "yaw": -0.9938503265568066,
+          "pitch": 0.545543922289152,
           "rotation": 0,
           "target": "2-master-bedroom"
         }
@@ -168,10 +180,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.986878286636763,
-          "pitch": 0.2776268515302469,
+          "yaw": -2.6862313561246633,
+          "pitch": 0.3083886433134211,
           "rotation": 0,
-          "target": "5-bathroom-2"
+          "target": "0-foyer-kitchen"
         }
       ],
       "infoHotspots": []
@@ -200,18 +212,11 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [
-        {
-          "yaw": 0.43282660956982966,
-          "pitch": 0.6144720673211701,
-          "rotation": 0,
-          "target": "4-bedroom-2"
-        }
-      ],
+      "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "KHOV Pender Oaks Unit E Larkin",
+  "name": "KHOV VR Pender Oaks-E Unit Larkin",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,

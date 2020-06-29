@@ -26,22 +26,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.40951061686360113,
-          "pitch": 0.34591505891112817,
+          "yaw": -0.4453446794966922,
+          "pitch": 0.36787874257476183,
           "rotation": 0,
           "target": "1-dining-kitchen"
         },
         {
-          "yaw": -0.1623889350687513,
-          "pitch": 0.2292385211914283,
+          "yaw": -0.15778608769445412,
+          "pitch": 0.2587127446789559,
           "rotation": 0,
           "target": "2-living"
-        },
-        {
-          "yaw": -0.9173614499418736,
-          "pitch": -0.023749470442192333,
-          "rotation": 0,
-          "target": "3-master-bedroom"
         }
       ],
       "infoHotspots": []
@@ -72,34 +66,34 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.9176414796518326,
-          "pitch": 0.12666573096783296,
+          "yaw": -2.9083633788104795,
+          "pitch": 0.4036607070789273,
+          "rotation": 0,
+          "target": "2-living"
+        },
+        {
+          "yaw": -0.8663799180715479,
+          "pitch": 0.12704555766467074,
           "rotation": 0,
           "target": "0-foyer"
         },
         {
-          "yaw": -2.195440785966408,
-          "pitch": 0.2547722185225574,
+          "yaw": -2.019546833057131,
+          "pitch": 0.27017150631679065,
           "rotation": 0,
-          "target": "5-bedroom-2"
+          "target": "5-bathroom-2"
         },
         {
-          "yaw": -2.013385548482752,
-          "pitch": 0.28765316638465066,
+          "yaw": -2.1631729562072604,
+          "pitch": 0.3176139929016184,
           "rotation": 0,
-          "target": "6-bathroom-2"
+          "target": "6-bedroom-2"
         },
         {
-          "yaw": 2.0299727459806673,
-          "pitch": 0.3940273842132278,
+          "yaw": 1.8187305976035582,
+          "pitch": 0.6987504422981416,
           "rotation": 0,
           "target": "3-master-bedroom"
-        },
-        {
-          "yaw": -2.920487430700584,
-          "pitch": 0.4654817115506127,
-          "rotation": 0,
-          "target": "2-living"
         }
       ],
       "infoHotspots": []
@@ -130,28 +124,28 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.6160676929388114,
-          "pitch": 0.3117542607039798,
-          "rotation": 0,
-          "target": "3-master-bedroom"
-        },
-        {
-          "yaw": -3.1067593883706444,
-          "pitch": 0.5145632353331919,
+          "yaw": -2.9059168185130897,
+          "pitch": 0.36198492512020053,
           "rotation": 0,
           "target": "1-dining-kitchen"
         },
         {
-          "yaw": 2.874094228425207,
-          "pitch": 0.24415640467413624,
+          "yaw": 2.8946562414399413,
+          "pitch": 0.3030777495248067,
           "rotation": 0,
           "target": "0-foyer"
         },
         {
-          "yaw": 2.1856769268165905,
-          "pitch": 0.42603651385909913,
+          "yaw": -2.6153390496097675,
+          "pitch": 0.3256386662011046,
           "rotation": 0,
-          "target": "5-bedroom-2"
+          "target": "3-master-bedroom"
+        },
+        {
+          "yaw": 2.1888242584327973,
+          "pitch": 0.4156205992616826,
+          "rotation": 0,
+          "target": "5-bathroom-2"
         }
       ],
       "infoHotspots": []
@@ -182,16 +176,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.5257328113371162,
-          "pitch": 0.2508030745648284,
-          "rotation": 0,
-          "target": "1-dining-kitchen"
-        },
-        {
-          "yaw": 2.9735153332468256,
-          "pitch": 0.2770979938323599,
+          "yaw": 2.9658639703977823,
+          "pitch": 0.28074052330338084,
           "rotation": 0,
           "target": "4-master-bathroom"
+        },
+        {
+          "yaw": 2.524537737371544,
+          "pitch": 0.2846127670340408,
+          "rotation": 0,
+          "target": "1-dining-kitchen"
         }
       ],
       "infoHotspots": []
@@ -222,8 +216,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.14141042130969517,
-          "pitch": 0.3739552193019211,
+          "yaw": 1.7209793080193423,
+          "pitch": 0.33334003238855026,
           "rotation": 0,
           "target": "3-master-bedroom"
         }
@@ -231,47 +225,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "5-bedroom-2",
-      "name": "Bedroom 2",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1000,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -2.6256727907962105,
-          "pitch": 0.24352708667092138,
-          "rotation": 0,
-          "target": "1-dining-kitchen"
-        },
-        {
-          "yaw": -3.0506290605423274,
-          "pitch": 0.2671736098770179,
-          "rotation": 0,
-          "target": "6-bathroom-2"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "6-bathroom-2",
+      "id": "5-bathroom-2",
       "name": "Bathroom 2",
       "levels": [
         {
@@ -296,22 +250,56 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.4923296459614637,
-          "pitch": 0.3464874691324873,
+          "yaw": -2.677718878965539,
+          "pitch": 0.5796472033669673,
           "rotation": 0,
-          "target": "2-living"
+          "target": "6-bedroom-2"
         },
         {
-          "yaw": -1.113982474689113,
-          "pitch": 0.6174694886215946,
+          "yaw": -3.0533376818554228,
+          "pitch": 0.33224095686987454,
           "rotation": 0,
-          "target": "5-bedroom-2"
+          "target": "2-living"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "6-bedroom-2",
+      "name": "Bedroom 2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1000,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.6315785957441484,
+          "pitch": 0.2449408108492328,
+          "rotation": 0,
+          "target": "0-foyer"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "KHOV Pender Oaks Unit C Dunbar",
+  "name": "KHOV VR Pender Oaks-C Unit Dunbar",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,

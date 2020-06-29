@@ -26,14 +26,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.047452453656101,
-          "pitch": 0.43705385593616164,
+          "yaw": 1.1797126166582004,
+          "pitch": 0.33732998615893095,
           "rotation": 0,
           "target": "1-kitchen-living"
         },
         {
-          "yaw": 0.43849823256736187,
-          "pitch": 0.09322461740164023,
+          "yaw": 0.4534521877139355,
+          "pitch": 0.07982207257646756,
           "rotation": 0,
           "target": "2-master-bedroom"
         }
@@ -66,28 +66,28 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.798840963100064,
-          "pitch": 0.2677009181237935,
+          "yaw": 2.8428324397638685,
+          "pitch": 0.24554389058255666,
           "rotation": 0,
           "target": "0-foyer-den"
         },
         {
-          "yaw": -2.3297619480171328,
-          "pitch": 0.4677327821717121,
+          "yaw": -2.4689374892098144,
+          "pitch": 0.40522980400803377,
           "rotation": 0,
           "target": "2-master-bedroom"
         },
         {
-          "yaw": 1.8840278946144045,
-          "pitch": 0.35104587596415904,
-          "rotation": 0,
-          "target": "5-bathroom-2"
-        },
-        {
-          "yaw": 1.8045450603370057,
-          "pitch": 0.5097594693554797,
+          "yaw": 2.0909186083835225,
+          "pitch": 0.515664321343241,
           "rotation": 0,
           "target": "4-bedroom-2"
+        },
+        {
+          "yaw": 2.0433360391610904,
+          "pitch": 0.35105332276168255,
+          "rotation": 0,
+          "target": "5-bathroom-2"
         }
       ],
       "infoHotspots": []
@@ -118,14 +118,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.932452230442994,
-          "pitch": 0.3366182758239269,
+          "yaw": -3.0212399554367746,
+          "pitch": 0.2537820482693398,
           "rotation": 0,
           "target": "3-master-bathroom"
         },
         {
-          "yaw": 2.2764700772542055,
-          "pitch": 0.3947859396656881,
+          "yaw": 2.2856488231623437,
+          "pitch": 0.3442989582650391,
           "rotation": 0,
           "target": "1-kitchen-living"
         }
@@ -158,8 +158,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.2881473750298866,
-          "pitch": 0.3265033779307167,
+          "yaw": 1.3116780698471882,
+          "pitch": 0.3989922574491551,
           "rotation": 0,
           "target": "2-master-bedroom"
         }
@@ -192,16 +192,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.575533742961115,
-          "pitch": 0.29311723202932427,
+          "yaw": -2.5720924390475446,
+          "pitch": 0.3035060646959291,
           "rotation": 0,
           "target": "1-kitchen-living"
-        },
-        {
-          "yaw": -2.975903629842291,
-          "pitch": 0.25533904021176923,
-          "rotation": 0,
-          "target": "5-bathroom-2"
         }
       ],
       "infoHotspots": []
@@ -232,25 +226,25 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.0770434942524556,
-          "pitch": 0.34438133632750123,
-          "rotation": 0,
-          "target": "1-kitchen-living"
-        },
-        {
-          "yaw": 0.4038363691026543,
-          "pitch": 0.6158635338561655,
+          "yaw": 2.006891446302121,
+          "pitch": 0.6138822014623102,
           "rotation": 0,
           "target": "4-bedroom-2"
+        },
+        {
+          "yaw": 1.6256600476861376,
+          "pitch": 0.3552786716304226,
+          "rotation": 0,
+          "target": "1-kitchen-living"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "KHOV Pender Oaks Unit D Evert",
+  "name": "KHOV VR Pender Oaks-D Unit Evert",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
