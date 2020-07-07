@@ -32,6 +32,9 @@ var data = {
 			    "EYA Midline - Reston - Unit А",
 				"EYA Midline - Reston - Unit B",
 				"EYA Midline - Reston - Unit C",
+				"EYA Midline - Reston - Unit А - R2",
+				"EYA Midline - Reston - Unit B - R2",
+				"EYA Midline - Reston - Unit C - R2",
 			]
 		},
 		{
