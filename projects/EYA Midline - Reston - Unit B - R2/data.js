@@ -35,7 +35,7 @@ var APP_DATA = {
           "yaw": -0.32346689502571024,
           "pitch": 0.38026037838283244,
           "rotation": 0,
-          "target": "2-1-st-floor-garage"
+          "target": "1-1-st-floor-stairs"
         }
       ],
       "infoHotspots": []
@@ -66,14 +66,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.049639508847684866,
-          "pitch": 0.6867619665675111,
+          "yaw": -0.07639026726227449,
+          "pitch": 0.7164573875904505,
           "rotation": 0,
           "target": "2-1-st-floor-garage"
         },
         {
-          "yaw": 3.0482202371526945,
-          "pitch": 0.5173992247801493,
+          "yaw": 3.077087778905586,
+          "pitch": 0.5994763189371461,
           "rotation": 0,
           "target": "0-1-st-floor-entry"
         }
@@ -106,8 +106,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.0281935128303967,
-          "pitch": 0.24464374989872617,
+          "yaw": 3.037766814782902,
+          "pitch": 0.23832857564160292,
           "rotation": 0,
           "target": "1-1-st-floor-stairs"
         }
@@ -134,14 +134,14 @@ var APP_DATA = {
       ],
       "faceSize": 750,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.9667732529105653,
+        "pitch": 0.10913570342467871,
+        "fov": 1.8252287609306725
       },
       "linkHotspots": [
         {
-          "yaw": 1.656411956699685,
-          "pitch": 0.5553632516780773,
+          "yaw": 1.7381144939695599,
+          "pitch": 0.6407826259281073,
           "rotation": 0,
           "target": "0-1-st-floor-entry"
         }
@@ -168,14 +168,14 @@ var APP_DATA = {
       ],
       "faceSize": 750,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.172297303721142,
+        "pitch": 0.1729490532233502,
+        "fov": 1.8252287609306725
       },
       "linkHotspots": [
         {
-          "yaw": 1.6251118301213046,
-          "pitch": 0.6723651071407541,
+          "yaw": 1.6196685623861455,
+          "pitch": 0.7355403896056885,
           "rotation": 0,
           "target": "1-1-st-floor-stairs"
         }
@@ -292,7 +292,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 2.6487533049398513,
+          "pitch": 0.3072535946395121,
+          "rotation": 0,
+          "target": "5-2-nd-floor-dining-room"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -319,7 +326,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 3.134267299582733,
+          "pitch": 0.2949089630100392,
+          "rotation": 0,
+          "target": "5-2-nd-floor-dining-room"
+        }
+      ],
       "infoHotspots": []
     },
     {
