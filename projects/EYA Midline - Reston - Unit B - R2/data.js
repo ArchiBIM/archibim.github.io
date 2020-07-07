@@ -208,96 +208,28 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.969539549509702,
-          "pitch": 0.3501786428503557,
+          "yaw": 0.01885281041666076,
+          "pitch": 0.4061081857663904,
           "rotation": 0,
-          "target": "5-2-nd-floor-dining-room"
+          "target": "8-2-nd-floor-kitchen-2"
         },
         {
-          "yaw": -0.44952483221530315,
-          "pitch": 0.49562294599771306,
+          "yaw": -0.7433917459776076,
+          "pitch": 0.38373098190818666,
           "rotation": 0,
-          "target": "6-2-nd-floor-kitchen-1"
+          "target": "7-2-nd-floor-kitchen-1"
         },
         {
-          "yaw": 0.4480993926079293,
-          "pitch": 0.41854716363801714,
+          "yaw": -2.9645497468558624,
+          "pitch": 0.41437235133841277,
           "rotation": 0,
-          "target": "7-2-nd-floor-kitchen-2"
+          "target": "6-2-nd-floor-living-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "6-2-nd-floor-kitchen-1",
-      "name": "2-nd Floor Kitchen 1",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 960,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": 2.6487533049398513,
-          "pitch": 0.3072535946395121,
-          "rotation": 0,
-          "target": "5-2-nd-floor-dining-room"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "7-2-nd-floor-kitchen-2",
-      "name": "2-nd Floor Kitchen 2",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 960,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": 3.134267299582733,
-          "pitch": 0.2949089630100392,
-          "rotation": 0,
-          "target": "5-2-nd-floor-dining-room"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "8-2-nd-floor-living-room",
+      "id": "6-2-nd-floor-living-room",
       "name": "2-nd Floor Living Room",
       "levels": [
         {
@@ -322,12 +254,72 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.4363328257350023,
-          "pitch": 0.3243950635298596,
+          "yaw": 0.14439139580156102,
+          "pitch": 0.27761819214416406,
+          "rotation": 0,
+          "target": "8-2-nd-floor-kitchen-2"
+        },
+        {
+          "yaw": 0.3296461522829457,
+          "pitch": 0.5241751498897429,
           "rotation": 0,
           "target": "5-2-nd-floor-dining-room"
         }
       ],
+      "infoHotspots": []
+    },
+    {
+      "id": "7-2-nd-floor-kitchen-1",
+      "name": "2-nd Floor Kitchen 1",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 960,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "8-2-nd-floor-kitchen-2",
+      "name": "2-nd Floor Kitchen 2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 960,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
       "infoHotspots": []
     },
     {
