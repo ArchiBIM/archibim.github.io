@@ -30,20 +30,20 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.3463139328875542,
-          "pitch": 0.2697232470903188,
+          "yaw": -0.3227947587252977,
+          "pitch": 0.2454487330796269,
           "rotation": 0,
           "target": "1-3-rd-fl-great-room"
         },
         {
-          "yaw": 0.8686587673063073,
-          "pitch": 0.4855417106203852,
+          "yaw": 0.8426588536942621,
+          "pitch": 0.43861020642144766,
           "rotation": 0,
           "target": "2-3-rd-fl-kitchen"
         },
         {
-          "yaw": -1.7799222269838104,
-          "pitch": 0.5361236720670917,
+          "yaw": -1.7683764582048997,
+          "pitch": 0.5383752546125589,
           "rotation": 0,
           "target": "7-4-th-fl-master-bedroom"
         }
@@ -80,16 +80,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.216940827620169,
-          "pitch": 0.4291116574533653,
-          "rotation": 0,
-          "target": "2-3-rd-fl-kitchen"
-        },
-        {
-          "yaw": -0.06545223716745241,
-          "pitch": 0.3014378552343331,
+          "yaw": -0.10399072845690327,
+          "pitch": 0.2734627679324735,
           "rotation": 0,
           "target": "0-3-rd-fl-breakfast-room"
+        },
+        {
+          "yaw": -1.2323885071581664,
+          "pitch": 0.4347557500487209,
+          "rotation": 0,
+          "target": "2-3-rd-fl-kitchen"
         }
       ],
       "infoHotspots": []
@@ -124,14 +124,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.7519635608500828,
-          "pitch": 0.4990509196374262,
+          "yaw": -0.651980951211776,
+          "pitch": 0.4792620135077712,
           "rotation": 0,
           "target": "0-3-rd-fl-breakfast-room"
         },
         {
-          "yaw": 2.3522456955418276,
-          "pitch": 0.46373711388950234,
+          "yaw": 2.2760904879516506,
+          "pitch": 0.3848830613942802,
           "rotation": 0,
           "target": "1-3-rd-fl-great-room"
         }
@@ -168,16 +168,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.1187754287466714,
-          "pitch": 0.566463167698986,
+          "yaw": 2.1438784562634066,
+          "pitch": 0.5784058969690857,
           "rotation": 0,
           "target": "8-roof-terrace"
-        },
-        {
-          "yaw": -2.8280768993289396,
-          "pitch": 0.8903970966697798,
-          "rotation": 0,
-          "target": "7-4-th-fl-master-bedroom"
         }
       ],
       "infoHotspots": []
@@ -212,8 +206,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.7723914856194085,
-          "pitch": 0.6749452576043886,
+          "yaw": -2.7340251170039913,
+          "pitch": 0.535665065618268,
           "rotation": 0,
           "target": "7-4-th-fl-master-bedroom"
         }
@@ -250,8 +244,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.9822430913944409,
-          "pitch": 0.5126816250975761,
+          "yaw": 1.823484559980467,
+          "pitch": 0.6157392032696052,
           "rotation": 0,
           "target": "6-4-th-fl-bedroom-3"
         }
@@ -288,14 +282,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.8724569775444326,
-          "pitch": 0.20681761854956626,
+          "yaw": -1.8858980140955701,
+          "pitch": 0.23559766576736152,
           "rotation": 0,
           "target": "7-4-th-fl-master-bedroom"
         },
         {
-          "yaw": -2.0355204051115443,
-          "pitch": 0.4172452088370875,
+          "yaw": -2.089456756194144,
+          "pitch": 0.5639185480303794,
           "rotation": 0,
           "target": "3-4-th-fl-bathroom-2"
         }
@@ -332,16 +326,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.3711540061442022,
-          "pitch": 0.564692011361462,
+          "yaw": -1.4053369671924596,
+          "pitch": 0.5188578293438972,
           "rotation": 0,
           "target": "4-4-th-fl-bathroom"
-        },
-        {
-          "yaw": -2.9885504845406157,
-          "pitch": 0.7433137420422486,
-          "rotation": 0,
-          "target": "8-roof-terrace"
         }
       ],
       "infoHotspots": []
@@ -374,7 +362,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 0.48508093790615625,
+          "pitch": 0.3452204925085596,
+          "rotation": 0,
+          "target": "6-4-th-fl-bedroom-3"
+        }
+      ],
       "infoHotspots": []
     }
   ],
