@@ -6,6 +6,7 @@ var data = {
                 "SMC Paisley - WSG - Clay 1",
 				"SMC Paisley - WSG - Clay 2",
 				"SMC Magnolia Walk Amenity",
+				"SMC Poland Hill - Eva",
             ]
         },
         {
