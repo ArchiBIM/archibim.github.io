@@ -8,6 +8,7 @@ var data = {
 				"SMC Magnolia Walk Amenity",
 				"SMC Poland Hill - Eva",
 				"SMC Poland Hill - Woodward",
+				"SMC Poland Hill - Wayne",
             ]
         },
         {
