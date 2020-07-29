@@ -9,6 +9,7 @@ var data = {
 				"SMC Poland Hill - Eva",
 				"SMC Poland Hill - Woodward",
 				"SMC Poland Hill - Wayne",
+				"SMC Poland Hill - Alexis",
             ]
         },
         {
