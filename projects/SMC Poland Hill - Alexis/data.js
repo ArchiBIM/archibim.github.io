@@ -82,12 +82,6 @@ var APP_DATA = {
           "pitch": 0.3121974430814358,
           "rotation": 0,
           "target": "2-1-st-fl-eating-room"
-        },
-        {
-          "yaw": -1.5867886615612683,
-          "pitch": -0.15291520048277718,
-          "rotation": 0,
-          "target": "4-2-nd-fl-flex-space"
         }
       ],
       "infoHotspots": []
@@ -128,12 +122,6 @@ var APP_DATA = {
           "pitch": 0.3742394515317251,
           "rotation": 0,
           "target": "1-1-st-fl-kitchen"
-        },
-        {
-          "yaw": 0.8988775873061936,
-          "pitch": -0.1539747001108509,
-          "rotation": 0,
-          "target": "4-2-nd-fl-flex-space"
         },
         {
           "yaw": 1.1214200571733937,
@@ -186,12 +174,6 @@ var APP_DATA = {
           "pitch": 0.22328122482231372,
           "rotation": 0,
           "target": "0-1-st-fl-entry"
-        },
-        {
-          "yaw": 1.9711263550453246,
-          "pitch": -0.455901173589389,
-          "rotation": 0,
-          "target": "4-2-nd-fl-flex-space"
         }
       ],
       "infoHotspots": []
@@ -222,22 +204,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.6736008194926963,
-          "pitch": 0.3941227569981578,
-          "rotation": 0,
-          "target": "3-1-st-fl-living-room"
-        },
-        {
-          "yaw": 0.27154281382796697,
-          "pitch": 0.44519076691477366,
+          "yaw": 0.24740321336283522,
+          "pitch": 0.4365113951376749,
           "rotation": 0,
           "target": "6-2-nd-fl-owners-suite"
         },
         {
-          "yaw": -0.6212916517425082,
-          "pitch": -0.23748590134617942,
+          "yaw": -0.5929447552996763,
+          "pitch": -0.28567554601054646,
           "rotation": 0,
           "target": "7-3-rd-fl-loft"
+        },
+        {
+          "yaw": -1.7079572855395,
+          "pitch": 0.42762109493738976,
+          "rotation": 0,
+          "target": "3-1-st-fl-living-room"
         }
       ],
       "infoHotspots": []
@@ -306,12 +288,6 @@ var APP_DATA = {
           "pitch": 0.5091628139520203,
           "rotation": 0,
           "target": "5-2-nd-fl-owners-bathroom"
-        },
-        {
-          "yaw": 1.0307228276932712,
-          "pitch": 0.42573954712909234,
-          "rotation": 0,
-          "target": "4-2-nd-fl-flex-space"
         }
       ],
       "infoHotspots": []
