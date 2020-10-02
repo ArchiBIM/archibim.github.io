@@ -49,6 +49,12 @@ var data = {
 			"FSC Dylan - Unit C5",
 			"FSC Dylan - Unit E1",
 			]
+		},
+		{
+			name: "KNU",
+			dirs: [
+			"KNU Reston Faraday VR Tour",
+			]
 		}
     ]
 }

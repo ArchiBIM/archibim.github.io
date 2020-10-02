@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>KNU Reston Faraday VR Tour</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
+<style> @-ms-viewport { width: device-width; } </style>
+<link rel="stylesheet" href="vendor/reset.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="multiple-scenes view-control-buttons">
+
+<div id="pano"></div>
+
+<div id="sceneList">
+  <ul class="scenes">
+    
+      <a href="javascript:void(0)" class="scene" data-id="0-ground-floor---foyer">
+        <li class="text">Ground Floor - Foyer</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="1-second-floor---stairs">
+        <li class="text">Second Floor - Stairs</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="2-second-floor---dining-room">
+        <li class="text">Second Floor - Dining Room</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="3-second-floor---kitchen">
+        <li class="text">Second Floor - Kitchen</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="4-second-floor---great-room">
+        <li class="text">Second Floor - Great Room</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="5-third-floor---owners-suite">
+        <li class="text">Third Floor - Owners Suite</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="6-third-floor---bedroom-2">
+        <li class="text">Third Floor - Bedroom 2</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="7-third-floor---owners-bathroom">
+        <li class="text">Third Floor - Owners Bathroom</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="8-fourth-floor---bedroom-3">
+        <li class="text">Fourth Floor - Bedroom 3</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="9-fourth-floor---loft">
+        <li class="text">Fourth Floor - Loft</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="10-fourth-floor---roof-terrace">
+        <li class="text">Fourth Floor - Roof Terrace</li>
+      </a>
+    
+  </ul>
+</div>
+
+<div id="titleBar">
+  <h1 class="sceneName"></h1>
+</div>
+
+<a href="javascript:void(0)" id="autorotateToggle">
+  <img class="icon off" src="img/play.png">
+  <img class="icon on" src="img/pause.png">
+</a>
+
+<a href="javascript:void(0)" id="fullscreenToggle">
+  <img class="icon off" src="img/fullscreen.png">
+  <img class="icon on" src="img/windowed.png">
+</a>
+
+<a href="javascript:void(0)" id="sceneListToggle">
+  <img class="icon off" src="img/expand.png">
+  <img class="icon on" src="img/collapse.png">
+</a>
+
+<a href="javascript:void(0)" id="viewUp" class="viewControlButton viewControlButton-1">
+  <img class="icon" src="img/up.png">
+</a>
+<a href="javascript:void(0)" id="viewDown" class="viewControlButton viewControlButton-2">
+  <img class="icon" src="img/down.png">
+</a>
+<a href="javascript:void(0)" id="viewLeft" class="viewControlButton viewControlButton-3">
+  <img class="icon" src="img/left.png">
+</a>
+<a href="javascript:void(0)" id="viewRight" class="viewControlButton viewControlButton-4">
+  <img class="icon" src="img/right.png">
+</a>
+<a href="javascript:void(0)" id="viewIn" class="viewControlButton viewControlButton-5">
+  <img class="icon" src="img/plus.png">
+</a>
+<a href="javascript:void(0)" id="viewOut" class="viewControlButton viewControlButton-6">
+  <img class="icon" src="img/minus.png">
+</a>
+
+<script src="vendor/es5-shim.js"></script>
+<script src="vendor/eventShim.js"></script>
+<script src="vendor/classList.js"></script>
+<script src="vendor/requestAnimationFrame.js" ></script>
+<script src="vendor/screenfull.min.js" ></script>
+<script src="vendor/bowser.min.js" ></script>
+<script src="vendor/marzipano.js" ></script>
+
+<script src="data.js"></script>
+<script src="index.js"></script>
+
+</body>
+</html>
