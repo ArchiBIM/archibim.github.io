@@ -116,7 +116,7 @@ var APP_DATA = {
     },
     {
       "id": "3-famili-room",
-      "name": "Famili room",
+      "name": "Family room",
       "levels": [
         {
           "tileSize": 256,
