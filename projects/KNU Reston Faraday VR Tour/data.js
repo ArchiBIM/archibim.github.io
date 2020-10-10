@@ -20,14 +20,14 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "yaw": -0.2966128654729925,
+        "pitch": 0.011647090988351039,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -1.3574617535419229,
-          "pitch": 0.6728020681846072,
+          "yaw": -1.1032530851665179,
+          "pitch": 0.0654965151112723,
           "rotation": 0,
           "target": "4-second-floor---stairs"
         }
@@ -60,16 +60,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.08076123685737713,
-          "pitch": 0.3724016546464668,
-          "rotation": 0,
-          "target": "3-second-floor---kitchen"
-        },
-        {
-          "yaw": -0.6253689545124885,
-          "pitch": 0.43201649566539757,
+          "yaw": -0.03811711712872601,
+          "pitch": 0.32850368117578554,
           "rotation": 0,
           "target": "4-second-floor---stairs"
+        },
+        {
+          "yaw": -0.5751826906485569,
+          "pitch": 0.26722404118611465,
+          "rotation": 0,
+          "target": "3-second-floor---kitchen"
         }
       ],
       "infoHotspots": []
@@ -100,14 +100,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.42407605460890885,
-          "pitch": 0.2820517878043507,
+          "yaw": -0.42566920361859495,
+          "pitch": 0.2763888611304832,
           "rotation": 0,
           "target": "3-second-floor---kitchen"
         },
         {
-          "yaw": 0.09223986665736916,
-          "pitch": 0.33520290843921074,
+          "yaw": 0.0486901796058703,
+          "pitch": 0.30736083429743033,
           "rotation": 0,
           "target": "4-second-floor---stairs"
         }
@@ -140,14 +140,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.15008752873859166,
-          "pitch": 0.3021422461372545,
+          "yaw": 0.16377407685674328,
+          "pitch": 0.2866163507739845,
           "rotation": 0,
           "target": "2-second-floor---great-room"
         },
         {
-          "yaw": -2.8070213607550265,
-          "pitch": 0.4512896284365375,
+          "yaw": -2.7326523787312986,
+          "pitch": 0.4183810173169942,
           "rotation": 0,
           "target": "1-second-floor---dining-room"
         }
@@ -180,22 +180,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.059567439452575144,
-          "pitch": 0.265711870371689,
+          "yaw": -0.012711197944955899,
+          "pitch": 0.28247018215006214,
           "rotation": 0,
           "target": "1-second-floor---dining-room"
         },
         {
-          "yaw": -2.7999860343600282,
-          "pitch": 0.4581914389493562,
+          "yaw": -2.7940087365255852,
+          "pitch": 0.4858175056747367,
           "rotation": 0,
           "target": "2-second-floor---great-room"
-        },
-        {
-          "yaw": -0.9557076784616054,
-          "pitch": 0.5181043074511091,
-          "rotation": 0,
-          "target": "3-second-floor---kitchen"
         }
       ],
       "infoHotspots": []
@@ -226,14 +220,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.8386409875956033,
-          "pitch": 0.30458647633509983,
+          "yaw": 0.8343710822478663,
+          "pitch": 0.29424893828307397,
           "rotation": 0,
           "target": "7-third-floor---owners-suite"
         },
         {
-          "yaw": 0.514884019317785,
-          "pitch": 0.7761620009852788,
+          "yaw": 0.4994176688955996,
+          "pitch": -0.0724647486812966,
           "rotation": 0,
           "target": "9-fourth-floor---loft"
         }
@@ -266,8 +260,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.8004584472014233,
-          "pitch": 0.5298744056623068,
+          "yaw": -2.794257433117009,
+          "pitch": 0.5199618853527177,
           "rotation": 0,
           "target": "7-third-floor---owners-suite"
         }
@@ -300,22 +294,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.8023819294061667,
-          "pitch": 0.4995962324562129,
+          "yaw": 0.7706359464375279,
+          "pitch": 0.5171809863279293,
           "rotation": 0,
           "target": "6-third-floor---owners-bathroom"
         },
         {
-          "yaw": 2.19870165325612,
-          "pitch": 0.30155875408022226,
+          "yaw": 2.19211991895496,
+          "pitch": 0.3117276941243414,
           "rotation": 0,
           "target": "5-third-floor---bedroom-2"
-        },
-        {
-          "yaw": 2.503332886645129,
-          "pitch": 0.7878654584197005,
-          "rotation": 0,
-          "target": "4-second-floor---stairs"
         }
       ],
       "infoHotspots": []
@@ -346,8 +334,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.4856669048470152,
-          "pitch": 0.700425062450881,
+          "yaw": -1.5695068085524504,
+          "pitch": 0.5039047355677031,
           "rotation": 0,
           "target": "9-fourth-floor---loft"
         }
@@ -380,16 +368,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.9642326834518897,
-          "pitch": 0.5983417768742321,
+          "yaw": 0.9138171530076917,
+          "pitch": 0.7427239841306523,
           "rotation": 0,
           "target": "8-fourth-floor---bedroom-3"
         },
         {
-          "yaw": -2.4893439909651676,
-          "pitch": 0.5270464391152494,
+          "yaw": -2.439021396985339,
+          "pitch": 0.4982530735162438,
           "rotation": 0,
           "target": "10-fourth-floor---roof-terrace"
+        },
+        {
+          "yaw": -2.93691560763623,
+          "pitch": 0.39594161261410754,
+          "rotation": 0,
+          "target": "5-third-floor---bedroom-2"
         }
       ],
       "infoHotspots": []
@@ -414,28 +408,22 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": -1.0382427075443985,
-        "pitch": 0.020511352431892504,
+        "pitch": 0,
+        "yaw": 0,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -2.2867023201349213,
-          "pitch": 0.629842309052389,
+          "yaw": -2.315600912479159,
+          "pitch": 0.6729912970110838,
           "rotation": 0,
           "target": "9-fourth-floor---loft"
-        },
-        {
-          "yaw": -1.3768440481183966,
-          "pitch": 0.5704855341470392,
-          "rotation": 0,
-          "target": "7-third-floor---owners-suite"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "KNU Reston Faraday VR Tour",
+  "name": "KNU Reston Faraday VR",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
