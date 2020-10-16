@@ -12,7 +12,7 @@ var data = {
 				"SMC Poland Hill - Alexis",
 				"SMC Tall Oaks - D55 - A",
 				"SMC Potomac Shores - The Maya",
-				"Riverfront at West Hyattsville - The Wagner VR Tour",
+				"SMC Riverfront at West Hyattsville - Wagner",
             ]
         },
         {
