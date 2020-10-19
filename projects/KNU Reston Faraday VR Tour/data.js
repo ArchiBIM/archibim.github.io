@@ -20,23 +20,23 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": -0.2966128654729925,
-        "pitch": 0.011647090988351039,
+        "pitch": 0,
+        "yaw": 0,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -1.1032530851665179,
-          "pitch": 0.0654965151112723,
+          "yaw": -1.3880881174748332,
+          "pitch": 0.6548244567732695,
           "rotation": 0,
-          "target": "4-second-floor---stairs"
+          "target": "1-second-floor---stairs"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-second-floor---dining-room",
-      "name": "Second Floor - Dining Room",
+      "id": "1-second-floor---stairs",
+      "name": "Second Floor - Stairs",
       "levels": [
         {
           "tileSize": 256,
@@ -60,16 +60,28 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.03811711712872601,
-          "pitch": 0.32850368117578554,
+          "yaw": 0.004662958582356325,
+          "pitch": 0.2707228303547211,
           "rotation": 0,
-          "target": "4-second-floor---stairs"
+          "target": "4-second-floor---dining-room"
         },
         {
-          "yaw": -0.5751826906485569,
-          "pitch": 0.26722404118611465,
+          "yaw": -1.2439115448654476,
+          "pitch": 0.535542239301602,
           "rotation": 0,
           "target": "3-second-floor---kitchen"
+        },
+        {
+          "yaw": 1.5477388264270386,
+          "pitch": 0.7712868379860556,
+          "rotation": 0,
+          "target": "0-ground-floor---foyer"
+        },
+        {
+          "yaw": -2.732312763223124,
+          "pitch": 0.5569201668682702,
+          "rotation": 0,
+          "target": "2-second-floor---great-room"
         }
       ],
       "infoHotspots": []
@@ -100,16 +112,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.42566920361859495,
-          "pitch": 0.2763888611304832,
+          "yaw": -0.5083331829642468,
+          "pitch": 0.31102182876196593,
           "rotation": 0,
           "target": "3-second-floor---kitchen"
         },
         {
-          "yaw": 0.0486901796058703,
-          "pitch": 0.30736083429743033,
+          "yaw": 0.05607420106371386,
+          "pitch": 0.3539231583904101,
           "rotation": 0,
-          "target": "4-second-floor---stairs"
+          "target": "1-second-floor---stairs"
         }
       ],
       "infoHotspots": []
@@ -140,23 +152,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.16377407685674328,
-          "pitch": 0.2866163507739845,
+          "yaw": 0.22284721754748915,
+          "pitch": 0.31186685489435106,
           "rotation": 0,
           "target": "2-second-floor---great-room"
         },
         {
-          "yaw": -2.7326523787312986,
-          "pitch": 0.4183810173169942,
+          "yaw": -2.7385439294121507,
+          "pitch": 0.4340915566062957,
           "rotation": 0,
-          "target": "1-second-floor---dining-room"
+          "target": "4-second-floor---dining-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "4-second-floor---stairs",
-      "name": "Second Floor - Stairs",
+      "id": "4-second-floor---dining-room",
+      "name": "Second Floor - Dining Room",
       "levels": [
         {
           "tileSize": 256,
@@ -180,16 +192,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.012711197944955899,
-          "pitch": 0.28247018215006214,
+          "yaw": 0.15670875758251057,
+          "pitch": 0.41060260006388205,
           "rotation": 0,
-          "target": "1-second-floor---dining-room"
-        },
-        {
-          "yaw": -2.7940087365255852,
-          "pitch": 0.4858175056747367,
-          "rotation": 0,
-          "target": "2-second-floor---great-room"
+          "target": "3-second-floor---kitchen"
         }
       ],
       "infoHotspots": []
@@ -220,16 +226,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.8343710822478663,
-          "pitch": 0.29424893828307397,
+          "yaw": -0.1270751911102348,
+          "pitch": 0.6617635383250882,
           "rotation": 0,
           "target": "7-third-floor---owners-suite"
-        },
-        {
-          "yaw": 0.4994176688955996,
-          "pitch": -0.0724647486812966,
-          "rotation": 0,
-          "target": "9-fourth-floor---loft"
         }
       ],
       "infoHotspots": []
@@ -260,8 +260,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.794257433117009,
-          "pitch": 0.5199618853527177,
+          "yaw": -2.59491179312192,
+          "pitch": 0.4894532599545265,
           "rotation": 0,
           "target": "7-third-floor---owners-suite"
         }
@@ -294,14 +294,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.7706359464375279,
-          "pitch": 0.5171809863279293,
+          "yaw": 1.0586007676417832,
+          "pitch": 0.4956928145438333,
           "rotation": 0,
           "target": "6-third-floor---owners-bathroom"
         },
         {
-          "yaw": 2.19211991895496,
-          "pitch": 0.3117276941243414,
+          "yaw": 2.3875136885790056,
+          "pitch": 0.3050515680855064,
           "rotation": 0,
           "target": "5-third-floor---bedroom-2"
         }
@@ -334,8 +334,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.5695068085524504,
-          "pitch": 0.5039047355677031,
+          "yaw": -2.667408425213246,
+          "pitch": 0.575210270855198,
           "rotation": 0,
           "target": "9-fourth-floor---loft"
         }
@@ -368,22 +368,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.9138171530076917,
-          "pitch": 0.7427239841306523,
+          "yaw": 0.5197267823973313,
+          "pitch": 0.42764855060901397,
           "rotation": 0,
           "target": "8-fourth-floor---bedroom-3"
         },
         {
-          "yaw": -2.439021396985339,
-          "pitch": 0.4982530735162438,
+          "yaw": -2.5989654102014015,
+          "pitch": 0.7464580250463655,
           "rotation": 0,
           "target": "10-fourth-floor---roof-terrace"
-        },
-        {
-          "yaw": -2.93691560763623,
-          "pitch": 0.39594161261410754,
-          "rotation": 0,
-          "target": "5-third-floor---bedroom-2"
         }
       ],
       "infoHotspots": []
@@ -414,8 +408,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.315600912479159,
-          "pitch": 0.6729912970110838,
+          "yaw": -2.806821380874119,
+          "pitch": 0.5308401074825753,
           "rotation": 0,
           "target": "9-fourth-floor---loft"
         }
