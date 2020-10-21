@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-wagner---bacement",
-      "name": "Wagner - Bacement",
+      "id": "0-basement",
+      "name": "Basement",
       "levels": [
         {
           "tileSize": 256,
@@ -26,17 +26,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0458702723972895,
-          "pitch": 0.7241256534907876,
+          "yaw": -3.0807061159091393,
+          "pitch": 0.7002808450287823,
           "rotation": 0,
-          "target": "3-wagner---first-floor---stairs"
+          "target": "3-first-floor---stairs"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-wagner---first-floor---bathroom",
-      "name": "Wagner - First Floor - Bathroom",
+      "id": "1-first-floor---kitchen",
+      "name": "First Floor - Kitchen",
       "levels": [
         {
           "tileSize": 256,
@@ -60,17 +60,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.5400564723815968,
-          "pitch": 1.37173812867168,
+          "yaw": 0.1555537337371291,
+          "pitch": 0.2711714953602353,
           "rotation": 0,
-          "target": "3-wagner---first-floor---stairs"
+          "target": "2-first-floor---living-room"
+        },
+        {
+          "yaw": -2.6272621484920027,
+          "pitch": 0.6558689658743084,
+          "rotation": 0,
+          "target": "4-first-floor---dining-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-wagner---first-floor---living-room",
-      "name": "Wagner - First Floor - Living Room",
+      "id": "2-first-floor---living-room",
+      "name": "First Floor - Living Room",
       "levels": [
         {
           "tileSize": 256,
@@ -94,29 +100,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.042509985261958,
-          "pitch": 0.32077911368054757,
+          "yaw": -1.4593965717014648,
+          "pitch": 0.3835778784950268,
           "rotation": 0,
-          "target": "5-wagner---first-floor---kitchen"
+          "target": "3-first-floor---stairs"
         },
         {
-          "yaw": -1.4406903540289129,
-          "pitch": 0.37656187138741437,
+          "yaw": -2.071500191150612,
+          "pitch": 0.37200127683691875,
           "rotation": 0,
-          "target": "3-wagner---first-floor---stairs"
-        },
-        {
-          "yaw": -1.6539036323041216,
-          "pitch": 0.20611304082560267,
-          "rotation": 0,
-          "target": "4-wagner---first-floor---dining-room"
+          "target": "1-first-floor---kitchen"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-wagner---first-floor---stairs",
-      "name": "Wagner - First Floor - Stairs",
+      "id": "3-first-floor---stairs",
+      "name": "First Floor - Stairs",
       "levels": [
         {
           "tileSize": 256,
@@ -140,35 +140,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.9977726052379765,
-          "pitch": 0.7481287707054385,
+          "yaw": -1.4454784075472258,
+          "pitch": 0.4915598986047325,
           "rotation": 0,
-          "target": "0-wagner---bacement"
+          "target": "2-first-floor---living-room"
         },
         {
-          "yaw": -1.5086375146003945,
-          "pitch": 0.5743677638795717,
+          "yaw": 1.5144817671959139,
+          "pitch": 0.35392693279015397,
           "rotation": 0,
-          "target": "2-wagner---first-floor---living-room"
-        },
-        {
-          "yaw": 1.5243490217743556,
-          "pitch": 0.3653103175656707,
-          "rotation": 0,
-          "target": "4-wagner---first-floor---dining-room"
-        },
-        {
-          "yaw": -0.1272928793445427,
-          "pitch": 0.5963531928666068,
-          "rotation": 0,
-          "target": "5-wagner---first-floor---kitchen"
+          "target": "4-first-floor---dining-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "4-wagner---first-floor---dining-room",
-      "name": "Wagner - First-Floor - Dining Room",
+      "id": "4-first-floor---dining-room",
+      "name": "First-Floor - Dining Room",
       "levels": [
         {
           "tileSize": 256,
@@ -192,23 +180,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.4538747775267513,
-          "pitch": 0.330909961499815,
+          "yaw": -1.8630816162087172,
+          "pitch": 0.41751690718187007,
           "rotation": 0,
-          "target": "3-wagner---first-floor---stairs"
+          "target": "1-first-floor---kitchen"
         },
         {
-          "yaw": -1.8578868562243915,
-          "pitch": 0.5023363433184898,
+          "yaw": -2.444479495692871,
+          "pitch": 0.3553105617799286,
           "rotation": 0,
-          "target": "5-wagner---first-floor---kitchen"
+          "target": "3-first-floor---stairs"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "5-wagner---first-floor---kitchen",
-      "name": "Wagner - First Floor - Kitchen",
+      "id": "5-second-floor---bedroom-2",
+      "name": "Second Floor - Bedroom 2",
       "levels": [
         {
           "tileSize": 256,
@@ -232,29 +220,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.15382922487301443,
-          "pitch": 0.2687506785658975,
+          "yaw": -2.792841116574591,
+          "pitch": 0.7084961778570928,
           "rotation": 0,
-          "target": "2-wagner---first-floor---living-room"
-        },
-        {
-          "yaw": -2.5080251191892664,
-          "pitch": 0.6956327866932916,
-          "rotation": 0,
-          "target": "4-wagner---first-floor---dining-room"
-        },
-        {
-          "yaw": -1.5427743615306735,
-          "pitch": 0.404417985737183,
-          "rotation": 0,
-          "target": "9-wagner---second-floor---hall"
+          "target": "6-second-floor---bedroom-3"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "6-wagner---second-floor---beedroom-2",
-      "name": "Wagner - Second Floor - Beedroom 2",
+      "id": "6-second-floor---bedroom-3",
+      "name": "Second Floor - Bedroom 3",
       "levels": [
         {
           "tileSize": 256,
@@ -278,17 +254,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.058476593094138,
-          "pitch": 0.6408255154800884,
+          "yaw": -1.1964147757056,
+          "pitch": 0.7366326323060886,
           "rotation": 0,
-          "target": "9-wagner---second-floor---hall"
+          "target": "5-second-floor---bedroom-2"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "7-wagner---second-floor---beedroom-3",
-      "name": "Wagner - Second Floor - Beedroom 3",
+      "id": "7-second-floor---master-bathroom",
+      "name": "Second Floor - Master Bathroom",
       "levels": [
         {
           "tileSize": 256,
@@ -312,17 +288,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.027318846708157,
-          "pitch": 0.7440091179686839,
+          "yaw": 3.004711322799544,
+          "pitch": 0.514583024198096,
           "rotation": 0,
-          "target": "9-wagner---second-floor---hall"
+          "target": "8-second-floor---master-bedroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "8-wagner---second-floor---closet",
-      "name": "Wagner - Second Floor - Closet",
+      "id": "8-second-floor---master-bedroom",
+      "name": "Second Floor - Master Bedroom",
       "levels": [
         {
           "tileSize": 256,
@@ -346,17 +322,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.8368205157289719,
-          "pitch": 0.8024269417462868,
+          "yaw": -2.119059428186496,
+          "pitch": 0.9120257058886931,
           "rotation": 0,
-          "target": "11-wagner---second-floor---master-bedroom"
+          "target": "7-second-floor---master-bathroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "9-wagner---second-floor---hall",
-      "name": "Wagner - Second Floor - Hall",
+      "id": "9-third-floor---loft",
+      "name": "Third Floor - Loft",
       "levels": [
         {
           "tileSize": 256,
@@ -380,29 +356,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.75820434298668,
-          "pitch": 0.389077901641496,
+          "yaw": -0.6298962136969344,
+          "pitch": 0.4249511842085436,
           "rotation": 0,
-          "target": "6-wagner---second-floor---beedroom-2"
-        },
-        {
-          "yaw": -0.6327038871119335,
-          "pitch": 0.38397585069021645,
-          "rotation": 0,
-          "target": "7-wagner---second-floor---beedroom-3"
-        },
-        {
-          "yaw": 2.300995967536485,
-          "pitch": 1.1992564617656711,
-          "rotation": 0,
-          "target": "11-wagner---second-floor---master-bedroom"
+          "target": "10-third-floor---terrace"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "10-wagner---second-floor---master-bathroom",
-      "name": "Wagner - Second Floor - Master Bathroom",
+      "id": "10-third-floor---terrace",
+      "name": "Third Floor - Terrace",
       "levels": [
         {
           "tileSize": 256,
@@ -426,118 +390,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.6734171809430016,
-          "pitch": 0.7184826561995017,
+          "yaw": 2.1231063185051298,
+          "pitch": 0.37299603146024296,
           "rotation": 0,
-          "target": "11-wagner---second-floor---master-bedroom"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "11-wagner---second-floor---master-bedroom",
-      "name": "Wagner - Second Floor - Master Bedroom",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1024,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -2.054457458280911,
-          "pitch": 0.8697911317730433,
-          "rotation": 0,
-          "target": "10-wagner---second-floor---master-bathroom"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "12-wagner---third-floor---loft",
-      "name": "Wagner - Third Floor - Loft",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1024,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.6811636210764842,
-          "pitch": 0.4241030055399797,
-          "rotation": 0,
-          "target": "13-wagner--third-floor---terrace"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "13-wagner--third-floor---terrace",
-      "name": "Wagner- Third Floor - Terrace",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1024,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": 2.0307280101760874,
-          "pitch": 0.6779034711474736,
-          "rotation": 0,
-          "target": "12-wagner---third-floor---loft"
+          "target": "9-third-floor---loft"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "SMC Wagner VR",
+  "name": "SMC Wagner VR Tour",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
