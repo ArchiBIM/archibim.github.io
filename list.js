@@ -13,6 +13,7 @@ var data = {
 				"SMC Tall Oaks - D55 - A",
 				"SMC Potomac Shores - The Maya",
 				"SMC Riverfront at West Hyattsville - Wagner",
+				"SMC Riverfront at West Hyattsville - Kelly",
             ]
         },
         {
