@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-bedroom",
-      "name": "Bedroom",
+      "id": "0-kitchen--living",
+      "name": "Kitchen / Living",
       "levels": [
         {
           "tileSize": 256,
@@ -18,7 +18,34 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "1-bedroom-2",
+      "name": "Bedroom 2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -26,16 +53,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.9047750592832946,
-          "pitch": 0.5511033077243184,
+          "yaw": 2.620879930994687,
+          "pitch": 0.659370796400033,
           "rotation": 0,
-          "target": "3-living-room--kitchen"
+          "target": "0-kitchen--living"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-master-bedroom",
+      "id": "2-master-bedroom",
       "name": "Master Bedroom",
       "levels": [
         {
@@ -52,7 +79,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -60,22 +87,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.279067330729422,
-          "pitch": 0.5293633053379416,
+          "yaw": 1.9770114568432051,
+          "pitch": 0.7696643807788632,
           "rotation": 0,
-          "target": "2-bathroom"
-        },
-        {
-          "yaw": -0.2873357739226936,
-          "pitch": 0.3954898087867793,
-          "rotation": 0,
-          "target": "3-living-room--kitchen"
+          "target": "3-bathroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-bathroom",
+      "id": "3-bathroom",
       "name": "Bathroom",
       "levels": [
         {
@@ -92,7 +113,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -100,50 +121,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.6765486092166526,
-          "pitch": 0.7267732628195738,
+          "yaw": -1.7871900899733753,
+          "pitch": 0.6735819365409768,
           "rotation": 0,
-          "target": "1-master-bedroom"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "3-living-room--kitchen",
-      "name": "Living Room / Kitchen",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1000,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": 1.9951583242499726,
-          "pitch": 0.37371817251105455,
-          "rotation": 0,
-          "target": "1-master-bedroom"
+          "target": "2-master-bedroom"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "FSC Dylan VR - Unit C5",
+  "name": "FSC Dylan - Unit C5",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
