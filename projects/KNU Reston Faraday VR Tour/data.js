@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-ground-floor---foyer",
-      "name": "Ground Floor - Foyer",
+      "id": "0-1-st-floor-foyer",
+      "name": "1-st Floor Foyer",
       "levels": [
         {
           "tileSize": 256,
@@ -26,17 +26,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.3880881174748332,
-          "pitch": 0.6548244567732695,
+          "yaw": -1.4741085667420624,
+          "pitch": 0.7757328114938726,
           "rotation": 0,
-          "target": "1-second-floor---stairs"
+          "target": "4-2-nd-floor-stairs"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-second-floor---stairs",
-      "name": "Second Floor - Stairs",
+      "id": "1-2-nd-floor-dining-room",
+      "name": "2-nd Floor Dining Room",
       "levels": [
         {
           "tileSize": 256,
@@ -60,35 +60,29 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.004662958582356325,
-          "pitch": 0.2707228303547211,
+          "yaw": 0.16664518575077558,
+          "pitch": 0.3988906707397888,
           "rotation": 0,
-          "target": "4-second-floor---dining-room"
+          "target": "2-2-nd-floor-kitchen"
         },
         {
-          "yaw": -1.2439115448654476,
-          "pitch": 0.535542239301602,
+          "yaw": -0.3962695639561069,
+          "pitch": 0.3152247696943782,
           "rotation": 0,
-          "target": "3-second-floor---kitchen"
+          "target": "4-2-nd-floor-stairs"
         },
         {
-          "yaw": 1.5477388264270386,
-          "pitch": 0.7712868379860556,
+          "yaw": -0.6644296671675889,
+          "pitch": 0.4805357446137535,
           "rotation": 0,
-          "target": "0-ground-floor---foyer"
-        },
-        {
-          "yaw": -2.732312763223124,
-          "pitch": 0.5569201668682702,
-          "rotation": 0,
-          "target": "2-second-floor---great-room"
+          "target": "5-3-rd-floor-bedroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-second-floor---great-room",
-      "name": "Second Floor - Great Room",
+      "id": "2-2-nd-floor-kitchen",
+      "name": "2-nd Floor Kitchen",
       "levels": [
         {
           "tileSize": 256,
@@ -112,23 +106,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.5083331829642468,
-          "pitch": 0.31102182876196593,
+          "yaw": 0.19534895637272953,
+          "pitch": 0.3072091909438228,
           "rotation": 0,
-          "target": "3-second-floor---kitchen"
+          "target": "3-2-nd-floor-living-room"
         },
         {
-          "yaw": 0.05607420106371386,
-          "pitch": 0.3539231583904101,
+          "yaw": -2.7189423797410157,
+          "pitch": 0.4016918719746272,
           "rotation": 0,
-          "target": "1-second-floor---stairs"
+          "target": "1-2-nd-floor-dining-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-second-floor---kitchen",
-      "name": "Second Floor - Kitchen",
+      "id": "3-2-nd-floor-living-room",
+      "name": "2-nd Floor Living Room",
       "levels": [
         {
           "tileSize": 256,
@@ -152,23 +146,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.22284721754748915,
-          "pitch": 0.31186685489435106,
+          "yaw": -0.4871926509734621,
+          "pitch": 0.30251842811998664,
           "rotation": 0,
-          "target": "2-second-floor---great-room"
+          "target": "2-2-nd-floor-kitchen"
         },
         {
-          "yaw": -2.7385439294121507,
-          "pitch": 0.4340915566062957,
+          "yaw": 0.0637434607817724,
+          "pitch": 0.3576368918392543,
           "rotation": 0,
-          "target": "4-second-floor---dining-room"
+          "target": "4-2-nd-floor-stairs"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "4-second-floor---dining-room",
-      "name": "Second Floor - Dining Room",
+      "id": "4-2-nd-floor-stairs",
+      "name": "2-nd Floor Stairs",
       "levels": [
         {
           "tileSize": 256,
@@ -192,17 +186,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.15670875758251057,
-          "pitch": 0.41060260006388205,
+          "yaw": -0.010637909275757806,
+          "pitch": 0.29339196548804836,
           "rotation": 0,
-          "target": "3-second-floor---kitchen"
+          "target": "1-2-nd-floor-dining-room"
+        },
+        {
+          "yaw": -2.7418359378713664,
+          "pitch": 0.47680540560332574,
+          "rotation": 0,
+          "target": "3-2-nd-floor-living-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "5-third-floor---bedroom-2",
-      "name": "Third Floor - Bedroom 2",
+      "id": "5-3-rd-floor-bedroom",
+      "name": "3-rd Floor Bedroom",
       "levels": [
         {
           "tileSize": 256,
@@ -226,17 +226,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.1270751911102348,
-          "pitch": 0.6617635383250882,
+          "yaw": -0.3203078232232883,
+          "pitch": 0.7045349288167184,
           "rotation": 0,
-          "target": "7-third-floor---owners-suite"
+          "target": "6-3-rd-floor-master-bedroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "6-third-floor---owners-bathroom",
-      "name": "Third Floor - Owners Bathroom",
+      "id": "6-3-rd-floor-master-bedroom",
+      "name": "3-rd Floor Master Bedroom",
       "levels": [
         {
           "tileSize": 256,
@@ -260,17 +260,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.59491179312192,
-          "pitch": 0.4894532599545265,
+          "yaw": 1.0199720111139108,
+          "pitch": 0.5085864419362416,
           "rotation": 0,
-          "target": "7-third-floor---owners-suite"
+          "target": "7-3-rd-floor-master-bathroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "7-third-floor---owners-suite",
-      "name": "Third Floor - Owners Suite",
+      "id": "7-3-rd-floor-master-bathroom",
+      "name": "3-rd Floor Master Bathroom",
       "levels": [
         {
           "tileSize": 256,
@@ -294,23 +294,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.0586007676417832,
-          "pitch": 0.4956928145438333,
+          "yaw": -2.798846357302013,
+          "pitch": 0.8790836200375907,
           "rotation": 0,
-          "target": "6-third-floor---owners-bathroom"
-        },
-        {
-          "yaw": 2.3875136885790056,
-          "pitch": 0.3050515680855064,
-          "rotation": 0,
-          "target": "5-third-floor---bedroom-2"
+          "target": "6-3-rd-floor-master-bedroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "8-fourth-floor---bedroom-3",
-      "name": "Fourth Floor - Bedroom 3",
+      "id": "8-4-th-floor-loft-bedroom",
+      "name": "4-th Floor Loft Bedroom",
       "levels": [
         {
           "tileSize": 256,
@@ -334,17 +328,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.667408425213246,
-          "pitch": 0.575210270855198,
+          "yaw": -2.815826261435884,
+          "pitch": 0.5664885066347587,
           "rotation": 0,
-          "target": "9-fourth-floor---loft"
+          "target": "9-4-th-floor-loft"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "9-fourth-floor---loft",
-      "name": "Fourth Floor - Loft",
+      "id": "9-4-th-floor-loft",
+      "name": "4-th Floor Loft",
       "levels": [
         {
           "tileSize": 256,
@@ -368,23 +362,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.5197267823973313,
-          "pitch": 0.42764855060901397,
+          "yaw": 0.5150119932782609,
+          "pitch": 0.47245801580675995,
           "rotation": 0,
-          "target": "8-fourth-floor---bedroom-3"
+          "target": "8-4-th-floor-loft-bedroom"
         },
         {
-          "yaw": -2.5989654102014015,
-          "pitch": 0.7464580250463655,
+          "yaw": -2.5884540626196877,
+          "pitch": 0.7125684832065815,
           "rotation": 0,
-          "target": "10-fourth-floor---roof-terrace"
+          "target": "10-4-th-floor-terrace"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "10-fourth-floor---roof-terrace",
-      "name": "Fourth Floor - Roof Terrace",
+      "id": "10-4-th-floor-terrace",
+      "name": "4-th Floor Terrace",
       "levels": [
         {
           "tileSize": 256,
@@ -408,16 +402,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.806821380874119,
-          "pitch": 0.5308401074825753,
+          "yaw": -2.73581637820077,
+          "pitch": 0.5245167738788794,
           "rotation": 0,
-          "target": "9-fourth-floor---loft"
+          "target": "9-4-th-floor-loft"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "KNU Reston Faraday VR",
+  "name": "KNU Reston Faraday VR Tour",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
