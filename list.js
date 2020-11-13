@@ -14,7 +14,8 @@ var data = {
 				"SMC Potomac Shores - The Maya",
 				"SMC Riverfront at West Hyattsville - Wagner",
 				"SMC Riverfront at West Hyattsville - Kelly",
-				"SMC RIC RK2 The Reuben VR"
+				"SMC RIC RK2 The Reuben VR",
+				"SMC CVL BRH - The Beck"
             ]
         },
         {
