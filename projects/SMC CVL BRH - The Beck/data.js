@@ -122,7 +122,7 @@ var APP_DATA = {
     },
     {
       "id": "3-famili-room",
-      "name": "Famili room",
+      "name": "Family Room",
       "levels": [
         {
           "tileSize": 256,
@@ -168,7 +168,7 @@ var APP_DATA = {
     },
     {
       "id": "4-owners-bedroom",
-      "name": "Owner's bedroom",
+      "name": "Owners Bedroom",
       "levels": [
         {
           "tileSize": 256,
@@ -208,7 +208,7 @@ var APP_DATA = {
     },
     {
       "id": "5-owners-bathroom",
-      "name": "Owner's bathroom",
+      "name": "Owners Bathroom",
       "levels": [
         {
           "tileSize": 256,
@@ -242,7 +242,7 @@ var APP_DATA = {
     },
     {
       "id": "6-flex-space",
-      "name": "Flex space",
+      "name": "Flex Space",
       "levels": [
         {
           "tileSize": 256,
