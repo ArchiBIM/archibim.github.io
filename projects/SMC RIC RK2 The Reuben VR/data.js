@@ -324,7 +324,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "SMC RIC RK2 The Bethany VR",
+  "name": "SMC RIC RK2 The Reuben VR",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
