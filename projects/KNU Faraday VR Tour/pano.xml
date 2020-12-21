@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17904" appversion="6.1.3" start="node2">
+  <panorama id="node2" hideabout="1">
+    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" height="2500" levelingpitch="0" levelingroll="0" overlap="1">
+      <level predecode="0" width="2500" height="2500" preload="0"/>
+      <level predecode="0" width="1250" height="1250" preload="0"/>
+      <level predecode="0" width="625" height="625" preload="0"/>
+      <level predecode="1" width="312" height="312" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="85" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="-102.93" tilt="-90" fovpixel="2"/>
+      <max pan="61.23" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="Exterior Entry" comment="" longitude="" tags="VRs" source="" latitude="" author="Pepo" description="Ground Floor" copyright="" info="" heading="0" nodeid="node2" customnodeid="" datetime="21.12.2020 г. 14:04">
+      <mapcoords y_floorplan_percent="100" mapid="FloorPlan01" y="-2.48703" x="0.795135" x_floorplan_percent="76.0841"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" enabled="1" border="1" borderalpha="1" borderradius="1" wordwrap="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" height="20" background="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-359.52" tilt="-2.11" title="Foyer" description="" url="{node3}" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" zoomoutpause="0" blendtime="0.8" zoomfov="50" type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x727a7e"/>
+    <autorotate enabled="1" returntohorizon="0.000" delay="60.00" nodefilter="" speed="0.040" startloaded="0" noderandom="1" nodedelay="100.00" useanimation="1"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" hideabout="1" lockedkeyboardzoom="0" speedwheel="1.5" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" height="2500" levelingpitch="0" levelingroll="0" overlap="1">
+      <level predecode="0" width="2500" height="2500" preload="0"/>
+      <level predecode="0" width="1250" height="1250" preload="0"/>
+      <level predecode="0" width="625" height="625" preload="0"/>
+      <level predecode="1" width="312" height="312" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-162" tilt="0" fov="85" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="Foyer" comment="" longitude="" tags="VRs" source="" latitude="" author="Pepo" description="Ground Floor" copyright="" info="" heading="0" nodeid="node3" customnodeid="" datetime="21.12.2020 г. 14:04">
+      <mapcoords y_floorplan_percent="73.4401" mapid="FloorPlan01" y="-1.82648" x="0.704498" x_floorplan_percent="67.4113"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" enabled="1" border="1" borderalpha="1" borderradius="1" wordwrap="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" height="20" background="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-167.47" tilt="-7.17" title="Exterior Entry" description="" url="{node2}" target=""/>
+      <hotspot id="Point02" skinid="ht_node" pan="-22.07" tilt="23.9" title="Great Room" description="" url="{node4}" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" zoomoutpause="0" blendtime="0.8" zoomfov="50" type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x727a7e"/>
+    <autorotate enabled="1" returntohorizon="0.000" delay="60.00" nodefilter="" speed="0.040" startloaded="0" noderandom="1" nodedelay="100.00" useanimation="1"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" hideabout="1" lockedkeyboardzoom="0" speedwheel="1.5" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" height="2500" levelingpitch="0" levelingroll="0" overlap="1">
+      <level predecode="0" width="2500" height="2500" preload="0"/>
+      <level predecode="0" width="1250" height="1250" preload="0"/>
+      <level predecode="0" width="625" height="625" preload="0"/>
+      <level predecode="1" width="312" height="312" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="25" tilt="0" fov="85" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="Great Room" comment="" longitude="" tags="VRs" source="" latitude="" author="Pepo" description="Second Floor" copyright="" info="" heading="0" nodeid="node4" customnodeid="" datetime="21.12.2020 г. 14:04">
+      <mapcoords y_floorplan_percent="46.0764" mapid="FloorPlan02" y="-1.19339" x="0.672913" x_floorplan_percent="64.1361"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" enabled="1" border="1" borderalpha="1" borderradius="1" wordwrap="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" height="20" background="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-109.12" tilt="-20.76" title="Foyer" description="" url="{node3}" target=""/>
+      <hotspot id="Point02" skinid="ht_node" pan="-177.62" tilt="-2.61" title="Dining Room" description="" url="{node5}" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" zoomoutpause="0" blendtime="0.8" zoomfov="50" type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x727a7e"/>
+    <autorotate enabled="1" returntohorizon="0.000" delay="60.00" nodefilter="" speed="0.040" startloaded="0" noderandom="1" nodedelay="100.00" useanimation="1"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" hideabout="1" lockedkeyboardzoom="0" speedwheel="1.5" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" height="2500" levelingpitch="0" levelingroll="0" overlap="1">
+      <level predecode="0" width="2500" height="2500" preload="0"/>
+      <level predecode="0" width="1250" height="1250" preload="0"/>
+      <level predecode="0" width="625" height="625" preload="0"/>
+      <level predecode="1" width="312" height="312" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-146.626" fovmode="0">
+      <start pan="0" tilt="0" fov="85" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="Dining Room" comment="" longitude="" tags="VRs" source="" latitude="" author="Pepo" description="Second Floor" copyright="" info="" heading="-146.626" nodeid="node5" customnodeid="" datetime="21.12.2020 г. 14:04">
+      <mapcoords y_floorplan_percent="74.0721" mapid="FloorPlan02" y="-1.91849" x="0.65506" x_floorplan_percent="62.4346"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" enabled="1" border="1" borderalpha="1" borderradius="1" wordwrap="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" height="20" background="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-149.5" tilt="-3.46" title="Great Room" description="" url="{node4}" target=""/>
+      <hotspot id="Point02" skinid="ht_node" pan="-210.53" tilt="16.28" title="Owner's Suite" description="" url="{node6}" target=""/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" pan="-356.670" tilt="13.150" blinding="25.000" alpha="55.000" type="2" color="0xffffff"/>
+      <lensflare id="Lensflare01" pan="-226.780" tilt="40.280" blinding="25.000" alpha="40.000" type="4" color="0xf8ffef"/>
+    </media>
+    <transition softedge="0" enabled="1" zoomoutpause="0" blendtime="0.8" zoomfov="50" type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x727a7e"/>
+    <autorotate enabled="1" returntohorizon="0.000" delay="60.00" nodefilter="" speed="0.040" startloaded="0" noderandom="1" nodedelay="100.00" useanimation="1"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" hideabout="1" lockedkeyboardzoom="0" speedwheel="1.5" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" height="2500" levelingpitch="0" levelingroll="0" overlap="1">
+      <level predecode="0" width="2500" height="2500" preload="0"/>
+      <level predecode="0" width="1250" height="1250" preload="0"/>
+      <level predecode="0" width="625" height="625" preload="0"/>
+      <level predecode="1" width="312" height="312" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-67.7899" fovmode="0">
+      <start pan="-70" tilt="0" fov="85" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="Owner's Suite" comment="" longitude="" tags="VRs" source="" latitude="" author="Pepo" description="Third Floor" copyright="" info="" heading="-67.7899" nodeid="node6" customnodeid="" datetime="21.12.2020 г. 14:04">
+      <mapcoords y_floorplan_percent="30" mapid="FloorPlan03" y="-0.700378" x="0.762177" x_floorplan_percent="72.8346"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" enabled="1" border="1" borderalpha="1" borderradius="1" wordwrap="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" height="20" background="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-324.38" tilt="-5.42" title="Owner's Bath" description="" url="{node7}" target=""/>
+      <hotspot id="Point02" skinid="ht_node" pan="-245.99" tilt="-2.17" title="Bedroom 2" description="" url="{node8}" target=""/>
+      <hotspot id="Point03" skinid="ht_node" pan="-226.02" tilt="-23.83" title="Dining Room" description="" url="{node5}" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" zoomoutpause="0" blendtime="0.8" zoomfov="50" type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x727a7e"/>
+    <autorotate enabled="1" returntohorizon="0.000" delay="60.00" nodefilter="" speed="0.040" startloaded="0" noderandom="1" nodedelay="100.00" useanimation="1"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" hideabout="1" lockedkeyboardzoom="0" speedwheel="1.5" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" height="2500" levelingpitch="0" levelingroll="0" overlap="1">
+      <level predecode="0" width="2500" height="2500" preload="0"/>
+      <level predecode="0" width="1250" height="1250" preload="0"/>
+      <level predecode="0" width="625" height="625" preload="0"/>
+      <level predecode="1" width="312" height="312" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-139.628" fovmode="0">
+      <start pan="0" tilt="0" fov="85" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="Owner's Bath" comment="" longitude="" tags="VRs" source="" latitude="" author="Pepo" description="Third Floor" copyright="" info="" heading="-139.628" nodeid="node7" customnodeid="" datetime="21.12.2020 г. 14:04">
+      <mapcoords y_floorplan_percent="41.2941" mapid="FloorPlan03" y="-0.96405" x="0.248566" x_floorplan_percent="23.7533"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" enabled="1" border="1" borderalpha="1" borderradius="1" wordwrap="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" height="20" background="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-149.35" tilt="-6.91" title="Owner's Suite" description="" url="{node6}" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" zoomoutpause="0" blendtime="0.8" zoomfov="50" type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x727a7e"/>
+    <autorotate enabled="1" returntohorizon="0.000" delay="60.00" nodefilter="" speed="0.040" startloaded="0" noderandom="1" nodedelay="100.00" useanimation="1"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" hideabout="1" lockedkeyboardzoom="0" speedwheel="1.5" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" height="2500" levelingpitch="0" levelingroll="0" overlap="1">
+      <level predecode="0" width="2500" height="2500" preload="0"/>
+      <level predecode="0" width="1250" height="1250" preload="0"/>
+      <level predecode="0" width="625" height="625" preload="0"/>
+      <level predecode="1" width="312" height="312" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-132.012" fovmode="0">
+      <start pan="0" tilt="0" fov="85" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="Bedroom 2" comment="" longitude="" tags="VRs" source="" latitude="" author="Pepo" description="Third Floor" copyright="" info="" heading="-132.012" nodeid="node8" customnodeid="" datetime="21.12.2020 г. 14:04">
+      <mapcoords y_floorplan_percent="78.7647" mapid="FloorPlan03" y="-1.83884" x="0.764923" x_floorplan_percent="73.0971"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" enabled="1" border="1" borderalpha="1" borderradius="1" wordwrap="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" height="20" background="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-129.99" tilt="-2.66" title="Owner's Suite" description="" url="{node6}" target=""/>
+      <hotspot id="Point02" skinid="ht_node" pan="-149.1" tilt="21.12" title="Loft" description="" url="{node9}" target=""/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" pan="-134.460" tilt="56.570" blinding="25.000" alpha="40.000" type="4" color="0xf8ffef"/>
+    </media>
+    <transition softedge="0" enabled="1" zoomoutpause="0" blendtime="0.8" zoomfov="50" type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x727a7e"/>
+    <autorotate enabled="1" returntohorizon="0.000" delay="60.00" nodefilter="" speed="0.040" startloaded="0" noderandom="1" nodedelay="100.00" useanimation="1"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" hideabout="1" lockedkeyboardzoom="0" speedwheel="1.5" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" height="2500" levelingpitch="0" levelingroll="0" overlap="1">
+      <level predecode="0" width="2500" height="2500" preload="0"/>
+      <level predecode="0" width="1250" height="1250" preload="0"/>
+      <level predecode="0" width="625" height="625" preload="0"/>
+      <level predecode="1" width="312" height="312" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-90.2781" fovmode="0">
+      <start pan="0" tilt="0" fov="85" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="Loft" comment="" longitude="" tags="VRs" source="" latitude="" author="Pepo" description="Loft Floor" copyright="" info="" heading="-90.2781" nodeid="node9" customnodeid="" datetime="21.12.2020 г. 14:04">
+      <mapcoords y_floorplan_percent="50.895" mapid="FloorPlan04" y="-1.17142" x="0.741577" x_floorplan_percent="70.4961"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" enabled="1" border="1" borderalpha="1" borderradius="1" wordwrap="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" height="20" background="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-141.72" tilt="-15.13" title="Bedroom 2" description="" url="{node8}" target=""/>
+      <hotspot id="Point02" skinid="ht_node" pan="-86.72" tilt="-4.95" title="Roof Terrace" description="" url="{node11}" target=""/>
+      <hotspot id="Point03" skinid="ht_node" pan="-300.11" tilt="-4.19" title="Bedroom 3" description="" url="{node10}" target=""/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" pan="-46.160" tilt="13.500" blinding="30.000" alpha="50.000" type="2" color="0xffffff"/>
+    </media>
+    <transition softedge="0" enabled="1" zoomoutpause="0" blendtime="0.8" zoomfov="50" type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x727a7e"/>
+    <autorotate enabled="1" returntohorizon="0.000" delay="60.00" nodefilter="" speed="0.040" startloaded="0" noderandom="1" nodedelay="100.00" useanimation="1"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" hideabout="1" lockedkeyboardzoom="0" speedwheel="1.5" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" height="2500" levelingpitch="0" levelingroll="0" overlap="1">
+      <level predecode="0" width="2500" height="2500" preload="0"/>
+      <level predecode="0" width="1250" height="1250" preload="0"/>
+      <level predecode="0" width="625" height="625" preload="0"/>
+      <level predecode="1" width="312" height="312" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="114.536" fovmode="0">
+      <start pan="0" tilt="0" fov="85" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="Bedroom 3" comment="" longitude="" tags="VRs" source="" latitude="" author="Pepo" description="Loft Floor" copyright="" info="" heading="114.536" nodeid="node10" customnodeid="" datetime="21.12.2020 г. 14:04">
+      <mapcoords y_floorplan_percent="73.568" mapid="FloorPlan04" y="-1.69327" x="0.457306" x_floorplan_percent="43.4726"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" enabled="1" border="1" borderalpha="1" borderradius="1" wordwrap="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" height="20" background="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-223.64" tilt="-9.09" title="Loft" description="" url="{node9}" target=""/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" zoomoutpause="0" blendtime="0.8" zoomfov="50" type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x727a7e"/>
+    <autorotate enabled="1" returntohorizon="0.000" delay="60.00" nodefilter="" speed="0.040" startloaded="0" noderandom="1" nodedelay="100.00" useanimation="1"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" hideabout="1" lockedkeyboardzoom="0" speedwheel="1.5" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" height="2500" levelingpitch="0" levelingroll="0" overlap="1">
+      <level predecode="0" width="2500" height="2500" preload="0"/>
+      <level predecode="0" width="1250" height="1250" preload="0"/>
+      <level predecode="0" width="625" height="625" preload="0"/>
+      <level predecode="1" width="312" height="312" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="85" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata title="Roof Terrace" comment="" longitude="" tags="VRs" source="" latitude="" author="Pepo" description="Loft Floor" copyright="" info="" heading="0" nodeid="node11" customnodeid="" datetime="21.12.2020 г. 14:04">
+      <mapcoords y_floorplan_percent="29.7733" mapid="FloorPlan04" y="-0.685272" x="0.490265" x_floorplan_percent="46.6057"/>
+    </userdata>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" enabled="1" border="1" borderalpha="1" borderradius="1" wordwrap="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" height="20" background="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-163.87" tilt="-4.22" title="Loft" description="" url="{node9}" target=""/>
+    </hotspots>
+    <media>
+      <lensflare id="Lensflare01" pan="-305.220" tilt="38.430" blinding="40.000" alpha="65.000" type="2" color="0xffffff"/>
+    </media>
+    <transition softedge="0" enabled="1" zoomoutpause="0" blendtime="0.8" zoomfov="50" type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x727a7e"/>
+    <autorotate enabled="1" returntohorizon="0.000" delay="60.00" nodefilter="" speed="0.040" startloaded="0" noderandom="1" nodedelay="100.00" useanimation="1"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation useinautorotation="1" syncanimationwithvideo="1" animsequence="Animation01"/>
+    <control lockedmouse="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboard="0" sensitivity="8" invertwheel="0" contextfullscreen="1" dblclickfullscreen="0" hideabout="1" lockedkeyboardzoom="0" speedwheel="1.5" rubberband="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" comment="" longitude="" tags="" source="" latitude="" author="" description="" copyright="" info="" heading="0" nodeid="master" customnodeid="" datetime=""/>
+  </masternode>
+  <map id="FloorPlan01" title="Ground Floor" bgcolor="rgba(255, 255, 255, 0.588235)" floorplannorth="0" type="file" zoomlevels="1" width="761" tileformat="png" height="1811" transparent="0"/>
+  <map id="FloorPlan02" title="Second Floor" bgcolor="rgba(255, 255, 255, 0.588235)" floorplannorth="0" type="file" zoomlevels="1" width="764" tileformat="png" height="1886" transparent="0"/>
+  <map id="FloorPlan03" title="Third Floor" bgcolor="rgba(255, 255, 255, 0.588235)" floorplannorth="0" type="file" zoomlevels="1" width="762" tileformat="png" height="1700" transparent="0"/>
+  <map id="FloorPlan04" title="Loft Floor" bgcolor="rgba(255, 255, 255, 0.588235)" floorplannorth="0" type="file" zoomlevels="1" width="766" tileformat="png" height="1676" transparent="0"/>
+</tour>

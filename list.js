@@ -60,6 +60,7 @@ var data = {
 			name: "KNU",
 			dirs: [
 			"KNU Reston Faraday VR Tour",
+			"KNU Faraday VR Tour"
 			]
 		}
     ]
