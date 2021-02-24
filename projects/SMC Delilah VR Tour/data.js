@@ -26,23 +26,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.22845962078980264,
-          "pitch": 0.46833539905849975,
+          "yaw": -1.2401562301962592,
+          "pitch": 0.6231902021928395,
           "rotation": 0,
-          "target": "1-lower-lvl"
-        },
-        {
-          "yaw": -1.1102869486055233,
-          "pitch": -0.26719478893179627,
-          "rotation": 0,
-          "target": "2-main-lvl-living-room"
+          "target": "0-lower-lvl-entry"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-lower-lvl",
-      "name": "Lower lvl.",
+      "id": "1-main-lvl-dining-room",
+      "name": "Main lvl. Dining Room",
       "levels": [
         {
           "tileSize": 256,
@@ -66,10 +60,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.2747781119739727,
-          "pitch": 0.3689913911393834,
+          "yaw": 0.8374471097934553,
+          "pitch": 0.29816035064185087,
           "rotation": 0,
-          "target": "0-lower-lvl-entry"
+          "target": "2-main-lvl-living-room"
+        },
+        {
+          "yaw": -0.6237146455520239,
+          "pitch": 0.6917705089281547,
+          "rotation": 0,
+          "target": "7-upper-lvl-master-bedroom"
         }
       ],
       "infoHotspots": []
@@ -100,115 +100,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.7193280307898906,
-          "pitch": 0.3876896626022024,
+          "yaw": -0.534722817363317,
+          "pitch": 0.2915144382034107,
           "rotation": 0,
-          "target": "4-main-lvl-kitchen"
+          "target": "1-main-lvl-dining-room"
         },
         {
-          "yaw": 0.15517859119482935,
-          "pitch": 0.3605682942153585,
-          "rotation": 0,
-          "target": "0-lower-lvl-entry"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "3-main-lvl-dining",
-      "name": "Main lvl. Dining",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1024,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.38723223943116025,
-          "pitch": 0.3405249340270302,
-          "rotation": 0,
-          "target": "6-upper-lvl-stairs"
-        },
-        {
-          "yaw": 0.7986446317567868,
-          "pitch": 0.28434152487844955,
-          "rotation": 0,
-          "target": "4-main-lvl-kitchen"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "4-main-lvl-kitchen",
-      "name": "Main lvl. Kitchen",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1024,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": 0.9088558208409552,
-          "pitch": 0.431342431158944,
-          "rotation": 0,
-          "target": "2-main-lvl-living-room"
-        },
-        {
-          "yaw": 0.29040830732071754,
-          "pitch": 0.4362390292420404,
+          "yaw": 0.5298576672530739,
+          "pitch": 0.638423552348371,
           "rotation": 0,
           "target": "0-lower-lvl-entry"
-        },
-        {
-          "yaw": -1.3182190819460313,
-          "pitch": 0.28698170061138306,
-          "rotation": 0,
-          "target": "3-main-lvl-dining"
-        },
-        {
-          "yaw": -0.6308856440551995,
-          "pitch": 0.2519780066690096,
-          "rotation": 0,
-          "target": "5-main-lvl-bathroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "5-main-lvl-bathroom",
-      "name": "Main lvl. Bathroom",
+      "id": "3-upper-lvl-bathroom",
+      "name": "Upper lvl. Bathroom",
       "levels": [
         {
           "tileSize": 256,
@@ -232,17 +140,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.8927836414454298,
-          "pitch": 0.18915939203935395,
+          "yaw": -3.0942961542461838,
+          "pitch": 0.7501753955246357,
           "rotation": 0,
-          "target": "2-main-lvl-living-room"
+          "target": "8-loft-lvl"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "6-upper-lvl-stairs",
-      "name": "Upper lvl. Stairs",
+      "id": "4-upper-lvl-bedroom-2",
+      "name": "Upper lvl. Bedroom 2",
       "levels": [
         {
           "tileSize": 256,
@@ -266,34 +174,90 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.009336316057700245,
-          "pitch": 0.6132267891930017,
+          "yaw": 2.797532352690281,
+          "pitch": 0.650545361025852,
+          "rotation": 0,
+          "target": "8-loft-lvl"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-upper-lvl-bedroom-3",
+      "name": "Upper lvl. Bedroom 3",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1024,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0897472235476613,
+          "pitch": 0.8464137579030719,
+          "rotation": 0,
+          "target": "4-upper-lvl-bedroom-2"
+        },
+        {
+          "yaw": 2.6898242903398195,
+          "pitch": 0.3520540533155483,
           "rotation": 0,
           "target": "7-upper-lvl-master-bedroom"
         },
         {
-          "yaw": 2.9439741916214492,
-          "pitch": 0.66701509389652,
+          "yaw": 2.9135813590214354,
+          "pitch": 0.6215172905339124,
           "rotation": 0,
-          "target": "11-upper-lvl-bedroom-3"
+          "target": "3-upper-lvl-bathroom"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "6-upper-lvl-master-bathroom",
+      "name": "Upper lvl. Master Bathroom",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
         },
         {
-          "yaw": 2.676865986459921,
-          "pitch": 0.7247892608904127,
-          "rotation": 0,
-          "target": "10-upper-lvl-bedroom-2"
+          "tileSize": 512,
+          "size": 512
         },
         {
-          "yaw": 2.1807604463868033,
-          "pitch": 1.063071675111594,
-          "rotation": 0,
-          "target": "9-upper-lvl-bathroom"
-        },
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1024,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
         {
-          "yaw": -2.3998336238110856,
-          "pitch": 0.4222672265807237,
+          "yaw": 2.251477014272429,
+          "pitch": 0.607626838062048,
           "rotation": 0,
-          "target": "12-loft-lvl"
+          "target": "7-upper-lvl-master-bedroom"
         }
       ],
       "infoHotspots": []
@@ -322,133 +286,30 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "8-upper-lvl-master-bath",
-      "name": "Upper lvl. Master Bath",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1024,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "9-upper-lvl-bathroom",
-      "name": "Upper lvl. Bathroom",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1024,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "10-upper-lvl-bedroom-2",
-      "name": "Upper lvl. Bedroom 2",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1024,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
       "linkHotspots": [
         {
-          "yaw": -0.5992787566339182,
-          "pitch": 0.6666798929006195,
+          "yaw": 0.761644782077159,
+          "pitch": 0.5951127025185379,
           "rotation": 0,
-          "target": "6-upper-lvl-stairs"
+          "target": "6-upper-lvl-master-bathroom"
+        },
+        {
+          "yaw": 2.3185826418606137,
+          "pitch": 0.32463014820817193,
+          "rotation": 0,
+          "target": "5-upper-lvl-bedroom-3"
+        },
+        {
+          "yaw": 2.458248992897772,
+          "pitch": 0.402510536969805,
+          "rotation": 0,
+          "target": "8-loft-lvl"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "11-upper-lvl-bedroom-3",
-      "name": "Upper lvl. Bedroom 3",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1024,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": 0.45180101666684713,
-          "pitch": 0.6324321146856136,
-          "rotation": 0,
-          "target": "6-upper-lvl-stairs"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "12-loft-lvl",
+      "id": "8-loft-lvl",
       "name": "Loft lvl.",
       "levels": [
         {
@@ -473,16 +334,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.9073883956947153,
-          "pitch": 0.5280828375858135,
+          "yaw": -2.78761655081553,
+          "pitch": 0.7706707057336484,
           "rotation": 0,
-          "target": "13-loft-lvl-terrace"
+          "target": "9-loft-lvl-terrace"
+        },
+        {
+          "yaw": 1.216736678910726,
+          "pitch": 0.8083513924968173,
+          "rotation": 0,
+          "target": "7-upper-lvl-master-bedroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "13-loft-lvl-terrace",
+      "id": "9-loft-lvl-terrace",
       "name": "Loft lvl. Terrace",
       "levels": [
         {
@@ -507,16 +374,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.1468838431510271,
-          "pitch": 0.43873744539238757,
+          "yaw": 2.8106982789844333,
+          "pitch": 0.7200141958302435,
           "rotation": 0,
-          "target": "12-loft-lvl"
+          "target": "8-loft-lvl"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "Delilah D VR tour",
+  "name": "Delilah D VR tour R2",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
