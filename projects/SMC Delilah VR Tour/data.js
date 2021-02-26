@@ -29,7 +29,7 @@ var APP_DATA = {
           "yaw": -1.2401562301962592,
           "pitch": 0.6231902021928395,
           "rotation": 0,
-          "target": "0-lower-lvl-entry"
+          "target": "1-main-lvl-dining-room"
         }
       ],
       "infoHotspots": []
