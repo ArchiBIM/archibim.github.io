@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-entry",
-      "name": "Entry",
+      "id": "0-a3-bathroom",
+      "name": "A3 Bathroom",
       "levels": [
         {
           "tileSize": 256,
@@ -26,17 +26,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.36019731335086114,
-          "pitch": 0.40239517718633877,
+          "yaw": 0.47244880609459017,
+          "pitch": 0.551103046704851,
           "rotation": 0,
-          "target": "1-kitchen--living"
+          "target": "1-a3-bedroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-kitchen--living",
-      "name": "Kitchen / Living",
+      "id": "1-a3-bedroom",
+      "name": "A3 Bedroom",
       "levels": [
         {
           "tileSize": 256,
@@ -60,23 +60,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.48190483583463894,
-          "pitch": 0.27893230218719545,
+          "yaw": 2.625139434008565,
+          "pitch": 0.9236298281027686,
           "rotation": 0,
-          "target": "0-entry"
+          "target": "0-a3-bathroom"
         },
         {
-          "yaw": 0.899881695662728,
-          "pitch": 0.5906346711319088,
+          "yaw": 1.0221842105534762,
+          "pitch": 0.651150282966448,
           "rotation": 0,
-          "target": "2-bedroom"
+          "target": "2-a3-kitchen---living-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-bedroom",
-      "name": "Bedroom",
+      "id": "2-a3-kitchen---living-room",
+      "name": "A3 Kitchen - Living Room",
       "levels": [
         {
           "tileSize": 256,
@@ -100,17 +100,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.5558375149348196,
-          "pitch": 0.8669887131398948,
+          "yaw": 0.4776482235687318,
+          "pitch": 0.26340884525637165,
           "rotation": 0,
-          "target": "3-bathroom"
+          "target": "3-a3-entry"
+        },
+        {
+          "yaw": 0.9574204113799514,
+          "pitch": 0.6114154030132788,
+          "rotation": 0,
+          "target": "1-a3-bedroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-bathroom",
-      "name": "Bathroom",
+      "id": "3-a3-entry",
+      "name": "A3 Entry",
       "levels": [
         {
           "tileSize": 256,
@@ -134,10 +140,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.40979563652706474,
-          "pitch": 0.5500822290024576,
+          "yaw": 0.280055130814139,
+          "pitch": 0.45062025538388184,
           "rotation": 0,
-          "target": "2-bedroom"
+          "target": "1-a3-bedroom"
+        },
+        {
+          "yaw": 0.38186505274052607,
+          "pitch": 0.25054935161254477,
+          "rotation": 0,
+          "target": "2-a3-kitchen---living-room"
         }
       ],
       "infoHotspots": []
