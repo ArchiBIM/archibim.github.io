@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-entry",
-      "name": "Entry",
+      "id": "0-b1-bathroom",
+      "name": "B1 Bathroom",
       "levels": [
         {
           "tileSize": 256,
@@ -26,17 +26,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.01287573474557746,
-          "pitch": 0.4543438324685152,
+          "yaw": -1.6907785251970537,
+          "pitch": 0.5497635383308843,
           "rotation": 0,
-          "target": "1-kitchen--living"
+          "target": "1-b1-bedroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-kitchen--living",
-      "name": "Kitchen / Living",
+      "id": "1-b1-bedroom",
+      "name": "B1 Bedroom",
       "levels": [
         {
           "tileSize": 256,
@@ -60,23 +60,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.5746445064350443,
-          "pitch": 0.22072298912876143,
+          "yaw": 2.643852468149115,
+          "pitch": 0.5999344048400346,
           "rotation": 0,
-          "target": "0-entry"
-        },
-        {
-          "yaw": 0.6838610251315362,
-          "pitch": 0.4068816265873547,
-          "rotation": 0,
-          "target": "2-bedroom"
+          "target": "0-b1-bathroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-bedroom",
-      "name": "Bedroom",
+      "id": "2-b1-entry",
+      "name": "B1 Entry",
       "levels": [
         {
           "tileSize": 256,
@@ -100,17 +94,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.6831904548664145,
-          "pitch": 0.6352071208809278,
+          "yaw": 0.09430957924688244,
+          "pitch": 0.504564647290696,
           "rotation": 0,
-          "target": "3-bathroom"
+          "target": "3-b1-kitchen---living-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-bathroom",
-      "name": "Bathroom",
+      "id": "3-b1-kitchen---living-room",
+      "name": "B1 Kitchen - Living Room",
       "levels": [
         {
           "tileSize": 256,
@@ -134,10 +128,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.7406363990782552,
-          "pitch": 0.613704919426624,
+          "yaw": 0.6459967289193926,
+          "pitch": 0.25624779144437326,
           "rotation": 0,
-          "target": "2-bedroom"
+          "target": "2-b1-entry"
+        },
+        {
+          "yaw": -2.54822402929903,
+          "pitch": 0.46791564062131386,
+          "rotation": 0,
+          "target": "1-b1-bedroom"
         }
       ],
       "infoHotspots": []
@@ -147,7 +147,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
