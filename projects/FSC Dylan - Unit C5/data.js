@@ -29,14 +29,14 @@ var APP_DATA = {
           "yaw": 2.635499513087158,
           "pitch": 0.6544148611327092,
           "rotation": 0,
-          "target": "1-c5-kitchen---loving"
+          "target": "1-c5-kitchen---living"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-c5-kitchen---loving",
-      "name": "C5 Kitchen - Loving",
+      "id": "1-c5-kitchen---living",
+      "name": "C5 Kitchen - Living",
       "levels": [
         {
           "tileSize": 256,
