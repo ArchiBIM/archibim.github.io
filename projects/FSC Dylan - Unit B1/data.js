@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-b1-bathroom",
-      "name": "B1 Bathroom",
+      "id": "0-b1-den",
+      "name": "B1 Den",
       "levels": [
         {
           "tileSize": 256,
@@ -26,17 +26,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.6907785251970537,
-          "pitch": 0.5497635383308843,
+          "yaw": 0.8525823896236915,
+          "pitch": 0.5865015745367863,
           "rotation": 0,
-          "target": "1-b1-bedroom"
+          "target": "1-b1-kitchen---living"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-b1-bedroom",
-      "name": "B1 Bedroom",
+      "id": "1-b1-kitchen---living",
+      "name": "B1 Kitchen - Living",
       "levels": [
         {
           "tileSize": 256,
@@ -60,17 +60,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.643852468149115,
-          "pitch": 0.5999344048400346,
+          "yaw": 0.5944376173175918,
+          "pitch": 0.2544282198814152,
           "rotation": 0,
-          "target": "0-b1-bathroom"
+          "target": "0-b1-den"
+        },
+        {
+          "yaw": -2.569287240287869,
+          "pitch": 0.47314264267116357,
+          "rotation": 0,
+          "target": "3-b1-master-bedroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-b1-entry",
-      "name": "B1 Entry",
+      "id": "2-b1-master-bathroom",
+      "name": "B1 Master Bathroom",
       "levels": [
         {
           "tileSize": 256,
@@ -94,17 +100,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.09430957924688244,
-          "pitch": 0.504564647290696,
+          "yaw": -1.701442274821904,
+          "pitch": 0.571428256046298,
           "rotation": 0,
-          "target": "3-b1-kitchen---living-room"
+          "target": "3-b1-master-bedroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-b1-kitchen---living-room",
-      "name": "B1 Kitchen - Living Room",
+      "id": "3-b1-master-bedroom",
+      "name": "B1 Master Bedroom",
       "levels": [
         {
           "tileSize": 256,
@@ -128,16 +134,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.6459967289193926,
-          "pitch": 0.25624779144437326,
+          "yaw": 2.6474725413637046,
+          "pitch": 0.5979664561255795,
           "rotation": 0,
-          "target": "2-b1-entry"
-        },
-        {
-          "yaw": -2.54822402929903,
-          "pitch": 0.46791564062131386,
-          "rotation": 0,
-          "target": "1-b1-bedroom"
+          "target": "2-b1-master-bathroom"
         }
       ],
       "infoHotspots": []
@@ -147,7 +147,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };
