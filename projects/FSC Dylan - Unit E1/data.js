@@ -26,8 +26,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.0717549000595774,
-          "pitch": 0.6870930596048623,
+          "yaw": -1.0864771850505797,
+          "pitch": 0.6765466404451228,
           "rotation": 0,
           "target": "1-e1-bedroom"
         }
@@ -60,17 +60,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.32624170882828807,
-          "pitch": 0.7356069454822745,
+          "yaw": -0.34491486412811767,
+          "pitch": 0.6346591904985566,
           "rotation": 0,
           "target": "0-e1-bathroom"
+        },
+        {
+          "yaw": -2.788002248997344,
+          "pitch": 0.5948261189288999,
+          "rotation": 0,
+          "target": "2-e1-kitchen--living"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-e1-kitchen---living-room",
-      "name": "E1 Kitchen - Living Room",
+      "id": "2-e1-kitchen--living",
+      "name": "E1 Kitchen- Living",
       "levels": [
         {
           "tileSize": 256,
@@ -94,8 +100,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.8024319118363845,
-          "pitch": 0.6392161643686212,
+          "yaw": 2.7479072104162077,
+          "pitch": 0.6231198154548299,
           "rotation": 0,
           "target": "1-e1-bedroom"
         }
