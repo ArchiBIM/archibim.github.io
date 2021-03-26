@@ -26,8 +26,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.8525823896236915,
-          "pitch": 0.5865015745367863,
+          "yaw": 0.9680704642717046,
+          "pitch": 0.6310079639654909,
           "rotation": 0,
           "target": "1-b1-kitchen---living"
         }
@@ -60,14 +60,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.5944376173175918,
-          "pitch": 0.2544282198814152,
-          "rotation": 0,
-          "target": "0-b1-den"
-        },
-        {
-          "yaw": -2.569287240287869,
-          "pitch": 0.47314264267116357,
+          "yaw": 0.6875794323935356,
+          "pitch": 0.39676345097953813,
           "rotation": 0,
           "target": "3-b1-master-bedroom"
         }
@@ -100,8 +94,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.701442274821904,
-          "pitch": 0.571428256046298,
+          "yaw": -1.689114615559724,
+          "pitch": 0.578889857711518,
           "rotation": 0,
           "target": "3-b1-master-bedroom"
         }
@@ -134,8 +128,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.6474725413637046,
-          "pitch": 0.5979664561255795,
+          "yaw": 2.695980279898018,
+          "pitch": 0.5972494341893704,
           "rotation": 0,
           "target": "2-b1-master-bathroom"
         }
