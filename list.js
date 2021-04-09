@@ -62,7 +62,8 @@ var data = {
 			dirs: [
 			"KNU Reston Faraday VR Tour",
 			"KNU Faraday VR Tour",
-			"KNU District Towns - 20 ft unit"
+			"KNU District Towns - 20 ft unit",
+			"KNU District Towns - 16 ft unit"
 			]
 		}
     ]
