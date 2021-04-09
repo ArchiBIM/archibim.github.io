@@ -36,7 +36,7 @@ var APP_DATA = {
     },
     {
       "id": "1-flex-space",
-      "name": "Flex space",
+      "name": "Loft",
       "levels": [
         {
           "tileSize": 256,
