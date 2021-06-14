@@ -18,7 +18,8 @@ var data = {
 				"SMC RIC RK2 The Bethany VR",
 				"SMC CVL BRH - The Beck",
 				"SMC Delilah VR Tour",
-				"SMC The Dana A"
+				"SMC The Dana A",
+				"SMC The Dana B end"
             ]
         },
         {
