@@ -19,7 +19,8 @@ var data = {
 				"SMC CVL BRH - The Beck",
 				"SMC Delilah VR Tour",
 				"SMC The Dana A",
-				"SMC The Dana B end"
+				"SMC The Dana B end",
+				"SMC The Beck - Changes"
             ]
         },
         {
