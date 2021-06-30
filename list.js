@@ -20,7 +20,8 @@ var data = {
 				"SMC Delilah VR Tour",
 				"SMC The Dana A",
 				"SMC The Dana B end",
-				"SMC The Beck - Changes"
+				"SMC The Beck - Changes",
+				"Cabin Branch - Avenlee F"
             ]
         },
         {
