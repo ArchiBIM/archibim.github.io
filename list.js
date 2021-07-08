@@ -52,6 +52,8 @@ var data = {
 				"EYA Midline - Reston - Unit A - R2",
 				"EYA Midline - Reston - Unit B - R2",
 				"EYA Midline - Reston - Unit C - R2",
+				"EYA Sutton Heights - Unit B2",
+				"EYA Sutton Heights - Unit C1"
 			]
 		},
 		{
