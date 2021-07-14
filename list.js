@@ -21,8 +21,8 @@ var data = {
 				"SMC The Dana A",
 				"SMC The Dana B end",
 				"SMC The Beck - Changes",
-				"Cabin Branch - Avenlee F",
-				"Cabin Branch - Oberon D",
+				"SMC Cabin Branch - Avenlee F",
+				"SMC Cabin Branch - Oberon D",
 				"SMC Retreat at One"
             ]
         },
