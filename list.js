@@ -23,7 +23,8 @@ var data = {
 				"SMC The Beck - Changes",
 				"SMC Cabin Branch - Avenlee F",
 				"SMC Cabin Branch - Oberon D",
-				"SMC Retreat at One"
+				"SMC Retreat at One",
+				"SMC RAO - Balfour H End"
             ]
         },
         {
