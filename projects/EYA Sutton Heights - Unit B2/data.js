@@ -18,7 +18,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -26,14 +26,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.211870186948584,
-          "pitch": 0.02460584342836647,
+          "yaw": 1.3300780288129346,
+          "pitch": 0.4795799937823215,
           "rotation": 0,
           "target": "1-rec-room"
         },
         {
-          "yaw": -0.21911712357391266,
-          "pitch": -0.12017787127932777,
+          "yaw": -0.1936191312536657,
+          "pitch": -0.14214677698222644,
           "rotation": 0,
           "target": "2-second-floor-landing"
         }
@@ -58,7 +58,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -66,8 +66,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.7739554305496945,
-          "pitch": 0.026536885284304645,
+          "yaw": 0.7085556271347802,
+          "pitch": 0.35294752565992127,
           "rotation": 0,
           "target": "0-foyer"
         }
@@ -92,7 +92,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -100,74 +100,34 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.6192202888921878,
-          "pitch": 0.5581951506266858,
+          "yaw": 1.5982000489419548,
+          "pitch": 0.6199245338204715,
           "rotation": 0,
           "target": "0-foyer"
         },
         {
-          "yaw": -0.5396049913306697,
-          "pitch": 0.06037606546071217,
+          "yaw": 0.15322090494979257,
+          "pitch": 0.4125820624424783,
           "rotation": 0,
-          "target": "5-kitchen"
+          "target": "4-kitchen"
         },
         {
-          "yaw": 0.44129814871980066,
-          "pitch": 0.17672131003076252,
+          "yaw": 0.9903208668101993,
+          "pitch": 0.2682238435336082,
           "rotation": 0,
-          "target": "4-dining"
+          "target": "5-living-room"
         },
         {
-          "yaw": 1.0675702352598222,
-          "pitch": 0.24202272439393901,
+          "yaw": 0.514203217064626,
+          "pitch": 0.39778101237935637,
           "rotation": 0,
-          "target": "3-living-room"
+          "target": "3-dining"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-living-room",
-      "name": "Living Room",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1000,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": 1.8475771359340305,
-          "pitch": 0.41623427594628026,
-          "rotation": 0,
-          "target": "4-dining"
-        },
-        {
-          "yaw": 0.8427042806686504,
-          "pitch": -0.22570488059603733,
-          "rotation": 0,
-          "target": "6-3rd-floor-corridor"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "4-dining",
+      "id": "3-dining",
       "name": "Dining",
       "levels": [
         {
@@ -184,7 +144,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -192,34 +152,34 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.7695069646805024,
-          "pitch": 0.011829393365799135,
+          "yaw": 1.8647242052107442,
+          "pitch": 0.3753067086986608,
           "rotation": 0,
           "target": "2-second-floor-landing"
         },
         {
-          "yaw": 1.0557774918230436,
-          "pitch": -0.23876517141869513,
+          "yaw": 2.952985237973488,
+          "pitch": 0.41529927397911237,
+          "rotation": 0,
+          "target": "4-kitchen"
+        },
+        {
+          "yaw": -0.11516249573000081,
+          "pitch": 0.45474406966018677,
+          "rotation": 0,
+          "target": "5-living-room"
+        },
+        {
+          "yaw": 1.1945541409011717,
+          "pitch": -0.30078819603654416,
           "rotation": 0,
           "target": "6-3rd-floor-corridor"
-        },
-        {
-          "yaw": 2.923364912330787,
-          "pitch": 0.1723586390655356,
-          "rotation": 0,
-          "target": "5-kitchen"
-        },
-        {
-          "yaw": -0.18903145374200925,
-          "pitch": 0.3174687948034727,
-          "rotation": 0,
-          "target": "3-living-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "5-kitchen",
+      "id": "4-kitchen",
       "name": "Kitchen",
       "levels": [
         {
@@ -236,7 +196,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -244,10 +204,62 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.036638188332885235,
-          "pitch": 0.2904084981384827,
+          "yaw": -0.012219353528482912,
+          "pitch": 0.32050572785366604,
           "rotation": 0,
-          "target": "4-dining"
+          "target": "3-dining"
+        },
+        {
+          "yaw": 0.0020366525057333718,
+          "pitch": 0.2009176435198441,
+          "rotation": 0,
+          "target": "5-living-room"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-living-room",
+      "name": "Living Room",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1024,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.8845060731410417,
+          "pitch": -0.2661350487361531,
+          "rotation": 0,
+          "target": "6-3rd-floor-corridor"
+        },
+        {
+          "yaw": 1.4584621057207396,
+          "pitch": 0.5515113836320609,
+          "rotation": 0,
+          "target": "3-dining"
+        },
+        {
+          "yaw": 1.8518435966434543,
+          "pitch": 0.2677940241973893,
+          "rotation": 0,
+          "target": "4-kitchen"
         }
       ],
       "infoHotspots": []
@@ -270,7 +282,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -278,28 +290,28 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.2113281429644758,
-          "pitch": 0.15520490460342984,
+          "yaw": 0.003006385894906316,
+          "pitch": 0.3839420551473527,
           "rotation": 0,
-          "target": "4-dining"
+          "target": "9-bedroom-2"
         },
         {
-          "yaw": -2.6976442294644443,
-          "pitch": 0.025080612622957688,
+          "yaw": 0.2773773639284496,
+          "pitch": -0.3183952857337147,
+          "rotation": 0,
+          "target": "12-loft"
+        },
+        {
+          "yaw": -2.5823015224314076,
+          "pitch": 0.7280420163045953,
           "rotation": 0,
           "target": "7-owners-bedroom"
         },
         {
-          "yaw": 0.09739426168417964,
-          "pitch": -0.2887726148992975,
+          "yaw": 2.373976805877464,
+          "pitch": 0.7537518820252451,
           "rotation": 0,
-          "target": "11-loft"
-        },
-        {
-          "yaw": -0.20967648910826142,
-          "pitch": -0.006843533901832899,
-          "rotation": 0,
-          "target": "9-bedroom-2"
+          "target": "2-second-floor-landing"
         }
       ],
       "infoHotspots": []
@@ -322,7 +334,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -330,16 +342,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.3148326032133175,
-          "pitch": -0.1342465806874884,
-          "rotation": 0,
-          "target": "8-owners-bathroom"
-        },
-        {
-          "yaw": -1.4487502912964452,
-          "pitch": -0.06415900876331904,
+          "yaw": -1.6619455638684784,
+          "pitch": 0.5119964173092466,
           "rotation": 0,
           "target": "6-3rd-floor-corridor"
+        },
+        {
+          "yaw": 2.335312919951404,
+          "pitch": 0.593991943191325,
+          "rotation": 0,
+          "target": "8-owners-bathroom"
         }
       ],
       "infoHotspots": []
@@ -362,7 +374,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -370,8 +382,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.4261833316296517,
-          "pitch": 0.040012372082438574,
+          "yaw": -1.5195771292841673,
+          "pitch": 0.44167350435382247,
           "rotation": 0,
           "target": "7-owners-bedroom"
         }
@@ -396,7 +408,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -404,16 +416,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.55216896852526,
-          "pitch": -0.05431407477215977,
+          "yaw": 0.45969159642908153,
+          "pitch": 0.5321358861431147,
           "rotation": 0,
           "target": "10-bathroom-2"
-        },
-        {
-          "yaw": 2.244121877301226,
-          "pitch": -0.04634585455290008,
-          "rotation": 0,
-          "target": "6-3rd-floor-corridor"
         }
       ],
       "infoHotspots": []
@@ -436,7 +442,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -444,8 +450,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.9001035875539118,
-          "pitch": -0.015586704162055653,
+          "yaw": 1.8077742444498215,
+          "pitch": 0.5284196781746822,
           "rotation": 0,
           "target": "9-bedroom-2"
         }
@@ -453,53 +459,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "11-loft",
-      "name": "Loft",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1000,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": 1.222507489401309,
-          "pitch": -0.0072131112863722535,
-          "rotation": 0,
-          "target": "6-3rd-floor-corridor"
-        },
-        {
-          "yaw": -2.156057225430759,
-          "pitch": 0.07623949173606981,
-          "rotation": 0,
-          "target": "12-bedroom-3"
-        },
-        {
-          "yaw": 0.02403684897430125,
-          "pitch": 0.028169974390792163,
-          "rotation": 0,
-          "target": "13-roof-terrace"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "12-bedroom-3",
+      "id": "11-bedroom-3",
       "name": "Bedroom 3",
       "levels": [
         {
@@ -516,7 +476,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -524,10 +484,50 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.3220060231971864,
-          "pitch": 0.11266914985578502,
+          "yaw": -1.329653845497548,
+          "pitch": 0.4083038437269053,
           "rotation": 0,
-          "target": "11-loft"
+          "target": "12-loft"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "12-loft",
+      "name": "Loft",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1024,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.06254591605870274,
+          "pitch": 0.20552362006320024,
+          "rotation": 0,
+          "target": "13-roof-terrace"
+        },
+        {
+          "yaw": -2.168278482387919,
+          "pitch": 0.49419667107240883,
+          "rotation": 0,
+          "target": "11-bedroom-3"
         }
       ],
       "infoHotspots": []
@@ -550,7 +550,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 1000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -558,20 +558,20 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.6026984318283084,
-          "pitch": 0.071044808295607,
+          "yaw": -0.6816843636299552,
+          "pitch": 0.39356238112390507,
           "rotation": 0,
-          "target": "11-loft"
+          "target": "12-loft"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "EYA Sutton Heights - Unit B2 Loft",
+  "name": "EYA Sutton Heights - Unit B2",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "autorotateEnabled": false,
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };
