@@ -451,7 +451,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "SMC The Dana B end",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
