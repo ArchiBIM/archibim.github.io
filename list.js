@@ -73,7 +73,9 @@ var data = {
 			"KNU Reston Faraday VR Tour",
 			"KNU Faraday VR Tour",
 			"KNU District Towns - 20 ft unit",
-			"KNU District Towns - 16 ft unit"
+			"KNU District Towns - 16 ft unit",
+			"KNU Birchwood B1",
+			"KNU Birchwood D3"
 			]
 		}
     ]
