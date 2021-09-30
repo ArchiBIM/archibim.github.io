@@ -76,7 +76,8 @@ var data = {
 			"KNU District Towns - 16 ft unit",
 			"KNU Birchwood B1",
 			"KNU Birchwood D3",
-			"KNU Ashburn Station - Unit A"
+			"KNU Ashburn Station - Unit A",
+			"KNU Birchwood Exterior"
 			]
 		}
     ]
