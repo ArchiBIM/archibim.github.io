@@ -25,7 +25,9 @@ var data = {
 				"SMC Cabin Branch - Avenlee F",
 				"SMC Cabin Branch - Oberon D",
 				"SMC Retreat at One",
-				"SMC RAO - Balfour H End"
+				"SMC RAO - Balfour H End",
+				"SMC ATL Blanche - Living Room",
+				"SMC ATL Blanche - Master Bath"
             ]
         },
         {
