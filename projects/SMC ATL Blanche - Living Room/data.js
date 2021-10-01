@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-livingroom---classic-a",
-      "name": "Livingroom - Classic A",
+      "id": "0-livingroom---classic-a_2",
+      "name": "Livingroom - Classic A_2",
       "levels": [
         {
           "tileSize": 256,
@@ -28,8 +28,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "1-livingroom---classic-b",
-      "name": "Livingroom - Classic B",
+      "id": "1-livingroom---classic-b_2",
+      "name": "Livingroom - Classic B_2",
       "levels": [
         {
           "tileSize": 256,
@@ -55,8 +55,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "2-livingroom---classic-c",
-      "name": "Livingroom - Classic C",
+      "id": "2-livingroom---classic-c_2",
+      "name": "Livingroom - Classic C_2",
       "levels": [
         {
           "tileSize": 256,
@@ -82,8 +82,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-livingroom---signature-a",
-      "name": "Livingroom - Signature A",
+      "id": "3-livingroom---signature-a_2",
+      "name": "Livingroom - Signature A_2",
       "levels": [
         {
           "tileSize": 256,
@@ -109,8 +109,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "4-livingroom---signature-b",
-      "name": "Livingroom - Signature B",
+      "id": "4-livingroom---signature-b_2",
+      "name": "Livingroom - Signature B_2",
       "levels": [
         {
           "tileSize": 256,
@@ -136,8 +136,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "5-livingroom---signature-c",
-      "name": "Livingroom - Signature C",
+      "id": "5-livingroom---signature-c_2",
+      "name": "Livingroom - Signature C_2",
       "levels": [
         {
           "tileSize": 256,
@@ -163,8 +163,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "6-livingroom---signature-d",
-      "name": "Livingroom - Signature D",
+      "id": "6-livingroom---signature-d_2",
+      "name": "Livingroom - Signature D_2",
       "levels": [
         {
           "tileSize": 256,
@@ -190,8 +190,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "7-livingroom---tailored-a",
-      "name": "Livingroom - Tailored A",
+      "id": "7-livingroom---tailored-a_2",
+      "name": "Livingroom - Tailored A_2",
       "levels": [
         {
           "tileSize": 256,
@@ -217,8 +217,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "8-livingroom---tailored-b",
-      "name": "Livingroom - Tailored B",
+      "id": "8-livingroom---tailored-b_2",
+      "name": "Livingroom - Tailored B_2",
       "levels": [
         {
           "tileSize": 256,
@@ -244,8 +244,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "9-livingroom---tailored-c",
-      "name": "Livingroom - Tailored C",
+      "id": "9-livingroom---tailored-c_2",
+      "name": "Livingroom - Tailored C_2",
       "levels": [
         {
           "tileSize": 256,
@@ -271,8 +271,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "10-livingroom---tailored-d",
-      "name": "Livingroom - Tailored D",
+      "id": "10-livingroom---tailored-d_2",
+      "name": "Livingroom - Tailored D_2",
       "levels": [
         {
           "tileSize": 256,
@@ -298,7 +298,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "SMC ATL Visualizer - Blanche Living",
+  "name": "SMC ATL Visualizer - Blanche Living_View 2",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
