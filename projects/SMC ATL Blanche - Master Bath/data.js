@@ -298,7 +298,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "SMC ATL Visualizer - Blanche Master Bath",
+  "name": "SMC - Blanche_Master Bathroom",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
