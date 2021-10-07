@@ -98,18 +98,52 @@ var APP_DATA = {
           "pitch": 0.2733114966828012,
           "rotation": 0,
           "target": "1-kitchen"
-        },
-        {
-          "yaw": -0.5379175492796513,
-          "pitch": 0.49490002859477933,
-          "rotation": 0,
-          "target": "4-owners-bedroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-bathroom",
+      "id": "3-owners-suite",
+      "name": "Owner's suite",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1024,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.9968021387094,
+          "pitch": 0.8592186620993338,
+          "rotation": 0,
+          "target": "2-living-room"
+        },
+        {
+          "yaw": 1.0237529053982755,
+          "pitch": 0.7136205286490558,
+          "rotation": 0,
+          "target": "4-bathroom"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "4-bathroom",
       "name": "Bathroom",
       "levels": [
         {
@@ -134,56 +168,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.3983200409010923,
-          "pitch": 0.5326116003014967,
+          "yaw": -1.3599210363681866,
+          "pitch": 0.5312997035041676,
+          "rotation": 0,
+          "target": "3-owners-suite"
+        },
+        {
+          "yaw": 1.724932311739555,
+          "pitch": 0.5141460828281463,
           "rotation": 0,
           "target": "5-bedroom-2"
-        },
-        {
-          "yaw": 1.6955505131356832,
-          "pitch": 0.5117846276000577,
-          "rotation": 0,
-          "target": "4-owners-bedroom"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "4-owners-bedroom",
-      "name": "Owner's bedroom",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        }
-      ],
-      "faceSize": 1024,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": 0.09314785032516326,
-          "pitch": 0.43878269702112327,
-          "rotation": 0,
-          "target": "3-bathroom"
-        },
-        {
-          "yaw": 0.7701600613307882,
-          "pitch": 0.43703653892512406,
-          "rotation": 0,
-          "target": "2-living-room"
         }
       ],
       "infoHotspots": []
@@ -214,22 +208,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.02530434002975923,
-          "pitch": 0.4622122727422351,
+          "yaw": 1.7533407783589965,
+          "pitch": 0.5662626827240942,
           "rotation": 0,
           "target": "6-flex-space"
         },
         {
-          "yaw": 1.8677325857186897,
-          "pitch": 0.862550416934706,
+          "yaw": -1.5075268283906826,
+          "pitch": 1.0067841561185844,
           "rotation": 0,
-          "target": "3-bathroom"
-        },
-        {
-          "yaw": 1.8424031514069918,
-          "pitch": 0.3641085079240671,
-          "rotation": 0,
-          "target": "5-bedroom-2"
+          "target": "4-bathroom"
         }
       ],
       "infoHotspots": []
@@ -259,12 +247,6 @@ var APP_DATA = {
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
-        {
-          "yaw": 1.8145233892076735,
-          "pitch": 0.7367869089232926,
-          "rotation": 0,
-          "target": "4-owners-bedroom"
-        },
         {
           "yaw": -3.0443503834846464,
           "pitch": 0.8780720935846826,
