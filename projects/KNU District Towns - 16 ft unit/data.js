@@ -103,8 +103,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-owners-suite",
-      "name": "Owner's suite",
+      "id": "3-primary-suite",
+      "name": "Primary Suite",
       "levels": [
         {
           "tileSize": 256,
@@ -128,23 +128,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.9968021387094,
-          "pitch": 0.8592186620993338,
+          "yaw": 0.7728438209119552,
+          "pitch": 0.7691897673076191,
           "rotation": 0,
-          "target": "2-living-room"
+          "target": "4-primary-bath"
         },
         {
-          "yaw": 1.0237529053982755,
-          "pitch": 0.7136205286490558,
+          "yaw": 2.71211704713426,
+          "pitch": 0.8273051510064686,
           "rotation": 0,
-          "target": "4-bathroom"
+          "target": "2-living-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "4-bathroom",
-      "name": "Bathroom",
+      "id": "4-primary-bath",
+      "name": "Primary Bath",
       "levels": [
         {
           "tileSize": 256,
@@ -168,16 +168,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.3599210363681866,
-          "pitch": 0.5312997035041676,
+          "yaw": -1.6019403818995688,
+          "pitch": 0.593518545193394,
           "rotation": 0,
-          "target": "3-owners-suite"
-        },
-        {
-          "yaw": 1.724932311739555,
-          "pitch": 0.5141460828281463,
-          "rotation": 0,
-          "target": "5-bedroom-2"
+          "target": "3-primary-suite"
         }
       ],
       "infoHotspots": []
@@ -208,16 +202,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.7533407783589965,
-          "pitch": 0.5662626827240942,
+          "yaw": 1.9020491630615997,
+          "pitch": 0.6050996761040626,
           "rotation": 0,
           "target": "6-flex-space"
-        },
-        {
-          "yaw": -1.5075268283906826,
-          "pitch": 1.0067841561185844,
-          "rotation": 0,
-          "target": "4-bathroom"
         }
       ],
       "infoHotspots": []
