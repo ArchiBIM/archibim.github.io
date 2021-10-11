@@ -79,6 +79,7 @@ var data = {
 			"KNU Birchwood B1",
 			"KNU Birchwood D3",
 			"KNU Ashburn Station - Unit A",
+			"KNU Ashburn Station - Unit C",
 			"KNU Birchwood Exterior"
 			]
 		}
