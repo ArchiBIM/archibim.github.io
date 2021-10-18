@@ -24,7 +24,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 0.21421123873330927,
+          "pitch": 0.2903023043372013,
+          "rotation": 0,
+          "target": "1-kitchen"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -51,11 +58,18 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 2.2953353927223485,
+          "pitch": 0.306330888106082,
+          "rotation": 0,
+          "target": "0-living-room"
+        }
+      ],
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "KNU Ashburn - Unit C",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,

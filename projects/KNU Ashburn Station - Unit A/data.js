@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-unit-a---kitchenliving",
-      "name": "Unit A - Kitchen/Living",
+      "id": "0-living-room--kitchen",
+      "name": "Living room / Kitchen",
       "levels": [
         {
           "tileSize": 256,
@@ -32,7 +32,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "KNU Ashburn Station - Unit A",
+  "name": "KNU Ashburn - Unit A",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
