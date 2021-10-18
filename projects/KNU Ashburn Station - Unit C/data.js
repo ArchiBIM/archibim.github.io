@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-living-room",
-      "name": "Living Room",
+      "name": "Living room",
       "levels": [
         {
           "tileSize": 256,
@@ -24,19 +24,12 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [
-        {
-          "yaw": 0.20653799670244588,
-          "pitch": 0.2950247546637854,
-          "rotation": 0,
-          "target": "1-kitchen--dining"
-        }
-      ],
+      "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "1-kitchen--dining",
-      "name": "Kitchen / Dining",
+      "id": "1-kitchen",
+      "name": "Kitchen",
       "levels": [
         {
           "tileSize": 256,
@@ -58,18 +51,11 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [
-        {
-          "yaw": 2.301482955368032,
-          "pitch": 0.315330944824737,
-          "rotation": 0,
-          "target": "0-living-room"
-        }
-      ],
+      "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "KNU Ashburn St. - Unit C",
+  "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
