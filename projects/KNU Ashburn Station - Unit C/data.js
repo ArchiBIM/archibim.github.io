@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-living-room",
-      "name": "Living room",
+      "id": "0-c-kitchen",
+      "name": "C Kitchen",
       "levels": [
         {
           "tileSize": 256,
@@ -20,23 +20,23 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
+        "yaw": 0.101381386790111,
+        "pitch": 0.18591472998111414,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 0.21421123873330927,
-          "pitch": 0.2903023043372013,
+          "yaw": 2.3015200693452176,
+          "pitch": 0.3142402403827482,
           "rotation": 0,
-          "target": "1-kitchen"
+          "target": "1-c-living-room"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-kitchen",
-      "name": "Kitchen",
+      "id": "1-c-living-room",
+      "name": "C Living Room",
       "levels": [
         {
           "tileSize": 256,
@@ -60,10 +60,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.2953353927223485,
-          "pitch": 0.306330888106082,
+          "yaw": 0.19342409887937784,
+          "pitch": 0.3058691184643578,
           "rotation": 0,
-          "target": "0-living-room"
+          "target": "0-c-kitchen"
         }
       ],
       "infoHotspots": []
