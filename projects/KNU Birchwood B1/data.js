@@ -26,17 +26,17 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.1446262104920013,
-          "pitch": 0.3569977849314423,
+          "yaw": -0.09388687736134571,
+          "pitch": 0.23777184253891193,
           "rotation": 0,
-          "target": "1-livingroom"
+          "target": "1-living-dining"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-livingroom",
-      "name": "Livingroom",
+      "id": "1-living-dining",
+      "name": "Living-Dining",
       "levels": [
         {
           "tileSize": 256,
@@ -60,23 +60,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.9125227767803636,
-          "pitch": 0.03273887333106629,
+          "yaw": -2.910074731496282,
+          "pitch": 0.05401647705284596,
           "rotation": 0,
           "target": "0-entry-with-den"
         },
         {
-          "yaw": 2.081815662680998,
-          "pitch": -0.018484270396537994,
+          "yaw": 2.082009407203123,
+          "pitch": -0.023561679101852917,
           "rotation": 0,
-          "target": "2-master-bedroom"
+          "target": "2-primary-bedroom"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-master-bedroom",
-      "name": "Master Bedroom",
+      "id": "2-primary-bedroom",
+      "name": "Primary Bedroom",
       "levels": [
         {
           "tileSize": 256,
@@ -100,23 +100,23 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.067094692428788,
-          "pitch": 0.14810837366821872,
+          "yaw": -2.730089072554799,
+          "pitch": 0.06927720075933941,
           "rotation": 0,
-          "target": "3-master-bathroom"
+          "target": "1-living-dining"
         },
         {
-          "yaw": -2.803885016197013,
-          "pitch": 0.08886998806947943,
+          "yaw": 2.097384065748396,
+          "pitch": 0.13865104529922156,
           "rotation": 0,
-          "target": "1-livingroom"
+          "target": "3-primary-bath"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-master-bathroom",
-      "name": "Master Bathroom",
+      "id": "3-primary-bath",
+      "name": "Primary Bath",
       "levels": [
         {
           "tileSize": 256,
@@ -140,10 +140,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.8921513600418693,
-          "pitch": 0.40707250103844217,
+          "yaw": 1.901494975871639,
+          "pitch": 0.018927279464559632,
           "rotation": 0,
-          "target": "2-master-bedroom"
+          "target": "2-primary-bedroom"
         }
       ],
       "infoHotspots": []
