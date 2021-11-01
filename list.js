@@ -24,6 +24,7 @@ var data = {
 				"SMC The Beck - Changes",
 				"SMC Cabin Branch - Avenlee F",
 				"SMC Cabin Branch - Oberon D",
+				"SMC Cabin Branch - Landry D",
 				"SMC Retreat at One",
 				"SMC RAO - Balfour H End",
 				"SMC ATL Blanche - Living Room",
