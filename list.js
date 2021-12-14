@@ -28,7 +28,8 @@ var data = {
 				"SMC Retreat at One",
 				"SMC RAO - Balfour H End",
 				"SMC ATL Blanche - Living Room",
-				"SMC ATL Blanche - Master Bath"
+				"SMC ATL Blanche - Master Bath",
+				"SMC The Santee VR"
             ]
         },
         {
