@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.11" apprev="18043" start="node23">
+  <panorama id="node1" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="134.043" fovmode="0">
+      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Main Level" copyright="" title="Main Level Classic A" longitude="" info="" source="" tags="classic|finishes|Main_Level|tag_A" heading="134.043" customnodeid="SMC-2257 ATL Visualizer - Blanche Kitchen Classic A_f0" author="" nodeid="node1">
+      <mapcoords y_floorplan_percent="44.9316" y="-0.766983" mapid="FloorPlan01" x_floorplan_percent="34.4978" x="0.21698"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="134.04" fovmode="0">
+      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Main Level" copyright="" title="Main Level Classic B" longitude="" info="" source="" tags="classic|finishes|Main_Level|tag_B" heading="134.04" customnodeid="SMC-2257 ATL Visualizer - Blanche Kitchen Classic B_f2" author="" nodeid="node2">
+      <mapcoords y_floorplan_percent="44.9316" y="-0.766983" mapid="FloorPlan01" x_floorplan_percent="34.4978" x="0.21698"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="134.04" fovmode="0">
+      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Main Level" copyright="" title="Main Level Classic C" longitude="" info="" source="" tags="classic|finishes|Main_Level|tag_C" heading="134.04" customnodeid="SMC-2257 ATL Visualizer - Blanche Kitchen Classic C_f4" author="" nodeid="node3">
+      <mapcoords y_floorplan_percent="44.9316" y="-0.766983" mapid="FloorPlan01" x_floorplan_percent="34.4978" x="0.21698"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="134.04" fovmode="0">
+      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Main Level" copyright="" title="Main Level Signature A" longitude="" info="" source="" tags="finishes|Main_Level|signature|tag_A" heading="134.04" customnodeid="SMC-2257 ATL Visualizer - Blanche Kitchen Signature A_f6" author="" nodeid="node4">
+      <mapcoords y_floorplan_percent="44.9316" y="-0.766983" mapid="FloorPlan01" x_floorplan_percent="34.4978" x="0.21698"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="134.04" fovmode="0">
+      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Main Level" copyright="" title="Main Level Signature B" longitude="" info="" source="" tags="finishes|Main_Level|signature|tag_B" heading="134.04" customnodeid="SMC-2257 ATL Visualizer - Blanche Kitchen Signature B_f8" author="" nodeid="node5">
+      <mapcoords y_floorplan_percent="44.9316" y="-0.766983" mapid="FloorPlan01" x_floorplan_percent="34.4978" x="0.21698"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="134.04" fovmode="0">
+      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Main Level" copyright="" title="Main Level Signature C" longitude="" info="" source="" tags="finishes|Main_Level|signature|tag_C" heading="134.04" customnodeid="SMC-2257 ATL Visualizer - Blanche Kitchen Signature C_f10" author="" nodeid="node6">
+      <mapcoords y_floorplan_percent="44.9316" y="-0.766983" mapid="FloorPlan01" x_floorplan_percent="34.4978" x="0.21698"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="134.04" fovmode="0">
+      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Main Level" copyright="" title="Main Level Signature D" longitude="" info="" source="" tags="finishes|Main_Level|signature|tag_D" heading="134.04" customnodeid="SMC-2257 ATL Visualizer - Blanche Kitchen Signature D_f12" author="" nodeid="node7">
+      <mapcoords y_floorplan_percent="44.9316" y="-0.766983" mapid="FloorPlan01" x_floorplan_percent="34.4978" x="0.21698"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="134.04" fovmode="0">
+      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Main Level" copyright="" title="Main Level Tailored A" longitude="" info="" source="" tags="finishes|Main_Level|tag_A|tailored" heading="134.04" customnodeid="SMC-2257 ATL Visualizer - Blanche Kitchen Tailored A_f14" author="" nodeid="node8">
+      <mapcoords y_floorplan_percent="44.9316" y="-0.766983" mapid="FloorPlan01" x_floorplan_percent="34.4978" x="0.21698"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="134.04" fovmode="0">
+      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Main Level" copyright="" title="Main Level Tailored B" longitude="" info="" source="" tags="finishes|Main_Level|tag_B|tailored" heading="134.04" customnodeid="SMC-2257 ATL Visualizer - Blanche Kitchen Tailored B_f16" author="" nodeid="node9">
+      <mapcoords y_floorplan_percent="44.9316" y="-0.766983" mapid="FloorPlan01" x_floorplan_percent="34.4978" x="0.21698"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="134.04" fovmode="0">
+      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Main Level" copyright="" title="Main Level Tailored C" longitude="" info="" source="" tags="finishes|Main_Level|tag_C|tailored" heading="134.04" customnodeid="SMC-2257 ATL Visualizer - Blanche Kitchen Tailored C_f18" author="" nodeid="node10">
+      <mapcoords y_floorplan_percent="44.9316" y="-0.766983" mapid="FloorPlan01" x_floorplan_percent="34.4978" x="0.21698"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="134.04" fovmode="0">
+      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Main Level" copyright="" title="Main Level Tailored D" longitude="" info="" source="" tags="finishes|Main_Level|tag_D|tailored" heading="134.04" customnodeid="SMC-2257 ATL Visualizer - Blanche Kitchen Tailored D_f20" author="" nodeid="node11">
+      <mapcoords y_floorplan_percent="44.9316" y="-0.766983" mapid="FloorPlan01" x_floorplan_percent="34.4978" x="0.21698"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start fov="70" projection="4" pan="47" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Upper Level" copyright="" title="Owner's Bath Classic A" longitude="" info="" source="" tags="classic|finishes|Owners_Bath|tag_A" heading="180" customnodeid="SMC-2257 ATL Visualizer - Blanche Bathroom Classic A_f1" author="" nodeid="node12">
+      <mapcoords y_floorplan_percent="22.4299" y="-0.32959" mapid="FloorPlan02" x_floorplan_percent="71.5976" x="0.415421"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start fov="70" projection="4" pan="47" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Upper Level" copyright="" title="Owner's Bath Classic B" longitude="" info="" source="" tags="classic|finishes|Owners_Bath|tag_B" heading="180" customnodeid="SMC-2257 ATL Visualizer - Blanche Bathroom Classic B_f3" author="" nodeid="node13">
+      <mapcoords y_floorplan_percent="22.4299" y="-0.32959" mapid="FloorPlan02" x_floorplan_percent="71.5976" x="0.415421"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start fov="70" projection="4" pan="47" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Upper Level" copyright="" title="Owner's Bath Classic C" longitude="" info="" source="" tags="classic|finishes|Owners_Bath|tag_C" heading="180" customnodeid="SMC-2257 ATL Visualizer - Blanche Bathroom Classic C_f5" author="" nodeid="node14">
+      <mapcoords y_floorplan_percent="22.4299" y="-0.32959" mapid="FloorPlan02" x_floorplan_percent="71.5976" x="0.415421"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start fov="70" projection="4" pan="47" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Upper Level" copyright="" title="Owner's Bath Signature A" longitude="" info="" source="" tags="finishes|Owners_Bath|signature|tag_A" heading="180" customnodeid="SMC-2257 ATL Visualizer - Blanche Bathroom Signature A_f7" author="" nodeid="node15">
+      <mapcoords y_floorplan_percent="22.4299" y="-0.32959" mapid="FloorPlan02" x_floorplan_percent="71.5976" x="0.415421"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start fov="70" projection="4" pan="47" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Upper Level" copyright="" title="Owner's Bath Signature B" longitude="" info="" source="" tags="finishes|Owners_Bath|signature|tag_B" heading="180" customnodeid="SMC-2257 ATL Visualizer - Blanche Bathroom Signature B_f9" author="" nodeid="node16">
+      <mapcoords y_floorplan_percent="22.4299" y="-0.32959" mapid="FloorPlan02" x_floorplan_percent="71.5976" x="0.415421"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start fov="70" projection="4" pan="47" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Upper Level" copyright="" title="Owner's Bath Signature C" longitude="" info="" source="" tags="finishes|Owners_Bath|signature|tag_C" heading="180" customnodeid="SMC-2257 ATL Visualizer - Blanche Bathroom Signature C_f11" author="" nodeid="node17">
+      <mapcoords y_floorplan_percent="22.4299" y="-0.32959" mapid="FloorPlan02" x_floorplan_percent="71.5976" x="0.415421"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start fov="70" projection="4" pan="47" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Upper Level" copyright="" title="Owner's Bath Signature D" longitude="" info="" source="" tags="finishes|Owners_Bath|signature|tag_D" heading="180" customnodeid="SMC-2257 ATL Visualizer - Blanche Bathroom Signature D_f13" author="" nodeid="node18">
+      <mapcoords y_floorplan_percent="22.4299" y="-0.32959" mapid="FloorPlan02" x_floorplan_percent="71.5976" x="0.415421"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start fov="70" projection="4" pan="47" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Upper Level" copyright="" title="Owner's Bath Tailored A" longitude="" info="" source="" tags="finishes|Owners_Bath|tag_A|tailored" heading="180" customnodeid="SMC-2257 ATL Visualizer - Blanche Bathroom Tailored A_f15" author="" nodeid="node19">
+      <mapcoords y_floorplan_percent="22.4299" y="-0.32959" mapid="FloorPlan02" x_floorplan_percent="71.5976" x="0.415421"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start fov="70" projection="4" pan="47" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Upper Level" copyright="" title="Owner's Bath Tailored B" longitude="" info="" source="" tags="finishes|Owners_Bath|tag_B|tailored" heading="180" customnodeid="SMC-2257 ATL Visualizer - Blanche Bathroom Tailored B_f17" author="" nodeid="node20">
+      <mapcoords y_floorplan_percent="22.4299" y="-0.32959" mapid="FloorPlan02" x_floorplan_percent="71.5976" x="0.415421"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node21" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start fov="70" projection="4" pan="47" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Upper Level" copyright="" title="Owner's Bath Tailored C" longitude="" info="" source="" tags="finishes|Owners_Bath|tag_C|tailored" heading="180" customnodeid="SMC-2257 ATL Visualizer - Blanche Bathroom Tailored C_f19" author="" nodeid="node21">
+      <mapcoords y_floorplan_percent="22.4299" y="-0.32959" mapid="FloorPlan02" x_floorplan_percent="71.5976" x="0.415421"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <input height="2048" levelingpitch="0" width="2048" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2048" width="2048" predecode="0" preload="0"/>
+      <level height="1024" width="1024" predecode="0" preload="0"/>
+      <level height="512" width="512" predecode="0" preload="0"/>
+      <level height="256" width="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start fov="70" projection="4" pan="47" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="" latitude="" description="The Blanche - Upper Level" copyright="" title="Owner's Bath Tailored D" longitude="" info="" source="" tags="finishes|Owners_Bath|tag_D|tailored" heading="180" customnodeid="SMC-2257 ATL Visualizer - Blanche Bathroom Tailored D_f21" author="" nodeid="node22">
+      <mapcoords y_floorplan_percent="22.4299" y="-0.32959" mapid="FloorPlan02" x_floorplan_percent="71.5976" x="0.415421"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node23" hideabout="1">
+    <input height="2000" levelingpitch="0" width="2000" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" pan="107" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="26.11.2019 г. 14:04" latitude="" description="Your Home" copyright="" title="Decoration A" longitude="" info="" source="" tags="Christmas|finishes|tag_A" heading="0" customnodeid="Christmas VR 2021 Decorations A f0" author="" nodeid="node23"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node24" hideabout="1">
+    <input height="2000" levelingpitch="0" width="2000" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" pan="107" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="26.11.2019 г. 14:04" latitude="" description="Your Home" copyright="" title="Decoration B" longitude="" info="" source="" tags="Christmas|finishes|tag_B" heading="0" customnodeid="Christmas VR 2021 Decorations B f6" author="" nodeid="node24"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node25" hideabout="1">
+    <input height="2000" levelingpitch="0" width="2000" levelbiashidpi="1.000" overlap="1" leveltilesize="510" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" projection="4" pan="107" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata comment="" datetime="26.11.2019 г. 14:04" latitude="" description="Your Home" copyright="" title="Decoration C" longitude="" info="" source="" tags="Christmas|finishes|tag_C" heading="0" customnodeid="Christmas VR 2021 Decorations C f14" author="" nodeid="node25"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" width="180" wordwrap="1" bordercolor="0x000000" border="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="0.3" zoomin="0" zoomoutpause="0" type="crossdissolve" softedge="0" zoomfov="50" zoomafteroutfov="50" zoomout="0" zoomspeed="2" enabled="1" blendcolor="0x727a7e" zoomafterinfov="90"/>
+    <flyintransition enabled="1" speed="1.80"/>
+    <animation syncanimationwithvideo="1" animsequence="Animation01" useinautorotation="0"/>
+    <control rubberband="0" speedwheel="2" contextfullscreen="1" contextprojections="0" simulatemass="1" lockedwheel="0" invertwheel="1" lockedmouse="0" hideabout="1" sensitivity="8" lockedkeyboard="0" invertcontrol="1" dblclickfullscreen="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" datetime="" latitude="" description="" copyright="" title="" longitude="" info="" source="" tags="" heading="0" customnodeid="" author="" nodeid="master"/>
+  </masternode>
+  <map height="2486" width="916" floorplannorth="0" transparent="1" type="file" id="FloorPlan01" tileformat="png" title="Main Level" bgcolor="rgba(255, 255, 255, 0)" zoomlevels="1"/>
+  <map height="2140" width="845" floorplannorth="0" transparent="1" type="file" id="FloorPlan02" tileformat="png" title="Upper Level" bgcolor="rgba(255, 255, 255, 0)" zoomlevels="1"/>
+</tour>
