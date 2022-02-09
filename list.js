@@ -92,7 +92,7 @@ var data = {
             ]
         },
 		{
-			name: "KNU",
+			name: "BBH",
 			dirs: [
 				"BBH-2201 The Heron - Package 1",
 				"BBH-2201 The Heron - Package 2"
