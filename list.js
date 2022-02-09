@@ -91,12 +91,12 @@ var data = {
                 "KNU Birchwood Exterior"
             ]
         },
-	{
-		name: "KNU",
-		dirs: [
-		"BBH-2201 The Heron - Package 1",
-		"BBH-2201 The Heron - Package 2"
-		]
-	}
+		{
+			name: "KNU",
+			dirs: [
+				"BBH-2201 The Heron - Package 1",
+				"BBH-2201 The Heron - Package 2"
+			]
+		}
     ]
 }
