@@ -278,12 +278,6 @@ var APP_DATA = {
           "target": "4-p1_2nd-floor-family-room"
         },
         {
-          "yaw": -2.441053301178318,
-          "pitch": -0.03216550657290895,
-          "rotation": 0,
-          "target": "9-p1_3rd-floor-bedroom-2"
-        },
-        {
           "yaw": 1.566212027584485,
           "pitch": -0.06592522484799801,
           "rotation": 0,
@@ -404,14 +398,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.5368830991030187,
-          "pitch": -0.01855892992809416,
+          "yaw": -0.5641011282153983,
+          "pitch": 0.03299174386049053,
           "rotation": 0,
           "target": "10-p1_3rd-floor-bathroom-2"
         },
         {
-          "yaw": -2.259798117541818,
-          "pitch": 0.0058403660009958,
+          "yaw": -2.2770596504710525,
+          "pitch": -0.02139438407419547,
           "rotation": 0,
           "target": "6-p1_3rd-floor-hall"
         }
@@ -444,8 +438,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.6797729969350623,
-          "pitch": -0.007339499787331505,
+          "yaw": -1.6350361328240943,
+          "pitch": 0.08036148671758525,
           "rotation": 0,
           "target": "9-p1_3rd-floor-bedroom-2"
         }

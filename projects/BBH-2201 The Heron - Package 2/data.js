@@ -278,12 +278,6 @@ var APP_DATA = {
           "target": "4-p1_2nd-floor-family-room"
         },
         {
-          "yaw": -2.430157190997427,
-          "pitch": 0.10696939081213586,
-          "rotation": 0,
-          "target": "9-p1_3rd-floor-bedroom-2"
-        },
-        {
           "yaw": 1.5982142900579657,
           "pitch": 0.14892513198940094,
           "rotation": 0,
@@ -404,14 +398,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.540419605455245,
-          "pitch": 0.012347266438734295,
+          "yaw": -0.575178619910913,
+          "pitch": 0,
           "rotation": 0,
           "target": "10-p1_3rd-floor-bathroom-2"
         },
         {
-          "yaw": -2.2092932629532633,
-          "pitch": 0.05228529308239871,
+          "yaw": -2.3147631956143613,
+          "pitch": -0.11620480776995201,
           "rotation": 0,
           "target": "6-p1_3rd-floor-hall"
         }
@@ -444,8 +438,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.734355437578257,
-          "pitch": 0.020391225030984117,
+          "yaw": -1.6183285566192112,
+          "pitch": -1.5993780522194356e-8,
           "rotation": 0,
           "target": "9-p1_3rd-floor-bedroom-2"
         }
@@ -612,6 +606,33 @@ var APP_DATA = {
           "target": "13-20-terrace-1"
         }
       ],
+      "infoHotspots": []
+    },
+    {
+      "id": "15-p1_3rd-floor-bathroom-2",
+      "name": "P1_3rd Floor-Bathroom 2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1000,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
       "infoHotspots": []
     }
   ],
