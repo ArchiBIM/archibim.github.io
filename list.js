@@ -38,7 +38,8 @@ var data = {
                 "SMC The Santee VR",
 				"SMC The Julianne 1544 VR",
 				"SMC The Tessa 1543 VR",
-				"SMC Maisie II Visualizer"
+				"SMC Maisie II Visualizer",
+				"SMC Lowell Visualizer"
             ]
         },
         {
