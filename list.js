@@ -38,14 +38,21 @@ var data = {
                 "SMC The Santee VR",
 				"SMC The Julianne 1544 VR",
 				"SMC The Tessa 1543 VR",
-				"SMC Maisie II Visualizer",
-				"SMC Lowell Visualizer"
             ]
         },
         {
             name: "NVR",
             dirs: [
                 //"NVR Unit 319 D3.2",
+            ]
+        },
+		{
+            name: "SMC Visualizers",
+            dirs: [
+                
+				"SMC Maisie II Visualizer",
+				"SMC Lowell Visualizer",
+				"SMC Santee Visualizer"
             ]
         },
         {
