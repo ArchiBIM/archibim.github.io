@@ -52,7 +52,9 @@ var data = {
                 
 				"SMC Maisie II Visualizer",
 				"SMC Lowell Visualizer",
-				"SMC Santee Visualizer"
+				"SMC Santee Visualizer",
+				"SMC The Eva - Visualizer",
+				"SMC The Eva Basement - Visualizer"
             ]
         },
         {
