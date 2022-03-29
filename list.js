@@ -35,9 +35,7 @@ var data = {
                 "SMC RAO - Balfour H End",
                 "SMC ATL Blanche - Living Room",
                 "SMC ATL Blanche - Master Bath",
-                "SMC The Santee VR",
-				"SMC The Julianne 1544 VR",
-				"SMC The Tessa 1543 VR",
+                "SMC The Santee VR"
             ]
         },
         {
@@ -55,6 +53,8 @@ var data = {
 				"SMC Santee Visualizer",
 				"SMC The Eva - Visualizer",
 				"SMC The Eva Basement - Visualizer"
+				"SMC The Julianne 1544 Visualizer",
+				"SMC The Tessa 1543 Visualizer",
             ]
         },
         {
