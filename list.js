@@ -52,9 +52,9 @@ var data = {
 				"SMC Lowell Visualizer",
 				"SMC Santee Visualizer",
 				"SMC The Eva - Visualizer",
-				"SMC The Eva Basement - Visualizer"
+				"SMC The Eva Basement - Visualizer",
 				"SMC The Julianne 1544 Visualizer",
-				"SMC The Tessa 1543 Visualizer",
+				"SMC The Tessa 1543 Visualizer"
             ]
         },
         {
@@ -87,7 +87,7 @@ var data = {
                 "FSC Dylan - Unit A3",
                 "FSC Dylan - Unit B1",
                 "FSC Dylan - Unit C5",
-                "FSC Dylan - Unit E1",
+                "FSC Dylan - Unit E1"
             ]
         },
         {
