@@ -55,7 +55,8 @@ var data = {
 				"SMC The Eva Basement - Visualizer",
 				"SMC The Julianne 1544 Visualizer",
 				"SMC The Tessa 1543 Visualizer",
-				"SMC The Reuben - Visualizer"
+				"SMC The Reuben - Visualizer",
+				"SMC The Caswell - Visualizer"
             ]
         },
         {
