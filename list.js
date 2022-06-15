@@ -116,6 +116,13 @@ var data = {
 				"BBH-2201 The Heron - Package 5",
 				"BBH Reserve ar Bells Ferry"
 			]
-		}
+		},
+        {
+            name: "KASA",
+            dirs: [
+                "KASA 16' Unit Hahns Peak",
+                "KASA 20' Pearl Lake",
+            ]
+        }
     ]
 }
