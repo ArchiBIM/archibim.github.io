@@ -58,9 +58,11 @@ var data = {
 				"SMC The Reuben - Visualizer",
 				"SMC The Caswell - Visualizer",
 				"SMC The Wanda - Visualizer",
-                                "SMC The Hazelwood - Visualizer",
+				"SMC The Wanda Deluxe - Visualizer",
+				"SMC The Wanda Platinum - Visualizer",
+                "SMC The Hazelwood - Visualizer",
 				"SMC The Louisa - Visualizer",
-                                "SMC The Jenkins - Visualizer"
+                "SMC The Jenkins - Visualizer"
             ]
         },
         {
