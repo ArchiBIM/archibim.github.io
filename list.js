@@ -110,7 +110,8 @@ var data = {
                 "KNU Birchwood D3",
                 "KNU Ashburn Station - Unit A",
                 "KNU Ashburn Station - Unit C",
-                "KNU Birchwood Exterior"
+                "KNU Birchwood Exterior",
+				"KNU Rockland III - Unit 1"
             ]
         },
 		{
