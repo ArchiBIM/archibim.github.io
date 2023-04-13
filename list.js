@@ -68,6 +68,7 @@ var data = {
 				"SMC The Beck - Visualizer",
 				"SMC The Juniper - Visualizer",
 				"SMC The Olivia - Visualizer",
+				"SMC The Olivia - Premier A - Visualizer",
 				"SMC The Salters - Visualizer",
 				"SMC RAL The Tessa - Visualizer"
             ]
