@@ -70,7 +70,8 @@ var data = {
 				"SMC The Olivia - Visualizer",
 				"SMC The Olivia - Premier A - Visualizer",
 				"SMC The Salters - Visualizer",
-				"SMC RAL The Tessa - Visualizer"
+				"SMC RAL The Tessa - Visualizer",
+				"SMC The Peachtree - Visualizer"
             ]
         },
         {
