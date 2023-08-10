@@ -73,7 +73,8 @@ var data = {
 				"SMC RAL The Tessa - Visualizer",
 				"SMC RAL The Julianne - Visualizer",
 				"SMC The Peachtree - Visualizer",
-				"SMC Hayworth - Visualizer - Calssic"
+				"SMC Hayworth - Visualizer - Calssic",
+				"SMC The Cade - Visualizer"
             ]
         },
         {
