@@ -74,7 +74,8 @@ var data = {
 				"SMC RAL The Julianne - Visualizer",
 				"SMC The Peachtree - Visualizer",
 				"SMC Hayworth - Visualizer - Calssic",
-				"SMC The Cade - Visualizer"
+				"SMC The Cade - Visualizer",
+				"SMC NVA Presidents Pointe - The Manning - Visualizer"
             ]
         },
         {
