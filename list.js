@@ -77,6 +77,7 @@ var data = {
 				"SMC The Peachtree - Visualizer",
 				"SMC Hayworth - Visualizer - Calssic",
 				"SMC The Cade - Visualizer",
+				"SMC The Cade - GSP Greenville - Visualizer",
 				"SMC NVA Presidents Pointe - The Manning - Visualizer",
 				"SMC The Congaree - Visualizer"
             ]
