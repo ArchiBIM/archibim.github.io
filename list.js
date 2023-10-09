@@ -81,7 +81,8 @@ var data = {
 				"SMC The Cade - GSP Greenville - Visualizer",
 				"SMC NVA Presidents Pointe - The Manning - Visualizer",
 				"SMC The Congaree - Visualizer",
-				"SMC The Burke - GSP Visualizer - Inspired A"
+				"SMC The Burke - GSP Visualizer - Inspired A",
+				"SMC GSP The Santee - Greenville Rollover - Inspired A"
             ]
         },
         {
