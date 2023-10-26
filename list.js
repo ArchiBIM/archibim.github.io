@@ -82,7 +82,8 @@ var data = {
 				"SMC NVA Presidents Pointe - The Manning - Visualizer",
 				"SMC The Congaree - Visualizer",
 				"SMC The Burke - GSP Visualizer - Inspired A",
-				"SMC GSP The Santee - Greenville Rollover - Inspired A"
+				"SMC GSP The Santee - Greenville Rollover - Inspired A",
+				"SMC The Shiloh CLT - Visualizer"
             ]
         },
         {
