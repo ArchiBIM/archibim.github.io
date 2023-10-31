@@ -64,6 +64,7 @@ var data = {
 				"SMC The Hazelwood ASG - Visualizer",
 				"SMC The Hazelwood at Harvest Ridge - Visualizer",
 				"SMC The Hazelwood - GHP - Inspired A",
+				"SMC The Hazelwood  CLT - Signature A",
 				"SMC The Louisa - Visualizer",
                 "SMC The Jenkins - Visualizer",
 				"SMC The Hugo - Visualizer",
