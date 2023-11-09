@@ -84,7 +84,8 @@ var data = {
 				"SMC The Congaree - Visualizer",
 				"SMC The Burke - GSP Visualizer - Inspired A",
 				"SMC GSP The Santee - Greenville Rollover - Inspired A",
-				"SMC The Shiloh CLT - Visualizer"
+				"SMC The Shiloh CLT - Visualizer",
+				"SMC The Seneca CLT - Premier B"
             ]
         },
         {
