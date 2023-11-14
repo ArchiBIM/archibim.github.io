@@ -28,8 +28,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "1-bathroom",
-      "name": "Bathroom",
+      "id": "1-primary-bath",
+      "name": "Primary Bath",
       "levels": [
         {
           "tileSize": 256,
@@ -55,7 +55,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "SMC-GSP The Santee Greenville Rollover-Inspired A",
+  "name": "SMC-The Santee Rollover-CLT-Refined A",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
