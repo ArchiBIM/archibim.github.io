@@ -76,6 +76,7 @@ var data = {
 				"SMC The Salters - Visualizer",
 				"SMC RAL The Tessa - Visualizer",
 				"SMC RAL The Julianne - Visualizer",
+				"SMC The Julianne RIC - Taylored A",
 				"SMC The Peachtree - Visualizer",
 				"SMC Hayworth - Visualizer - Calssic",
 				"SMC The Cade - Visualizer",
