@@ -67,6 +67,7 @@ var data = {
 				"SMC The Hazelwood  CLT - Signature A",
 				"SMC The Louisa - Visualizer",
                 "SMC The Jenkins - Visualizer",
+				"SMC The Jenkins - RIC Rollover - Signature ABD",
 				"SMC The Hugo - Visualizer",
 				"SMC Balfour Visualizer",
 				"SMC The Beck - Visualizer",
