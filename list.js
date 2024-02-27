@@ -136,7 +136,8 @@ var data = {
                 "KNU Ashburn Station - Unit A",
                 "KNU Ashburn Station - Unit C",
                 "KNU Birchwood Exterior",
-				"KNU Rockland III - Unit 1"
+				"KNU Rockland III - Unit 1",
+				"KNU 16-ft TH VR Scene"
             ]
         },
 		{
