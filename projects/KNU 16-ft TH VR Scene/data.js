@@ -26,8 +26,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.131982598910823,
-          "pitch": -0.463670970895091,
+          "yaw": 3.094175761737394,
+          "pitch": -0.2522425942924169,
           "rotation": 0,
           "target": "2-3-family-room"
         }
@@ -60,14 +60,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.1919354880355986,
-          "pitch": -0.24949984776616319,
-          "rotation": 0,
-          "target": "3-4-owners-suite-bedroom"
-        },
-        {
-          "yaw": 0.048860014564676035,
-          "pitch": 0.2843435039833224,
+          "yaw": 0.7250944005589766,
+          "pitch": 0.18848064385807461,
           "rotation": 0,
           "target": "2-3-family-room"
         }
@@ -100,10 +94,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.002899949792596,
-          "pitch": 0.1414980753376618,
+          "yaw": -0.0019604405884194875,
+          "pitch": 0.26786526905563335,
           "rotation": 0,
           "target": "1-2-kitchen_dining"
+        },
+        {
+          "yaw": -0.2587280978496267,
+          "pitch": 0.39985932386968237,
+          "rotation": 0,
+          "target": "0-1-foyer"
+        },
+        {
+          "yaw": -1.2943579498621531,
+          "pitch": -0.3266860214032743,
+          "rotation": 0,
+          "target": "3-4-owners-suite-bedroom"
         }
       ],
       "infoHotspots": []
@@ -134,14 +140,20 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.3391679023855154,
-          "pitch": 0.17253922609953953,
+          "yaw": -2.4677083331016707,
+          "pitch": 0.27108004457004853,
+          "rotation": 0,
+          "target": "2-3-family-room"
+        },
+        {
+          "yaw": 2.759254940426562,
+          "pitch": 0.22234882267973433,
           "rotation": 0,
           "target": "4-5-owners-suite-bathroom"
         },
         {
-          "yaw": 0.14771655611266254,
-          "pitch": 0.16466514251606412,
+          "yaw": -2.5297426048588125,
+          "pitch": 0.522236370879293,
           "rotation": 0,
           "target": "5-6-bedroom-2"
         }
@@ -174,8 +186,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.5541016481543863,
-          "pitch": 0.2746929501131099,
+          "yaw": 1.5500395593535723,
+          "pitch": 0.24893934105368487,
           "rotation": 0,
           "target": "3-4-owners-suite-bedroom"
         }
@@ -208,16 +220,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.11942926123569286,
-          "pitch": 0.25412092171846545,
-          "rotation": 0,
-          "target": "3-4-owners-suite-bedroom"
-        },
-        {
-          "yaw": 0.3413009620710401,
-          "pitch": 0.06774182196787493,
+          "yaw": 0.33049468955811,
+          "pitch": 0.08877465464147427,
           "rotation": 0,
           "target": "6-7-bathroom-2"
+        },
+        {
+          "yaw": -0.3252230169286676,
+          "pitch": -0.10916699770510263,
+          "rotation": 0,
+          "target": "7-8-loft"
         }
       ],
       "infoHotspots": []
@@ -248,8 +260,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.0876382375279725,
-          "pitch": 0.4512146383103044,
+          "yaw": 3.1285138016471556,
+          "pitch": 0.3528677476291744,
           "rotation": 0,
           "target": "5-6-bedroom-2"
         }
@@ -280,11 +292,18 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 1.9974216279381407,
+          "pitch": 0.27994926863019387,
+          "rotation": 0,
+          "target": "2-3-family-room"
+        }
+      ],
       "infoHotspots": []
     }
   ],
-  "name": "KNU NU West Park Revised 16' TH",
+  "name": "KNU - NU West Park Revised 16' TH",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
