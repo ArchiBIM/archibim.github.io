@@ -157,6 +157,12 @@ var data = {
                 "KASA 16' Unit Hahns Peak",
                 "KASA 20' Pearl Lake",
             ]
-        }
+        },
+		{
+			name: "TEST",
+			dirs: [
+				"AR_Location"
+			]
+		}
     ]
 }
