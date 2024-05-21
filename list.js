@@ -92,8 +92,9 @@ var data = {
             ]
         },
         {
-            name: "KHOV",
+            name: "EXTERIORS",
             dirs: [
+				"RYAN Creekside Rain Garden"
                 //"KHOV Pender Oaks Unit F Royce Color",
                 //"KHOV Pender Oaks Unit F Royce",
                 //"KHOV Pender Oaks Unit B Copeland",
