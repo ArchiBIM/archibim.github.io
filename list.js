@@ -89,7 +89,8 @@ var data = {
 				"SMC GSP The Santee - Greenville Rollover - Inspired A",
 				"SMC The Shiloh CLT - Visualizer",
 				"SMC The Seneca CLT - Premier B",
-				"SMC The Stono - Visualizer - Premier A"
+				"SMC The Stono - Visualizer - Premier A",
+				"SMC The Jenkins - CHS Tailored A"
             ]
         },
         {
