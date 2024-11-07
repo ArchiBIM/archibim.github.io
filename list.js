@@ -91,7 +91,8 @@ var data = {
 				"SMC The Seneca CLT - Premier B",
 				"SMC The Stono - Visualizer - Premier A",
 				"SMC The Jenkins - CHS Tailored A",
-				"SMC The Jenkins - CHS Signature A Premier A"
+				"SMC The Jenkins - CHS Signature A Premier A",
+				"SMC The Jenkins - CHS"
             ]
         },
         {
