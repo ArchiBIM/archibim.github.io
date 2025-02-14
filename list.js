@@ -95,6 +95,12 @@ var data = {
 				"SMC The Jenkins - CHS"
             ]
         },
+		{
+            name: "SMCH",
+            dirs: [
+				"SMCH_Norby_Interior"
+            ]
+        },
         {
             name: "EXTERIORS",
             dirs: [
