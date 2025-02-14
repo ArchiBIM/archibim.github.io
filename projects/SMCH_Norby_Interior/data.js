@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-view1-breackfast",
-      "name": "View1 Breackfast",
+      "name": "View 1: Breakfast",
       "levels": [
         {
           "tileSize": 256,
@@ -48,7 +48,7 @@ var APP_DATA = {
     },
     {
       "id": "1-view2-living",
-      "name": "View2 Living",
+      "name": "View 2: Living",
       "levels": [
         {
           "tileSize": 256,
@@ -88,7 +88,7 @@ var APP_DATA = {
     },
     {
       "id": "2-view3-kitchen",
-      "name": "View3 Kitchen",
+      "name": "View 3: Kitchen",
       "levels": [
         {
           "tileSize": 256,
@@ -128,7 +128,7 @@ var APP_DATA = {
     },
     {
       "id": "3-view4-bedroom",
-      "name": "View4 Bedroom",
+      "name": "View 4: Bedroom",
       "levels": [
         {
           "tileSize": 256,
@@ -168,7 +168,7 @@ var APP_DATA = {
     },
     {
       "id": "4-view5-bathroom",
-      "name": "View5 Bathroom",
+      "name": "View 5: Bathroom",
       "levels": [
         {
           "tileSize": 256,
@@ -208,7 +208,7 @@ var APP_DATA = {
     },
     {
       "id": "5-view6-storage",
-      "name": "View6 Storage",
+      "name": "View 6: Storage",
       "levels": [
         {
           "tileSize": 256,
