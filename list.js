@@ -98,7 +98,8 @@ var data = {
 		{
             name: "SMCH",
             dirs: [
-				"SMCH_Norby_Interior"
+				"SMCH_Norby_Interior",
+				"SMCH_Norby_Interior_Garage"
             ]
         },
         {
