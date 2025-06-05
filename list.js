@@ -92,7 +92,9 @@ var data = {
 				"SMC The Stono - Visualizer - Premier A",
 				"SMC The Jenkins - CHS Tailored A",
 				"SMC The Jenkins - CHS Signature A Premier A",
-				"SMC The Jenkins - CHS"
+				"SMC The Jenkins - CHS",
+				"SMC_The-Cartright_Platinum-A",
+				"SMC_The-Fairchild_Platinum-D",
             ]
         },
 		{
