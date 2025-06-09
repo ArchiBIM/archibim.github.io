@@ -95,6 +95,7 @@ var data = {
 				"SMC The Jenkins - CHS",
 				"SMC_The-Cartright_Platinum-A",
 				"SMC_The-Fairchild_Platinum-D",
+				"SMC_The-Cartright_Color-Preview"
             ]
         },
 		{
@@ -125,17 +126,17 @@ var data = {
                 "EYA Midline - Reston - Unit A - R2",
                 "EYA Midline - Reston - Unit B - R2",
                 "EYA Midline - Reston - Unit C - R2",
-                "EYA Sutton Heights - Unit B2",
-                "EYA Sutton Heights - Unit C1"
+                //"EYA Sutton Heights - Unit B2",
+                //"EYA Sutton Heights - Unit C1"
             ]
         },
         {
             name: "FSC",
             dirs: [
-                "FSC Dylan - Unit A3",
-                "FSC Dylan - Unit B1",
-                "FSC Dylan - Unit C5",
-                "FSC Dylan - Unit E1"
+                //"FSC Dylan - Unit A3",
+                //"FSC Dylan - Unit B1",
+                //"FSC Dylan - Unit C5",
+                //"FSC Dylan - Unit E1"
             ]
         },
         {
@@ -157,19 +158,19 @@ var data = {
 		{
 			name: "BBH",
 			dirs: [
-				"BBH-2201 The Heron - Package 1",
-				"BBH-2201 The Heron - Package 2",
-				"BBH-2201 The Heron - Package 3",
-				"BBH-2201 The Heron - Package 4",
-				"BBH-2201 The Heron - Package 5",
-				"BBH Reserve ar Bells Ferry"
+				//"BBH-2201 The Heron - Package 1",
+				//"BBH-2201 The Heron - Package 2",
+				//"BBH-2201 The Heron - Package 3",
+				//"BBH-2201 The Heron - Package 4",
+				//"BBH-2201 The Heron - Package 5",
+				//"BBH Reserve ar Bells Ferry"
 			]
 		},
         {
             name: "KASA",
             dirs: [
-                "KASA 16' Unit Hahns Peak",
-                "KASA 20' Pearl Lake",
+                //"KASA 16' Unit Hahns Peak",
+                //"KASA 20' Pearl Lake",
             ]
         },
 		{
