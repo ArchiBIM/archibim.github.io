@@ -99,6 +99,8 @@ var data = {
 				"SMC_The-Cartright_Platinum-A - Hi Visibility",
 				"SMC_The-Fairchild_Platinum-D - Interior Unit",
 				"SMC_The-Fairchild_Color-Preview",
+				"SMC The Fairchild - Lower Level",
+				"SMC The Cartright - Lower Level"
             ]
         },
 		{
