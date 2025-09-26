@@ -158,7 +158,8 @@ var data = {
                 "KNU Birchwood Exterior",
 				"KNU Rockland III - Unit 1",
 				"KNU 16-ft TH VR Scene",
-				"KNU-2501_Catoctin-Walk_2over2-lower-Griffin"
+				"KNU-2501_Catoctin-Walk_2over2-lower-Griffin",
+				"KNU-2501_Catoctin-Walk_TH-Langford"
             ]
         },
 		{
