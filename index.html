@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.6/handlebars.js"></script>
+    <title>ArchiBIM previews page</title>
+</head>
+
+<body>
+    <header>
+        <div class="heading">ArchiBIM</div>
+        <div class="side-info">list of web hosted VR wireframe previews</div>
+    </header>
+    <div id="container">
+    </div>
+    <script id="entry-template" type="text/x-handlebars-template">
+        {{#each clients}}
+        <div class="group">
+            <div class="client">{{name}}</div>
+            {{#each dirs as |item i|}}
+            <a href="projects/{{this}}/index.html" target="_blank">{{addone i}}. {{this}}</a> {{/each}}
+        </div>
+        {{/each}}
+    </script>
+    <script id="list" src="list.js"></script>
+    <script id="parser" src="js/parser.js"></script>
+</body>
+
+</html>
