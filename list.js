@@ -120,6 +120,7 @@ var data = {
                 //"KHOV Pender Oaks Unit C Dunbar",
                 //"KHOV Pender Oaks Unit D Evert",
                 //"KHOV Pender Oaks Unit E Larkin",
+				"SMC_Quartz_Exterior_VR"
             ]
         },
         {
