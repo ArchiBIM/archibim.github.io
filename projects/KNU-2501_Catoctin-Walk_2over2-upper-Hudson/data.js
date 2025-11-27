@@ -26,16 +26,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.5693216817249134,
-          "pitch": 0.043654939145232774,
+          "yaw": -0.38173071199944353,
+          "pitch": 0.020591717370049167,
           "rotation": 0,
           "target": "1-2family-room"
-        },
-        {
-          "yaw": -1.9573807262391245,
-          "pitch": -0.36834947822768527,
-          "rotation": 0,
-          "target": "2-3owners-suite-bedroom"
         }
       ],
       "infoHotspots": []
@@ -66,10 +60,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.2581658295839304,
-          "pitch": 0.1276495415849439,
+          "yaw": -2.259940276082416,
+          "pitch": 0.0685578734835186,
           "rotation": 0,
           "target": "0-1kitchen-dining-room"
+        },
+        {
+          "yaw": -1.771360325670564,
+          "pitch": -0.01234896775970995,
+          "rotation": 0,
+          "target": "2-3owners-suite-bedroom"
         }
       ],
       "infoHotspots": []
@@ -100,20 +100,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.28483767537605686,
-          "pitch": 0.05535223892515262,
+          "yaw": -0.292694497963371,
+          "pitch": 0.07610131320692304,
           "rotation": 0,
           "target": "3-4owners-suite-bathroom"
         },
         {
-          "yaw": 0.27722562535813466,
-          "pitch": -0.1047258373543194,
-          "rotation": 0,
-          "target": "7-8rooftop-terrace"
-        },
-        {
-          "yaw": 0.26574286289947935,
-          "pitch": 0.2192521183999787,
+          "yaw": 0.3305472745767055,
+          "pitch": 0.10276645964139242,
           "rotation": 0,
           "target": "4-5bedroom-2"
         }
@@ -146,8 +140,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 3.11164532164881,
-          "pitch": 0.04522833224050693,
+          "yaw": 3.1221534437416896,
+          "pitch": 0.18289324776156235,
           "rotation": 0,
           "target": "2-3owners-suite-bedroom"
         }
@@ -180,8 +174,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.03331113092212945,
-          "pitch": 0.24089347742998868,
+          "yaw": -0.0249947623460276,
+          "pitch": 0.0996376909768486,
           "rotation": 0,
           "target": "5-6bedroom-3"
         }
@@ -214,16 +208,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.13323384438722563,
-          "pitch": 0.3160322178536763,
+          "yaw": 0.11449689646639172,
+          "pitch": 0.13332043803061033,
           "rotation": 0,
           "target": "6-7hall-bathroom"
-        },
-        {
-          "yaw": 0.03503909278389372,
-          "pitch": 0.039133318406047835,
-          "rotation": 0,
-          "target": "2-3owners-suite-bedroom"
         }
       ],
       "infoHotspots": []
@@ -254,10 +242,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.5847144993036846,
-          "pitch": 0.10227990489613603,
+          "yaw": 2.77904172892843,
+          "pitch": 0.1239629859721596,
           "rotation": 0,
-          "target": "5-6bedroom-3"
+          "target": "7-8rooftop-terrace"
         }
       ],
       "infoHotspots": []
@@ -288,8 +276,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.305351970650584,
-          "pitch": 0.02412598702924562,
+          "yaw": 2.2889654932850316,
+          "pitch": 0.06242301823817442,
           "rotation": 0,
           "target": "0-1kitchen-dining-room"
         }
@@ -297,7 +285,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "KNU-Catoctin Walk-2over2 upper-Hudson",
+  "name": "KNU 2over2 upper-Hudson",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
