@@ -161,7 +161,8 @@ var data = {
 				"KNU 16-ft TH VR Scene",
 				"KNU-2501_Catoctin-Walk_2over2-lower-Griffin",
 				"KNU-2501_Catoctin-Walk_TH-Langford",
-				"KNU-2501_Catoctin-Walk_2over2-upper-Hudson"
+				"KNU-2501_Catoctin-Walk_2over2-upper-Hudson",
+				"KNU-2501_Catoctin-Walk_Hudson-Modified"
             ]
         },
 		{
