@@ -162,7 +162,8 @@ var data = {
 				"KNU-2501_Catoctin-Walk_2over2-lower-Griffin",
 				"KNU-2501_Catoctin-Walk_TH-Langford",
 				"KNU-2501_Catoctin-Walk_2over2-upper-Hudson",
-				"KNU-2501_Catoctin-Walk_Hudson-Modified"
+				"KNU-2501_Catoctin-Walk_Hudson-Modified",
+				"KNU 501 Eye Street VR"
             ]
         },
 		{
